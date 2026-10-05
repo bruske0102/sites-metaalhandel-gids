@@ -1,0 +1,31 @@
+{
+  "id": 489856,
+  "slug": "g-n-autos",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "G & N Auto's",
+  "straat": "Graham Bellstraat 18",
+  "postcode": "8013PL",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "038-4602324",
+  "website": "http://www.gn-autos.nl",
+  "lat": 52.485639,
+  "lon": 6.132973,
+  "status": "gesloten",
+  "oude_url": "/overijssel/zwolle/g-n-autos/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "G & N Auto's 038-4602324",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

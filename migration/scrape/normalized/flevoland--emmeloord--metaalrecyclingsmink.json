@@ -1,0 +1,38 @@
+{
+  "id": 2409295,
+  "slug": "metaalrecyclingsmink",
+  "provincie": "flevoland",
+  "plaats": "emmeloord",
+  "naam": "Metaalrecyclingsmink",
+  "straat": "Hoefbladstraat 33",
+  "postcode": "8302 VM",
+  "plaatsnaam": "Emmeloord",
+  "telefoon": "0613370294",
+  "email": "klaas1205@hotmail.nl",
+  "website": "http://Metaalrecyclingsmink.nl",
+  "lat": 52.7145942,
+  "lon": 5.743557099999999,
+  "omschrijving": "Metaalrecycling Smink inkoop van oud ijzer en metalen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/emmeloord/metaalrecyclingsmink/",
+  "meta_title": "Metaalrecyclingsmink 0613370294 klaas1205@hotmail.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmeloord. Dagprijs handel (Flevoland).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/emmeloord/metaalrecyclingsmink/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

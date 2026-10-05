@@ -1,0 +1,41 @@
+{
+  "id": 489747,
+  "slug": "bj-pril",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "B.J. Pril",
+  "straat": "Koopmanstraat 15",
+  "postcode": "7532SB",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4305607",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.221801,
+  "lon": 6.936269,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/bj-pril/",
+  "meta_title": "B.J. Pril 053-4305607",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/bj-pril/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

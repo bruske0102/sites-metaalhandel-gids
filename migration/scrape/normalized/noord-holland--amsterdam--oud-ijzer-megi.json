@@ -1,0 +1,37 @@
+{
+  "id": 490268,
+  "slug": "oud-ijzer-megi",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Oud IJzer Megi",
+  "straat": "A Eduardine Kokplnts 61",
+  "postcode": "1063PW",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-12390101",
+  "email": null,
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.380344,
+  "lon": 4.816664,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/oud-ijzer-megi/",
+  "meta_title": "Oud IJzer Megi 06-12390101",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/oud-ijzer-megi/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

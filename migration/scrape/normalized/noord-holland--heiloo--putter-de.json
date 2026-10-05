@@ -1,0 +1,41 @@
+{
+  "id": 490315,
+  "slug": "putter-de",
+  "provincie": "noord-holland",
+  "plaats": "heiloo",
+  "naam": "Putter De",
+  "straat": "De Boog 10",
+  "postcode": "1851ZS",
+  "plaatsnaam": "Heiloo",
+  "telefoon": "06-28192936",
+  "email": null,
+  "website": null,
+  "lat": 52.589751,
+  "lon": 4.708501,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/heiloo/putter-de/",
+  "meta_title": "Putter De 06-28192936",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heiloo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/heiloo/putter-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

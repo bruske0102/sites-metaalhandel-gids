@@ -1,0 +1,31 @@
+{
+  "id": 490354,
+  "slug": "schouten-r-j",
+  "provincie": "noord-holland",
+  "plaats": "hoorn",
+  "naam": "Schouten R J",
+  "straat": "Bobeldijkerweg 16",
+  "postcode": "1625NZ",
+  "plaatsnaam": "Hoorn nh",
+  "telefoon": "0229-234796",
+  "website": "http://www.amquads.nl",
+  "lat": 52.65856,
+  "lon": 5.040268,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/hoorn/schouten-r-j/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Schouten R J 0229-234796",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoorn nh. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

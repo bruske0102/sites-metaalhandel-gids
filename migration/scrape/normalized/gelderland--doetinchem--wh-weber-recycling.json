@@ -1,0 +1,37 @@
+{
+  "id": 490438,
+  "slug": "wh-weber-recycling",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "W.H. Weber Recycling",
+  "straat": "Oude Terborgseweg 197",
+  "postcode": "7004DW",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-345656",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.950402,
+  "lon": 6.307058,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/wh-weber-recycling/",
+  "meta_title": "W.H. Weber Recycling 0314-345656",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/wh-weber-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

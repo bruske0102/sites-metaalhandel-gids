@@ -1,0 +1,37 @@
+{
+  "id": 490416,
+  "slug": "veen-ijzerhandel-g-van",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Veen IJzerhandel G van",
+  "straat": "Salomon de Braystraat 28",
+  "postcode": "5622HK",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "06-50929708",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.463075,
+  "lon": 5.459453,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/veen-ijzerhandel-g-van/",
+  "meta_title": "Veen IJzerhandel G van 06-50929708",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Eindhoven. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/eindhoven/veen-ijzerhandel-g-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

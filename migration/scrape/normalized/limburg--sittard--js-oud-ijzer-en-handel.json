@@ -1,0 +1,37 @@
+{
+  "id": 490017,
+  "slug": "js-oud-ijzer-en-handel",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "J.S oud Ijzer en handel",
+  "straat": "Ophoven 146",
+  "postcode": "6133XZ",
+  "plaatsnaam": "Sittard",
+  "telefoon": "06-50260970",
+  "email": null,
+  "website": null,
+  "lat": 50.989466,
+  "lon": 5.858185,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/sittard/js-oud-ijzer-en-handel/",
+  "meta_title": "J.S oud Ijzer en handel 06-50260970",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sittard/js-oud-ijzer-en-handel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

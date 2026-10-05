@@ -1,0 +1,41 @@
+{
+  "id": 489805,
+  "slug": "de-graaf-power",
+  "provincie": "zeeland",
+  "plaats": "ijzendijke",
+  "naam": "De Graaf Power",
+  "straat": "Nieuwstraat 16",
+  "postcode": "4515CE",
+  "plaatsnaam": "IJzendijke",
+  "telefoon": "0117-301994",
+  "email": null,
+  "website": "http://www.nettenenzoon.nl",
+  "lat": 51.320147,
+  "lon": 3.61613,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/ijzendijke/de-graaf-power/",
+  "meta_title": "De Graaf Power 0117-301994",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen IJzendijke. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/ijzendijke/de-graaf-power/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

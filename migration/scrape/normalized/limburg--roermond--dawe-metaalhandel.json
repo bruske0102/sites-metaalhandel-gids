@@ -1,0 +1,37 @@
+{
+  "id": 489803,
+  "slug": "dawe-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "roermond",
+  "naam": "Dawe Metaalhandel",
+  "straat": "Gebroeders Pijpersstraat 41",
+  "postcode": "6045VP",
+  "plaatsnaam": "Roermond",
+  "telefoon": "06-36278308",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.178537,
+  "lon": 6.006051,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/roermond/dawe-metaalhandel/",
+  "meta_title": "Dawe Metaalhandel 06-36278308",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roermond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/roermond/dawe-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

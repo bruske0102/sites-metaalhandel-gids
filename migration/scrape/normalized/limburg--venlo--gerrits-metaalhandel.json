@@ -1,0 +1,37 @@
+{
+  "id": 489874,
+  "slug": "gerrits-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Gerrits Metaalhandel",
+  "straat": "Vlinderstraat 2",
+  "postcode": "5912KT",
+  "plaatsnaam": "Venlo",
+  "telefoon": "077-3513270",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.360777,
+  "lon": 6.169417,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/venlo/gerrits-metaalhandel/",
+  "meta_title": "Gerrits Metaalhandel 077-3513270",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/gerrits-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

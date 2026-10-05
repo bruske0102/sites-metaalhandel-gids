@@ -1,0 +1,41 @@
+{
+  "id": 490250,
+  "slug": "oostdam-handelsonderneming",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Oostdam Handelsonderneming",
+  "straat": "Ir. Schiffstraat 254/256",
+  "postcode": "7547RD",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4312524",
+  "email": null,
+  "website": "http://www.heijdens-textiel.nl",
+  "lat": 52.222767,
+  "lon": 6.846431,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/oostdam-handelsonderneming/",
+  "meta_title": "Oostdam Handelsonderneming 053-4312524",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/oostdam-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490062,
+  "slug": "klunder-handelsonderneming-h",
+  "provincie": "groningen",
+  "plaats": "hoogezand",
+  "naam": "Klunder Handelsonderneming H",
+  "straat": "Foxham 19",
+  "postcode": "9601LD",
+  "plaatsnaam": "Foxhol",
+  "telefoon": "0598-396295",
+  "email": null,
+  "website": null,
+  "lat": 53.16980119999999,
+  "lon": 6.720346800000001,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/hoogezand/klunder-handelsonderneming-h/",
+  "meta_title": "Klunder Handelsonderneming H 0598-396295",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Foxhol. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/hoogezand/klunder-handelsonderneming-h/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489969,
+  "slug": "hertogs",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "Hertogs",
+  "straat": "Noorderlaan 72",
+  "postcode": "6004HW",
+  "plaatsnaam": "Weert",
+  "telefoon": "06-20814703",
+  "email": null,
+  "website": "http://www.metaalhandelraaymakers.nl",
+  "lat": 51.259034,
+  "lon": 5.723556,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/weert/hertogs/",
+  "meta_title": "Hertogs 06-20814703",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/weert/hertogs/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

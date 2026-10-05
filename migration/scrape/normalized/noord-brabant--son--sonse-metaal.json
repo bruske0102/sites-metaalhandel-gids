@@ -1,0 +1,37 @@
+{
+  "id": 490374,
+  "slug": "sonse-metaal",
+  "provincie": "noord-brabant",
+  "plaats": "son",
+  "naam": "Sonse Metaal",
+  "straat": "Ekkersrijt 1013",
+  "postcode": "5692AB",
+  "plaatsnaam": "Son en Breugel",
+  "telefoon": "06-23753684",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.499138,
+  "lon": 5.493397,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/son/sonse-metaal/",
+  "meta_title": "Sonse Metaal 06-23753684",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Son en Breugel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/son/sonse-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490051,
+  "slug": "kabel-recycling-zwolle-bv",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "Kabel Recycling Zwolle BV",
+  "straat": "Hyacinthstraat 70",
+  "postcode": "8013XZ",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "06-18874970",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.503485,
+  "lon": 6.117648,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/zwolle/kabel-recycling-zwolle-bv/",
+  "meta_title": "Kabel Recycling Zwolle BV 06-18874970",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/kabel-recycling-zwolle-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

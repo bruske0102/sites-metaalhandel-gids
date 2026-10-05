@@ -1,0 +1,40 @@
+{
+  "id": 1698810,
+  "slug": "van-tuyl-metaalrecycling-1",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Van Tuyl Metaalrecycling",
+  "straat": "Lekstraat 18",
+  "postcode": "5347 KV",
+  "plaatsnaam": "Oss",
+  "telefoon": "0412764467",
+  "email": "info@oudijzerbrengen.nl",
+  "website": "http://www.oudijzerbrengen.nl",
+  "lat": 51.7859644,
+  "lon": 5.5487843,
+  "omschrijving": "Bent u opzoek naar de hoogste prijs voor uw oud ijzer? Komt u dan naar Van Tuyl Metaalrecycling.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": {
+    "gemiddeld": 5.0,
+    "aantal": 1
+  },
+  "status": "actief",
+  "oude_url": "/noord-brabant/oss/van-tuyl-metaalrecycling-1/",
+  "meta_title": "Van Tuyl Metaalrecycling 0412764467 info@oudijzerbrengen.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (Noord-Brabant).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/oss/van-tuyl-metaalrecycling-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

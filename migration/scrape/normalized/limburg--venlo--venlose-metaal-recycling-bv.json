@@ -1,0 +1,37 @@
+{
+  "id": 489701,
+  "slug": "venlose-metaal-recycling-bv",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Venlose Metaal Recycling BV",
+  "straat": "James Cookweg 41",
+  "postcode": "5928LJ",
+  "plaatsnaam": "Venlo",
+  "telefoon": "077-3822768",
+  "email": "info@vmrvenlo.nl",
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.391316,
+  "lon": 6.097326,
+  "omschrijving": "Wij kopen oud ijzer en metalen en verkopen / recyclen oud-ijzer en metalen. Met onze handmeter kunnen wij ter plaatste het metaalgehalte meten zodat wij direct de prijs van uw metaal en/of ijzer kunnen vaststellen.\n\nOp onze sloopplaats worden materialen zoveel mogelijk gescheiden, hout en kunststoffen worden direct afgevoerd naar recyclingbedrijven, slooppuin wordt gesorteerd en gebroken waarna ook dit wordt afgevoerd voor hergebruik.\nAsbest wordt verwijderd en volgens plaatselijke richtlijnen afgevoerd.\nOok de eigen opslagterreinen voldoen aan de hoogste kwaliteitseisen als het om het milieu gaat. Zo hebben alle werven een betonnen vloer die vloeistofdicht is.\nOok kunnen we olie afscheiden door middel van onze eigen installatie en beschikken we over vloeistofdichte containers.\n\nVMR is in het bezit van diverse certificaten op het gebied van milieu en veiligheid. Op iedere werf staan speciaal radioactiviteitspoorten opgesteld die de radioactiviteit meten van al het materiaal dat wordt aangeleverd.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/venlo/venlose-metaal-recycling-bv/",
+  "meta_title": "Venlose Metaal Recycling BV 077-3822768 info@vmrvenlo.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/venlose-metaal-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

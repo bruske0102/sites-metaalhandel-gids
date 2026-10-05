@@ -1,0 +1,41 @@
+{
+  "id": 490131,
+  "slug": "blijham-papier-bv",
+  "provincie": "groningen",
+  "plaats": "hoogezand",
+  "naam": "Blijham Papier BV",
+  "straat": "Foxham 19",
+  "postcode": "9601LD",
+  "plaatsnaam": "Hoogezand",
+  "telefoon": "0598-381212",
+  "email": "blijham.j@home.nl",
+  "website": null,
+  "lat": 53.168931,
+  "lon": 6.735891,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/hoogezand/blijham-papier-bv/",
+  "meta_title": "Blijham Papier BV 0598-381212 blijham.j@home.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoogezand. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/hoogezand/blijham-papier-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

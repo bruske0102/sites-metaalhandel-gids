@@ -1,0 +1,31 @@
+{
+  "id": 490380,
+  "slug": "ste-staal",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "Ste-staal",
+  "straat": "Pelikaanstraat 3",
+  "postcode": "5022BL",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "06-11302041",
+  "website": "http://www.ste-staal.nl",
+  "lat": 51.544715,
+  "lon": 5.09753,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/tilburg/ste-staal/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Ste-staal 06-11302041",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tilburg. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490405,
+  "slug": "trimey-firma",
+  "provincie": "flevoland",
+  "plaats": "urk",
+  "naam": "Trimey Firma",
+  "straat": "Makkummerwaard 1",
+  "postcode": "8321WV",
+  "plaatsnaam": "Urk",
+  "telefoon": "06-52087650",
+  "email": null,
+  "website": null,
+  "lat": 52.652136,
+  "lon": 5.627339,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/flevoland/urk/trimey-firma/",
+  "meta_title": "Trimey Firma 06-52087650",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Urk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/urk/trimey-firma/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

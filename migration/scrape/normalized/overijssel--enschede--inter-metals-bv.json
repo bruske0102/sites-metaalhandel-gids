@@ -1,0 +1,37 @@
+{
+  "id": 489713,
+  "slug": "inter-metals-bv",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Inter Metals BV",
+  "straat": "Binnenhaven 111/A",
+  "postcode": "7547BG",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4319667",
+  "email": null,
+  "website": null,
+  "lat": 52.224052,
+  "lon": 6.850045,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/inter-metals-bv/",
+  "meta_title": "Inter Metals BV 053-4319667",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/inter-metals-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

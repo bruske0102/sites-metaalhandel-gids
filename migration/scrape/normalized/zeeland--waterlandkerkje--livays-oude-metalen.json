@@ -1,0 +1,37 @@
+{
+  "id": 490089,
+  "slug": "livays-oude-metalen",
+  "provincie": "zeeland",
+  "plaats": "waterlandkerkje",
+  "naam": "Livay's oude metalen",
+  "straat": "Turkeijeweg 33",
+  "postcode": "4508NW",
+  "plaatsnaam": "Waterlandkerkje",
+  "telefoon": "06-53824627",
+  "email": null,
+  "website": "http://www.nettenenzoon.nl",
+  "lat": 51.319453,
+  "lon": 3.577418,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/waterlandkerkje/livays-oude-metalen/",
+  "meta_title": "Livay's oude metalen 06-53824627",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Waterlandkerkje. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/waterlandkerkje/livays-oude-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

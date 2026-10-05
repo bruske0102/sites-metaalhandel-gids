@@ -1,0 +1,30 @@
+{
+  "id": 490059,
+  "slug": "kga-grondstoffen-advies",
+  "provincie": "noord-holland",
+  "plaats": "bergen",
+  "naam": "KGA Grondstoffen & Advies",
+  "straat": "Oude Bergerweg 31",
+  "postcode": "1862KJ",
+  "plaatsnaam": "Bergen nh",
+  "telefoon": "072-5814642",
+  "lat": 52.663858,
+  "lon": 4.711112,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/bergen/kga-grondstoffen-advies/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "KGA Grondstoffen & Advies 072-5814642",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bergen nh. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

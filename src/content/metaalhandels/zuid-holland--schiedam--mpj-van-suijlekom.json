@@ -1,0 +1,30 @@
+{
+  "id": 490107,
+  "slug": "mpj-van-suijlekom",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "M.P.J. van Suijlekom",
+  "straat": "Wattstraat 44",
+  "postcode": "3112TM",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "010-4739838",
+  "lat": 51.918914,
+  "lon": 4.407971,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/schiedam/mpj-van-suijlekom/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "M.P.J. van Suijlekom 010-4739838",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

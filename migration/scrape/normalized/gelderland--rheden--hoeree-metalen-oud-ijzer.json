@@ -1,0 +1,37 @@
+{
+  "id": 489975,
+  "slug": "hoeree-metalen-oud-ijzer",
+  "provincie": "gelderland",
+  "plaats": "rheden",
+  "naam": "Hoeree Metalen & Oud IJzer",
+  "straat": "IJsselsingel 99",
+  "postcode": "6991ZR",
+  "plaatsnaam": "Rheden",
+  "telefoon": "06-36282512",
+  "email": null,
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 52.001545,
+  "lon": 6.021914,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/rheden/hoeree-metalen-oud-ijzer/",
+  "meta_title": "Hoeree Metalen & Oud IJzer 06-36282512",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rheden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/rheden/hoeree-metalen-oud-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

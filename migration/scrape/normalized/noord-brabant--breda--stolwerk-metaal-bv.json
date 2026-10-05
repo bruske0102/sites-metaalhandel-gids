@@ -1,0 +1,39 @@
+{
+  "id": 489613,
+  "slug": "stolwerk-metaal-bv",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Stolwerk Metaal BV",
+  "straat": "Valveeken 5",
+  "postcode": "4815HL",
+  "plaatsnaam": "Breda",
+  "telefoon": "076-5145414",
+  "email": "info@stolwerkmetaal.nl",
+  "website": "http://www.stolwerkmetaal.nl",
+  "lat": 51.593096,
+  "lon": 4.757767,
+  "omschrijving": "Stolwerk Metaal B.V. is sinds 1967 een internationaal opererende oud ijzer- en metaalhandel. Wij mogen 's werelds grootste multi-nationals tot onze klantenkring rekenen, maar ook het midden- en kleinbedrijf en particulieren behoren nog steeds tot onze vaste klantenkring.\n\nWij zijn een modern en efficiënt geleid recycle bedrijf!\n\nNaast de oud ijzer- en metaalhandel hebben wij nog een aantal nevenactiviteiten, waaronder; inkoop en verkoop van machines, motoren en bruikbaar ijzer, plaatsing van milieu-containers t.b.v. opvang ferro en non-ferro metalen, aannemer van alle sloopwerken en het begeleiden van asbestwerken.\n\nijzerhandel Breda; ijzerhandel Tilburg; ijzerhandel Dordrecht; ijzerhandel Roosendaal; ijzerhandel Bergen op Zoom; ijzerhandel Rotterdam; metaalhandel Breda; metaalhandel Tilburg; metaalhandel Dordrecht; metaalhandel Roosendaal; metaalhandel Bergen op Zoom; metaalhandel Rotterdam; milieucontainers Breda; milieucontainers Tilburg; milieucontainers Dordrecht; milieucontainers Roosendaal; milieucontainers Bergen op Zoom; milieucontainers Rotterdam; asbestwerken Breda; asbestwerken Tilburg; asbestwerken Dordrecht; asbestwerken Roosendaal; asbestwerken Bergen op Zoom; asbestwerken Rotterdam; sloopwerken Breda; sloopwerken Tilburg; sloopwerken Dordrecht; sloopwerken Roosendaal; sloopwerken Bergen op Zoom; sloopwerken Rotterdam; ijzer Breda; ijzer Tilburg; ijzer Dordrecht; ijzer Roosendaal; ijzer Bergen op Zoom; ijzer Rotterdam;",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/breda/stolwerk-metaal-bv/",
+  "meta_title": "Stolwerk Metaal BV 076-5145414 info@stolwerkmetaal.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Breda. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/breda/stolwerk-metaal-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

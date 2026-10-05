@@ -1,0 +1,31 @@
+{
+  "id": 490213,
+  "slug": "michel-roggen",
+  "provincie": "groningen",
+  "plaats": "noordwijk",
+  "naam": "Michel Roggen",
+  "straat": "Noorderweg 2",
+  "postcode": "9824TC",
+  "plaatsnaam": "Noordwijk gn",
+  "telefoon": "0594-643378",
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.164429,
+  "lon": 6.260791,
+  "status": "gesloten",
+  "oude_url": "/groningen/noordwijk/michel-roggen/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Michel Roggen 0594-643378",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Noordwijk gn. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

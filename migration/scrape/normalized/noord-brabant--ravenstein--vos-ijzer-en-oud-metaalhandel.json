@@ -1,0 +1,37 @@
+{
+  "id": 490431,
+  "slug": "vos-ijzer-en-oud-metaalhandel",
+  "provincie": "noord-brabant",
+  "plaats": "ravenstein",
+  "naam": "Vos IJzer en Oud Metaalhandel",
+  "straat": "Weemse Hof 3",
+  "postcode": "5371MA",
+  "plaatsnaam": "Ravenstein",
+  "telefoon": "0486-411193",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.791074,
+  "lon": 5.63716,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/ravenstein/vos-ijzer-en-oud-metaalhandel/",
+  "meta_title": "Vos IJzer en Oud Metaalhandel 0486-411193",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ravenstein. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/ravenstein/vos-ijzer-en-oud-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

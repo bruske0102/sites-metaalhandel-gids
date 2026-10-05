@@ -1,0 +1,30 @@
+{
+  "id": 489867,
+  "slug": "gelderen-j-i-van",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Gelderen J I van",
+  "straat": "Strickledeweg 40",
+  "postcode": "3044EK",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4155877",
+  "lat": 51.927531,
+  "lon": 4.411956,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/gelderen-j-i-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Gelderen J I van 010-4155877",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

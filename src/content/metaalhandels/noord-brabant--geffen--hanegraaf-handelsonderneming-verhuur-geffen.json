@@ -1,0 +1,31 @@
+{
+  "id": 489951,
+  "slug": "hanegraaf-handelsonderneming-verhuur-geffen",
+  "provincie": "noord-brabant",
+  "plaats": "geffen",
+  "naam": "Hanegraaf Handelsonderneming & Verhuur Geffen",
+  "straat": "Heegterstraat 6",
+  "postcode": "5386CP",
+  "plaatsnaam": "Geffen",
+  "telefoon": "06-12081571",
+  "website": "http://www.vanmunster.com",
+  "lat": 51.738856,
+  "lon": 5.468408,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/geffen/hanegraaf-handelsonderneming-verhuur-geffen/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Hanegraaf Handelsonderneming & Verhuur Geffen 06-12081571",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Geffen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

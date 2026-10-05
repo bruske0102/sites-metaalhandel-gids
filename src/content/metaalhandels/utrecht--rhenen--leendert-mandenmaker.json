@@ -1,0 +1,31 @@
+{
+  "id": 490070,
+  "slug": "leendert-mandenmaker",
+  "provincie": "utrecht",
+  "plaats": "rhenen",
+  "naam": "Leendert Mandenmaker",
+  "straat": "Middelbuurtseweg 11/-02",
+  "postcode": "3911TE",
+  "plaatsnaam": "Rhenen",
+  "telefoon": "06-53805481",
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 51.998678,
+  "lon": 5.573605,
+  "status": "gesloten",
+  "oude_url": "/utrecht/rhenen/leendert-mandenmaker/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Leendert Mandenmaker 06-53805481",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rhenen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

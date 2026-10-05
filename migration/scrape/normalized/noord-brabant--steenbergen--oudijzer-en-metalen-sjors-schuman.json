@@ -1,0 +1,37 @@
+{
+  "id": 490275,
+  "slug": "oudijzer-en-metalen-sjors-schuman",
+  "provincie": "noord-brabant",
+  "plaats": "steenbergen",
+  "naam": "Oudijzer en Metalen Sjors Schuman",
+  "straat": "Van Andelstraat 4",
+  "postcode": "4651TA",
+  "plaatsnaam": "Steenbergen nb",
+  "telefoon": "06-11871164",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.589812,
+  "lon": 4.309202,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/steenbergen/oudijzer-en-metalen-sjors-schuman/",
+  "meta_title": "Oudijzer en Metalen Sjors Schuman 06-11871164",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Steenbergen nb. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/steenbergen/oudijzer-en-metalen-sjors-schuman/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

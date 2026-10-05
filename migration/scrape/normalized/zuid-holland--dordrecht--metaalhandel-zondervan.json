@@ -1,0 +1,37 @@
+{
+  "id": 490196,
+  "slug": "metaalhandel-zondervan",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Metaalhandel Zondervan",
+  "straat": "Breitnerstraat 26",
+  "postcode": "3314XE",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "06-23900565",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.800517,
+  "lon": 4.658028,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/metaalhandel-zondervan/",
+  "meta_title": "Metaalhandel Zondervan 06-23900565",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/metaalhandel-zondervan/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490157,
+  "slug": "ijzer-metaalhandel-brantenaar",
+  "provincie": "noord-holland",
+  "plaats": "heerhugowaard",
+  "naam": "IJzer & Metaalhandel Brantenaar",
+  "straat": "Tijm 20",
+  "postcode": "1705RB",
+  "plaatsnaam": "Heerhugowaard",
+  "telefoon": "06-21933954",
+  "email": "info@brantenaarmetals.nl",
+  "website": "http://www.brantenaarmetals.nl",
+  "lat": 52.642368,
+  "lon": 4.81544,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heerhugowaard/ijzer-metaalhandel-brantenaar/",
+  "meta_title": "IJzer & Metaalhandel Brantenaar 06-21933954 info@brantenaarmetals.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerhugowaard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/heerhugowaard/ijzer-metaalhandel-brantenaar/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

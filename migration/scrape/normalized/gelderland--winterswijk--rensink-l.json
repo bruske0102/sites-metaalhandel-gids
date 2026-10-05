@@ -1,0 +1,41 @@
+{
+  "id": 490322,
+  "slug": "rensink-l",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Rensink L",
+  "straat": "Wilgenstraat 2",
+  "postcode": "7101TC",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-42763300",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.973996,
+  "lon": 6.730402,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/rensink-l/",
+  "meta_title": "Rensink L 06-42763300",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/rensink-l/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

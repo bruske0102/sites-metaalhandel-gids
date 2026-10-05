@@ -1,0 +1,37 @@
+{
+  "id": 490036,
+  "slug": "johannis-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Johannis Metaalhandel",
+  "straat": "Dr. Coppesstraat 85",
+  "postcode": "7523EK",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-2302308",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.236877,
+  "lon": 6.88751,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/johannis-metaalhandel/",
+  "meta_title": "Johannis Metaalhandel 053-2302308",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/johannis-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

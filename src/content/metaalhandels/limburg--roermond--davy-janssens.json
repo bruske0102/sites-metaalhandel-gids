@@ -1,0 +1,31 @@
+{
+  "id": 489802,
+  "slug": "davy-janssens",
+  "provincie": "limburg",
+  "plaats": "roermond",
+  "naam": "Davy Janssens",
+  "straat": "Koninginnelaan 102",
+  "postcode": "6043AH",
+  "plaatsnaam": "Roermond",
+  "telefoon": "06-41277728",
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.184278,
+  "lon": 5.998219,
+  "status": "gesloten",
+  "oude_url": "/limburg/roermond/davy-janssens/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Davy Janssens 06-41277728",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roermond. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

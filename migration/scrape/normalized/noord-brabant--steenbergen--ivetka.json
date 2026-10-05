@@ -1,0 +1,41 @@
+{
+  "id": 490003,
+  "slug": "ivetka",
+  "provincie": "noord-brabant",
+  "plaats": "steenbergen",
+  "naam": "Ivetka",
+  "straat": "Amaryllisstraat 5",
+  "postcode": "4651LH",
+  "plaatsnaam": "Steenbergen nb",
+  "telefoon": "06-87237370",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.578531,
+  "lon": 4.316164,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/steenbergen/ivetka/",
+  "meta_title": "Ivetka 06-87237370",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Steenbergen nb. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/steenbergen/ivetka/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

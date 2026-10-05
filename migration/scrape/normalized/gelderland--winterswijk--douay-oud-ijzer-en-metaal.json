@@ -1,0 +1,37 @@
+{
+  "id": 489817,
+  "slug": "douay-oud-ijzer-en-metaal",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Douay Oud IJzer en Metaal",
+  "straat": "Hakkelerkampstraat 30",
+  "postcode": "7101VK",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-42410733",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.970548,
+  "lon": 6.733922,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/winterswijk/douay-oud-ijzer-en-metaal/",
+  "meta_title": "Douay Oud IJzer en Metaal 06-42410733",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/douay-oud-ijzer-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

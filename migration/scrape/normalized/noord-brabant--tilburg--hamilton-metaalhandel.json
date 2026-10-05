@@ -1,0 +1,37 @@
+{
+  "id": 489911,
+  "slug": "hamilton-metaalhandel",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "Hamilton Metaalhandel",
+  "straat": "Hellasstraat 12",
+  "postcode": "5047SK",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "013-5701515",
+  "email": null,
+  "website": "http://www.verhagenmetaalrecycling.nl",
+  "lat": 51.585577,
+  "lon": 5.035269,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/tilburg/hamilton-metaalhandel/",
+  "meta_title": "Hamilton Metaalhandel 013-5701515",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tilburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/tilburg/hamilton-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

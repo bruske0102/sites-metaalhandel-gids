@@ -1,0 +1,41 @@
+{
+  "id": 489816,
+  "slug": "dolfsons",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Dolfsons",
+  "straat": "Martinus Nijhoffweg 50",
+  "postcode": "2548EP",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-22344414",
+  "email": null,
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.035974,
+  "lon": 4.277301,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/dolfsons/",
+  "meta_title": "Dolfsons 06-22344414",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-haag/dolfsons/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

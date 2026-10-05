@@ -1,0 +1,41 @@
+{
+  "id": 489914,
+  "slug": "handelsondern-dennis-van-t-hul",
+  "provincie": "gelderland",
+  "plaats": "het-loo-oldebroek",
+  "naam": "Handelsondern. Dennis van 't Hul",
+  "straat": "Harm Aartsweg 41/A",
+  "postcode": "8095RC",
+  "plaatsnaam": "'t Loo Oldebroek",
+  "telefoon": "06-42927654",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.445171,
+  "lon": 5.955713,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/het-loo-oldebroek/handelsondern-dennis-van-t-hul/",
+  "meta_title": "Handelsondern. Dennis van 't Hul 06-42927654",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/het-loo-oldebroek/handelsondern-dennis-van-t-hul/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

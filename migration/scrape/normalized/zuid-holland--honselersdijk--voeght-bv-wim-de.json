@@ -1,0 +1,37 @@
+{
+  "id": 490426,
+  "slug": "voeght-bv-wim-de",
+  "provincie": "zuid-holland",
+  "plaats": "honselersdijk",
+  "naam": "Voeght BV Wim de",
+  "straat": "Stationsweg 2",
+  "postcode": "2675AM",
+  "plaatsnaam": "Honselersdijk",
+  "telefoon": "0174-626119",
+  "email": null,
+  "website": "http://www.steijgermetaalrecycling.nl",
+  "lat": 52.005957,
+  "lon": 4.223017,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/honselersdijk/voeght-bv-wim-de/",
+  "meta_title": "Voeght BV Wim de 0174-626119",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Honselersdijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/honselersdijk/voeght-bv-wim-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

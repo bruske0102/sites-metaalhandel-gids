@@ -1,0 +1,41 @@
+{
+  "id": 490423,
+  "slug": "vianen-handelsonderneming-p-e",
+  "provincie": "utrecht",
+  "plaats": "zegveld",
+  "naam": "Vianen Handelsonderneming P E",
+  "straat": "Nijverheidsbuurt 11",
+  "postcode": "3474LA",
+  "plaatsnaam": "Zegveld",
+  "telefoon": "0348-691798",
+  "email": null,
+  "website": "http://www.prometaal.nl",
+  "lat": 52.10442,
+  "lon": 4.848783,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/zegveld/vianen-handelsonderneming-p-e/",
+  "meta_title": "Vianen Handelsonderneming P E 0348-691798",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zegveld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/zegveld/vianen-handelsonderneming-p-e/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

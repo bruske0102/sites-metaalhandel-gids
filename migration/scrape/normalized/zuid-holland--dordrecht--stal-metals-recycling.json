@@ -1,0 +1,37 @@
+{
+  "id": 490379,
+  "slug": "stal-metals-recycling",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Stal Metals Recycling",
+  "straat": "Kerkeplaat 2",
+  "postcode": "3313 LC",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "06-28452511",
+  "email": "info@stalmetals.nl",
+  "website": "http://www.stalmetals.nl",
+  "lat": 51.8203776,
+  "lon": 4.7046724,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/stal-metals-recycling/",
+  "meta_title": "Stal Metals Recycling 06-28452511 info@stalmetals.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (Zuid-Holland).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/stal-metals-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

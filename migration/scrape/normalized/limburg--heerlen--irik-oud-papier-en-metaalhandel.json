@@ -1,0 +1,37 @@
+{
+  "id": 489670,
+  "slug": "irik-oud-papier-en-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "heerlen",
+  "naam": "Irik oud papier en metaalhandel",
+  "straat": "Pappersjans 36",
+  "postcode": "6413CL",
+  "plaatsnaam": "Heerlen",
+  "telefoon": "045-5212913",
+  "email": null,
+  "website": null,
+  "lat": 50.914511,
+  "lon": 5.962771,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/heerlen/irik-oud-papier-en-metaalhandel/",
+  "meta_title": "Irik oud papier en metaalhandel 045-5212913",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerlen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/heerlen/irik-oud-papier-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

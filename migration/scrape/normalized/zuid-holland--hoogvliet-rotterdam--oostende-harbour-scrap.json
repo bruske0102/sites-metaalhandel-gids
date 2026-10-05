@@ -1,0 +1,37 @@
+{
+  "id": 490251,
+  "slug": "oostende-harbour-scrap",
+  "provincie": "zuid-holland",
+  "plaats": "hoogvliet-rotterdam",
+  "naam": "Oostende Harbour Scrap",
+  "straat": "Nieuwe Wetering 272",
+  "postcode": "3194TB",
+  "plaatsnaam": "Hoogvliet rt",
+  "telefoon": "06-22901151",
+  "email": null,
+  "website": "http://www.kuperus-metaalhandel.nl",
+  "lat": 51.866975,
+  "lon": 4.36772,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoogvliet-rotterdam/oostende-harbour-scrap/",
+  "meta_title": "Oostende Harbour Scrap 06-22901151",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoogvliet rt. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/hoogvliet-rotterdam/oostende-harbour-scrap/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

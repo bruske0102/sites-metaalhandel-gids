@@ -1,0 +1,37 @@
+{
+  "id": 490323,
+  "slug": "rga-meuldijk-handelsonderneming",
+  "provincie": "zuid-holland",
+  "plaats": "numansdorp",
+  "naam": "RGA Meuldijk Handelsonderneming",
+  "straat": "Schuringsedijk 31",
+  "postcode": "3281KM",
+  "plaatsnaam": "Numansdorp",
+  "telefoon": "06-52316521",
+  "email": null,
+  "website": "http://www.oudijzerenmetaalhandel.nl",
+  "lat": 51.72948,
+  "lon": 4.463106,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/numansdorp/rga-meuldijk-handelsonderneming/",
+  "meta_title": "RGA Meuldijk Handelsonderneming 06-52316521",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Numansdorp. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/numansdorp/rga-meuldijk-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

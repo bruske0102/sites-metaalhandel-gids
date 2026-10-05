@@ -1,0 +1,162 @@
+{
+  "counts": {
+    "twijfel": 0,
+    "closed": 312,
+    "actief": 567
+  },
+  "reasons": {
+    "twijfel → gesloten (no metaal/schroot signal)": 312
+  },
+  "samples": [
+    {
+      "naam": "Handelsonderneming Stock",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--coevorden--handelsonderneming-stock.json"
+    },
+    {
+      "naam": "Haro Handelsonderneming",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--coevorden--haro-handelsonderneming.json"
+    },
+    {
+      "naam": "Hendriks VOF Gebr",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--coevorden--hendriks-vof-gebr.json"
+    },
+    {
+      "naam": "Eric Dozeman",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--eric-dozeman.json"
+    },
+    {
+      "naam": "H. Hendriks",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--h-hendriks.json"
+    },
+    {
+      "naam": "Handelsonderneming JHJ",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--handelsonderneming-jhj.json"
+    },
+    {
+      "naam": "Handelsonderneming Oosting & Oosting",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--handelsonderneming-oosting-oosting.json"
+    },
+    {
+      "naam": "Handelsonderneming Platzer",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--handelsonderneming-platzer.json"
+    },
+    {
+      "naam": "Handelsonderneming Stobbe",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--handelsonderneming-stobbe.json"
+    },
+    {
+      "naam": "Handelsonderneming W. Hinderiks",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--handelsonderneming-w-hinderiks.json"
+    },
+    {
+      "naam": "Steenhuis E",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--emmen--steenhuis-e.json"
+    },
+    {
+      "naam": "H. van Schoten Recycling",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--hollandscheveld--h-van-schoten-recycling.json"
+    },
+    {
+      "naam": "Handelsonderneming H. Hindriks",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--hollandscheveld--handelsonderneming-h-hindriks.json"
+    },
+    {
+      "naam": "Spallink Handelsonderneming",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--nieuw-balinge--spallink-handelsonderneming.json"
+    },
+    {
+      "naam": "Maris",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--roden--maris.json"
+    },
+    {
+      "naam": "Koehoorn Recycling",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--roderesch--koehoorn-recycling.json"
+    },
+    {
+      "naam": "Schrott",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "drenthe--schoonebeek--schrott.json"
+    },
+    {
+      "naam": "Veen Van",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "flevoland--bant--veen-van.json"
+    },
+    {
+      "naam": "Trimey Firma",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "flevoland--urk--trimey-firma.json"
+    },
+    {
+      "naam": "Nicolai J",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--drachten--nicolai-j.json"
+    },
+    {
+      "naam": "Pater Albert",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--drachten--pater-albert.json"
+    },
+    {
+      "naam": "Klaas Zwart Handelsonderneming",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--driezum--klaas-zwart-handelsonderneming.json"
+    },
+    {
+      "naam": "J. Sikkens",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--haulerwijk--j-sikkens.json"
+    },
+    {
+      "naam": "Cohen BV sinds 1868",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--leeuwarden--cohen-bv-sinds-1868.json"
+    },
+    {
+      "naam": "Rienksma Handelsonderneming J",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--leeuwarden--rienksma-handelsonderneming-j.json"
+    },
+    {
+      "naam": "Terpstra Autohandel L",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--menaam--terpstra-autohandel-l.json"
+    },
+    {
+      "naam": "Handelsonderneming Gebroeders Corbie",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--sneek--handelsonderneming-gebroeders-corbie.json"
+    },
+    {
+      "naam": "HVR",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--sneek--hvr.json"
+    },
+    {
+      "naam": "Plantinga J",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--sneek--plantinga-j.json"
+    },
+    {
+      "naam": "Roggeveld A",
+      "reason": "twijfel → gesloten (no metaal/schroot signal)",
+      "file": "friesland--sneek--roggeveld-a.json"
+    }
+  ]
+}

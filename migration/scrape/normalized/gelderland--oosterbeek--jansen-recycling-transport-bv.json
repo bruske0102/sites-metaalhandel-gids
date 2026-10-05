@@ -1,0 +1,41 @@
+{
+  "id": 489651,
+  "slug": "jansen-recycling-transport-bv",
+  "provincie": "gelderland",
+  "plaats": "oosterbeek",
+  "naam": "Jansen Recycling & Transport BV",
+  "straat": "Klingelbeekseweg 57",
+  "postcode": "6862VS",
+  "plaatsnaam": "Oosterbeek",
+  "telefoon": "026-3336077",
+  "email": "informatie@jansenrecycling.nl",
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.980056,
+  "lon": 5.86333,
+  "omschrijving": "Jansen Recycling & Transport bv is, sinds 1969, een bedrijf met een lange historie in de recyclingbranche. Het bedrijf staat bekend om zijn betrouwbaarheid en loyaliteit t.o.v. zijn klanten, leveranciers en medewerkers. Deze loyaliteit waarborgt de continuïteit van het bedrijf en staat garant voor een enorme ervaring binnen het bedrijf.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/oosterbeek/jansen-recycling-transport-bv/",
+  "meta_title": "Jansen Recycling & Transport BV 026-3336077 informatie@jansenrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oosterbeek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/oosterbeek/jansen-recycling-transport-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

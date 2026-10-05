@@ -1,0 +1,38 @@
+{
+  "id": 489691,
+  "slug": "pennings-metaalrecycling",
+  "provincie": "noord-brabant",
+  "plaats": "uden",
+  "naam": "Pennings Metaalrecycling",
+  "straat": "Vliegeniersstraat 22",
+  "postcode": "5405BH",
+  "plaatsnaam": "Uden",
+  "telefoon": "0413-255164",
+  "email": "info@pennings-metaalrecycling.nl",
+  "website": "http://www.pennings-metaalrecycling.nl",
+  "lat": 51.659865,
+  "lon": 5.662998,
+  "omschrijving": "Pennings Metaalrecycling is een bedrijf, dat sinds enkele jaren een regionale groothandel in Ferro en Non Ferro metalen is. Wij hebben ons gespecialiseerd in het verwerken en recyclen van uw afvalmetaal, computerafval en kabels. We hebben een hoog kennisniveau ontwikkeld binnen ons vakgebied en kunnen daardoor een totaaloplossing voor de verwerking van uw metaal afval bieden.\n\nPennings Metaalrecycling voldoet met de NIWO-certificering, lijst VIHB aan de strenge eisen die de overheid stelt aan het inzamelen, vervoeren en verhandelen van de bedrijfsafvalstoffen. Tevens werken wij samen met iso-9001 en iso-14001 gecertificeerde bedrijven, deze staan bekend om hun hoog milieurendement.\n\nU kunt uw metaalafval komen brengen, u kunt een afvalbak bestellen, een container laten plaatsen of u kunt uw metaalafval op laten halen welke wij op locatie laden met laadkraan.\n\nWij werken met online prijzen, zodat u deze gemakkelijk dagelijks bij kunt houden. Prijzen zijn beursgerelateerde bedragen en kunnen dus ook dagelijks veranderen.\nWij staan bekend om onze zeer sterke en flexibele service en goede kwaliteit.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/uden/pennings-metaalrecycling/",
+  "meta_title": "Pennings Metaalrecycling 0413-255164 info@pennings-metaalrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Uden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/uden/pennings-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490292,
+  "slug": "poppel-oud-ijzer",
+  "provincie": "zeeland",
+  "plaats": "bruinisse",
+  "naam": "Poppel Oud IJzer",
+  "straat": "Nieuwlandje 1",
+  "postcode": "4311CZ",
+  "plaatsnaam": "Bruinisse",
+  "telefoon": "06-51172254",
+  "email": null,
+  "website": "http://www.corec.nl",
+  "lat": 51.656485,
+  "lon": 4.100956,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/bruinisse/poppel-oud-ijzer/",
+  "meta_title": "Poppel Oud IJzer 06-51172254",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bruinisse. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/bruinisse/poppel-oud-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489687,
+  "slug": "nannings-n-f",
+  "provincie": "noord-holland",
+  "plaats": "blokker",
+  "naam": "Nannings N F",
+  "straat": "Bangert 6",
+  "postcode": "1695CM",
+  "plaatsnaam": "Blokker",
+  "telefoon": "0229-262042",
+  "email": null,
+  "website": null,
+  "lat": 52.670023,
+  "lon": 5.095734,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/blokker/nannings-n-f/",
+  "meta_title": "Nannings N F 0229-262042",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Blokker. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/blokker/nannings-n-f/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

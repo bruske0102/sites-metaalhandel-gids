@@ -1,0 +1,30 @@
+{
+  "id": 490103,
+  "slug": "m-jager",
+  "provincie": "overijssel",
+  "plaats": "goor",
+  "naam": "M. Jager",
+  "straat": "Roerdompstraat 19",
+  "postcode": "7471DT",
+  "plaatsnaam": "Goor",
+  "telefoon": "0547-275404",
+  "lat": 52.235596,
+  "lon": 6.578825,
+  "status": "gesloten",
+  "oude_url": "/overijssel/goor/m-jager/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "M. Jager 0547-275404",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Goor. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

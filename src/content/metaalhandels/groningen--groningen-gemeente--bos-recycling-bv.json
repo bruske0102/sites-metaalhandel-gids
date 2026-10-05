@@ -1,0 +1,30 @@
+{
+  "id": 490135,
+  "slug": "bos-recycling-bv",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Bos Recycling BV",
+  "straat": "Rouaanstraat 43",
+  "postcode": "9723CC",
+  "plaatsnaam": "Groningen",
+  "telefoon": "050-3144585",
+  "lat": 53.19625,
+  "lon": 6.609379,
+  "status": "gesloten",
+  "oude_url": "/groningen/groningen-gemeente/bos-recycling-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Bos Recycling BV 050-3144585",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

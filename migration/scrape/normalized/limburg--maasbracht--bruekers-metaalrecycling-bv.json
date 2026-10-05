@@ -1,0 +1,37 @@
+{
+  "id": 489772,
+  "slug": "bruekers-metaalrecycling-bv",
+  "provincie": "limburg",
+  "plaats": "maasbracht",
+  "naam": "Bruekers Metaalrecycling BV",
+  "straat": "Hazenspoor 6/8",
+  "postcode": "6051AB",
+  "plaatsnaam": "Maasbracht",
+  "telefoon": "0475-468724",
+  "email": null,
+  "website": "http://www.mentenhilkens.nl",
+  "lat": 51.151103,
+  "lon": 5.894873,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maasbracht/bruekers-metaalrecycling-bv/",
+  "meta_title": "Bruekers Metaalrecycling BV 0475-468724",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maasbracht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maasbracht/bruekers-metaalrecycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

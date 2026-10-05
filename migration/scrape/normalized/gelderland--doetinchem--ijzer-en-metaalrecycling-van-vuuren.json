@@ -1,0 +1,37 @@
+{
+  "id": 489990,
+  "slug": "ijzer-en-metaalrecycling-van-vuuren",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "IJzer- en Metaalrecycling Van Vuuren",
+  "straat": "van Leeuwenhoeklaan 3",
+  "postcode": "7002HL",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-365395",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.971339,
+  "lon": 6.318228,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/ijzer-en-metaalrecycling-van-vuuren/",
+  "meta_title": "IJzer- en Metaalrecycling Van Vuuren 0314-365395",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/ijzer-en-metaalrecycling-van-vuuren/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

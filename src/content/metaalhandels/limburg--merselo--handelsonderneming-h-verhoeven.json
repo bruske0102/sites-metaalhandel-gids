@@ -1,0 +1,31 @@
+{
+  "id": 489925,
+  "slug": "handelsonderneming-h-verhoeven",
+  "provincie": "limburg",
+  "plaats": "merselo",
+  "naam": "Handelsonderneming H. Verhoeven",
+  "straat": "Veldstraat 21",
+  "postcode": "5815CW",
+  "plaatsnaam": "Merselo",
+  "telefoon": "0478-546366",
+  "website": "http://www.henraath.nl",
+  "lat": 51.526483,
+  "lon": 5.923905,
+  "status": "gesloten",
+  "oude_url": "/limburg/merselo/handelsonderneming-h-verhoeven/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming H. Verhoeven 0478-546366",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Merselo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

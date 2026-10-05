@@ -1,0 +1,37 @@
+{
+  "id": 490163,
+  "slug": "ijzer-en-metaalhandel-jb-steenbergen",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "IJzer- en Metaalhandel J.B. Steenbergen",
+  "straat": "Emmerikseweg 375",
+  "postcode": "7206DA",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-54336119",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.126861,
+  "lon": 6.200226,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/ijzer-en-metaalhandel-jb-steenbergen/",
+  "meta_title": "IJzer- en Metaalhandel J.B. Steenbergen 06-54336119",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/ijzer-en-metaalhandel-jb-steenbergen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

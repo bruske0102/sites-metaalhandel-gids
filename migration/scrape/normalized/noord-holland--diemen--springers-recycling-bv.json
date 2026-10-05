@@ -1,0 +1,37 @@
+{
+  "id": 489611,
+  "slug": "springers-recycling-bv",
+  "provincie": "noord-holland",
+  "plaats": "diemen",
+  "naam": "Springers Recycling BV",
+  "straat": "Verrijn Stuartweg 13",
+  "postcode": "1112AW",
+  "plaatsnaam": "Diemen",
+  "telefoon": "020-7169810",
+  "email": "info@springers.nl",
+  "website": "http://www.springers.nl",
+  "lat": 52.332308,
+  "lon": 4.965327,
+  "omschrijving": "Springers, uw partner in metaal afvalverwerking.\n\nMet een vakkundig oog voor metaal-detail worden de materialen gedemonteerd, gescheiden en verder verwerkt. Onze recycling adviseurs zorgen voor de beste oplossing. Ook bij u op locatie.\n\nWilt u dat uw metaal afval wordt opgehaald? Of komt u het brengen? Ons maakt het niet uit!",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/diemen/springers-recycling-bv/",
+  "meta_title": "Springers Recycling BV 020-7169810 info@springers.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Diemen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/diemen/springers-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

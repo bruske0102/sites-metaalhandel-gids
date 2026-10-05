@@ -1,0 +1,37 @@
+{
+  "id": 490389,
+  "slug": "swinkels-metaalrecycling-bv-gebr",
+  "provincie": "limburg",
+  "plaats": "heerlen",
+  "naam": "Swinkels Metaalrecycling BV Gebr",
+  "straat": "Beitel 74",
+  "postcode": "6422PB",
+  "plaatsnaam": "Heerlen",
+  "telefoon": "045-5422025",
+  "email": null,
+  "website": "http://www.franssenmetaalrecycling.nl",
+  "lat": 50.849436,
+  "lon": 6.006875,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/heerlen/swinkels-metaalrecycling-bv-gebr/",
+  "meta_title": "Swinkels Metaalrecycling BV Gebr 045-5422025",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerlen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/heerlen/swinkels-metaalrecycling-bv-gebr/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

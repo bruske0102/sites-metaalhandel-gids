@@ -1,0 +1,37 @@
+{
+  "id": 490408,
+  "slug": "tusker-bv",
+  "provincie": "zuid-holland",
+  "plaats": "leiden",
+  "naam": "Tusker BV",
+  "straat": "Fruitweg 40/A",
+  "postcode": "2321DH",
+  "plaatsnaam": "Leiden",
+  "telefoon": "06-22622565",
+  "email": "info@beumels.nl",
+  "website": "http://www.oudmetaalhandel.nl",
+  "lat": 52.147467,
+  "lon": 4.489034,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/leiden/tusker-bv/",
+  "meta_title": "Tusker BV 06-22622565 info@beumels.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leiden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/leiden/tusker-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

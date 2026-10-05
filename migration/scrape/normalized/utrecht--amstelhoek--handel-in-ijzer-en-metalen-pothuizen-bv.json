@@ -1,0 +1,37 @@
+{
+  "id": 489913,
+  "slug": "handel-in-ijzer-en-metalen-pothuizen-bv",
+  "provincie": "utrecht",
+  "plaats": "amstelhoek",
+  "naam": "Handel in IJzer en Metalen Pothuizen BV",
+  "straat": "Ringdijk 1e bedijking 1/E1BEDIJKING",
+  "postcode": "1427AT",
+  "plaatsnaam": "Amstelhoek",
+  "telefoon": "0297-561525",
+  "email": null,
+  "website": "http://www.springers.nl",
+  "lat": 52.229946,
+  "lon": 4.836815,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/amstelhoek/handel-in-ijzer-en-metalen-pothuizen-bv/",
+  "meta_title": "Handel in IJzer en Metalen Pothuizen BV 0297-561525",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amstelhoek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/amstelhoek/handel-in-ijzer-en-metalen-pothuizen-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489796,
+  "slug": "dalen-middelburg-bv-van",
+  "provincie": "zeeland",
+  "plaats": "middelburg",
+  "naam": "Dalen Middelburg BV Van",
+  "straat": "Kleverskerkseweg 65",
+  "postcode": "4338PM",
+  "plaatsnaam": "Middelburg",
+  "telefoon": "0118-656656",
+  "email": null,
+  "website": "http://www.vandalenrecycling.com",
+  "lat": 51.501283,
+  "lon": 3.639056,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/middelburg/dalen-middelburg-bv-van/",
+  "meta_title": "Dalen Middelburg BV Van 0118-656656",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Middelburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/middelburg/dalen-middelburg-bv-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

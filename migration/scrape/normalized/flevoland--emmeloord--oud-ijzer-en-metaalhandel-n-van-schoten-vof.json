@@ -1,0 +1,37 @@
+{
+  "id": 490263,
+  "slug": "oud-ijzer-en-metaalhandel-n-van-schoten-vof",
+  "provincie": "flevoland",
+  "plaats": "emmeloord",
+  "naam": "Oud IJzer en Metaalhandel N. van Schoten VOF",
+  "straat": "Meldestraat 11",
+  "postcode": "8302VA",
+  "plaatsnaam": "Emmeloord",
+  "telefoon": "06-25128297",
+  "email": null,
+  "website": "http://www.wijnand-handel.nl",
+  "lat": 52.714103,
+  "lon": 5.747723,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/emmeloord/oud-ijzer-en-metaalhandel-n-van-schoten-vof/",
+  "meta_title": "Oud IJzer en Metaalhandel N. van Schoten VOF 06-25128297",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmeloord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/emmeloord/oud-ijzer-en-metaalhandel-n-van-schoten-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

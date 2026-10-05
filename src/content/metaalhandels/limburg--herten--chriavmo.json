@@ -1,0 +1,31 @@
+{
+  "id": 489779,
+  "slug": "chriavmo",
+  "provincie": "limburg",
+  "plaats": "herten",
+  "naam": "Chriavmo",
+  "straat": "Gijs van Aardennestraat 55",
+  "postcode": "6049HV",
+  "plaatsnaam": "Herten",
+  "telefoon": "06-55141355",
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.178236,
+  "lon": 5.970524,
+  "status": "gesloten",
+  "oude_url": "/limburg/herten/chriavmo/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Chriavmo 06-55141355",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Herten. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

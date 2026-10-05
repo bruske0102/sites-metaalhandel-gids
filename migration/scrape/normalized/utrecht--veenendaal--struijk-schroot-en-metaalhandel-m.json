@@ -1,0 +1,37 @@
+{
+  "id": 489697,
+  "slug": "struijk-schroot-en-metaalhandel-m",
+  "provincie": "utrecht",
+  "plaats": "veenendaal",
+  "naam": "Struijk Schroot- en Metaalhandel M",
+  "straat": "Sterrenschans 7",
+  "postcode": "3905XN",
+  "plaatsnaam": "Veenendaal",
+  "telefoon": "06-46326052",
+  "email": "schroot-en-metaalhandel@planet.nl",
+  "website": null,
+  "lat": 52.036407,
+  "lon": 5.545431,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/veenendaal/struijk-schroot-en-metaalhandel-m/",
+  "meta_title": "Struijk Schroot- en Metaalhandel M 06-46326052 schroot-en-metaalhandel@planet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Veenendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/veenendaal/struijk-schroot-en-metaalhandel-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

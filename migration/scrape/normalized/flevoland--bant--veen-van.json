@@ -1,0 +1,41 @@
+{
+  "id": 490417,
+  "slug": "veen-van",
+  "provincie": "flevoland",
+  "plaats": "bant",
+  "naam": "Veen Van",
+  "straat": "Banterkade 19",
+  "postcode": "8314RC",
+  "plaatsnaam": "Bant",
+  "telefoon": "0527-261267",
+  "email": null,
+  "website": null,
+  "lat": 52.766188,
+  "lon": 5.760301,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/flevoland/bant/veen-van/",
+  "meta_title": "Veen Van 0527-261267",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bant. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/bant/veen-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

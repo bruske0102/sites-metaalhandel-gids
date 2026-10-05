@@ -1,0 +1,41 @@
+{
+  "id": 489931,
+  "slug": "handelsonderneming-jhj",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Handelsonderneming JHJ",
+  "straat": "Valtherlaan 7",
+  "postcode": "7815AA",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-51858999",
+  "email": null,
+  "website": null,
+  "lat": 52.802483,
+  "lon": 6.887034,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/emmen/handelsonderneming-jhj/",
+  "meta_title": "Handelsonderneming JHJ 06-51858999",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/emmen/handelsonderneming-jhj/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

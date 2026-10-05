@@ -1,0 +1,41 @@
+{
+  "id": 489873,
+  "slug": "gerrits-handelsonderneming-p",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Gerrits Handelsonderneming P",
+  "straat": "St. Josephstraat 87",
+  "postcode": "7603XH",
+  "plaatsnaam": "Almelo",
+  "telefoon": "06-42022859",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.367264,
+  "lon": 6.677793,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/almelo/gerrits-handelsonderneming-p/",
+  "meta_title": "Gerrits Handelsonderneming P 06-42022859",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/almelo/gerrits-handelsonderneming-p/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

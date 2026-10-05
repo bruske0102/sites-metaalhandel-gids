@@ -1,0 +1,37 @@
+{
+  "id": 490197,
+  "slug": "metaalrecycling-c-kooijman",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Metaalrecycling C. Kooijman",
+  "straat": "Breeweg 31",
+  "postcode": "3075LJ",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4853135",
+  "email": null,
+  "website": null,
+  "lat": 51.890566,
+  "lon": 4.517979,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/metaalrecycling-c-kooijman/",
+  "meta_title": "Metaalrecycling C. Kooijman 010-4853135",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/metaalrecycling-c-kooijman/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

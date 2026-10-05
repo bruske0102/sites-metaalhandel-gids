@@ -1,0 +1,37 @@
+{
+  "id": 489658,
+  "slug": "oud-ijzer-en-metaalhandel",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Oud ijzer- en metaalhandel",
+  "straat": "Valveeken 5",
+  "postcode": "4815HL",
+  "plaatsnaam": "Rijsbergen",
+  "telefoon": "076-5145414",
+  "email": null,
+  "website": "http://www.stolwerkmetaal.nl",
+  "lat": 51.593096,
+  "lon": 4.757767,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/breda/oud-ijzer-en-metaalhandel/",
+  "meta_title": "Oud ijzer- en metaalhandel 076-5145414",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijsbergen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/breda/oud-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

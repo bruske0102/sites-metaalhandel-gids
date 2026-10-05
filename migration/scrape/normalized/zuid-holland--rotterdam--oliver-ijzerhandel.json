@@ -1,0 +1,37 @@
+{
+  "id": 490247,
+  "slug": "oliver-ijzerhandel",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Oliver IJzerhandel",
+  "straat": "Mijnsherenlaan 41/C",
+  "postcode": "3081GC",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-87269508",
+  "email": null,
+  "website": null,
+  "lat": 51.895501,
+  "lon": 4.492865,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/oliver-ijzerhandel/",
+  "meta_title": "Oliver IJzerhandel 06-87269508",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/oliver-ijzerhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

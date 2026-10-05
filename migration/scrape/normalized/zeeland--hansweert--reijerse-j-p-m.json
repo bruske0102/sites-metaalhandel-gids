@@ -1,0 +1,41 @@
+{
+  "id": 490306,
+  "slug": "reijerse-j-p-m",
+  "provincie": "zeeland",
+  "plaats": "hansweert",
+  "naam": "Reijerse J P M",
+  "straat": "Maartenbroersweg 99",
+  "postcode": "4417BK",
+  "plaatsnaam": "Hansweert",
+  "telefoon": "0113-382877",
+  "email": null,
+  "website": "http://www.metaalhuiskes.nl",
+  "lat": 51.4525446,
+  "lon": 4.0021722,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/hansweert/reijerse-j-p-m/",
+  "meta_title": "Reijerse J P M 0113-382877",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hansweert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/hansweert/reijerse-j-p-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

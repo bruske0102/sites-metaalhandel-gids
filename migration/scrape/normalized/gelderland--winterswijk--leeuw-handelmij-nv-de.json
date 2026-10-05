@@ -1,0 +1,41 @@
+{
+  "id": 489676,
+  "slug": "leeuw-handelmij-nv-de",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Leeuw Handelmij NV De",
+  "straat": "Industrieweg 2/A",
+  "postcode": "7102DZ",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-513001",
+  "email": null,
+  "website": null,
+  "lat": 51.964095,
+  "lon": 6.718042,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/leeuw-handelmij-nv-de/",
+  "meta_title": "Leeuw Handelmij NV De 0543-513001",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/leeuw-handelmij-nv-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

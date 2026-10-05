@@ -1,0 +1,41 @@
+{
+  "id": 489916,
+  "slug": "handelsonderneming-beltman",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Handelsonderneming Beltman",
+  "straat": "J v Oldenbarneveldtstr 23",
+  "postcode": "7204KA",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-51052344",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.134705,
+  "lon": 6.210944,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/handelsonderneming-beltman/",
+  "meta_title": "Handelsonderneming Beltman 06-51052344",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/handelsonderneming-beltman/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

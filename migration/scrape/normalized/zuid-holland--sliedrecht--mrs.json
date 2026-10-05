@@ -1,0 +1,41 @@
+{
+  "id": 490224,
+  "slug": "mrs",
+  "provincie": "zuid-holland",
+  "plaats": "sliedrecht",
+  "naam": "MRS",
+  "straat": "Beyerinckstraat 2/H",
+  "postcode": "3364AX",
+  "plaatsnaam": "Sliedrecht",
+  "telefoon": "06-25511631",
+  "email": null,
+  "website": "http://www.oudmetaalhendrikidoambacht.nl",
+  "lat": 51.832536,
+  "lon": 4.759198,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/sliedrecht/mrs/",
+  "meta_title": "MRS 06-25511631",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sliedrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/sliedrecht/mrs/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

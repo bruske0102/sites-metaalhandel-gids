@@ -1,0 +1,30 @@
+{
+  "id": 489945,
+  "slug": "handelsonderneming-van-den-berg",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Handelsonderneming Van den Berg",
+  "straat": "Boerskottenhoek 83",
+  "postcode": "7546DC",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-28784850",
+  "lat": 52.187539,
+  "lon": 6.856495,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/handelsonderneming-van-den-berg/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming Van den Berg 06-28784850",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

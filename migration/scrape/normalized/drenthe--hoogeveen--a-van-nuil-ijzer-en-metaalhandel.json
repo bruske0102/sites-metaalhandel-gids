@@ -1,0 +1,37 @@
+{
+  "id": 489722,
+  "slug": "a-van-nuil-ijzer-en-metaalhandel",
+  "provincie": "drenthe",
+  "plaats": "hoogeveen",
+  "naam": "A. van Nuil IJzer- en Metaalhandel",
+  "straat": "Trompstraat 34",
+  "postcode": "7907AS",
+  "plaatsnaam": "Hoogeveen",
+  "telefoon": "0528-852569",
+  "email": null,
+  "website": null,
+  "lat": 52.716884,
+  "lon": 6.474106,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/hoogeveen/a-van-nuil-ijzer-en-metaalhandel/",
+  "meta_title": "A. van Nuil IJzer- en Metaalhandel 0528-852569",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoogeveen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/hoogeveen/a-van-nuil-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

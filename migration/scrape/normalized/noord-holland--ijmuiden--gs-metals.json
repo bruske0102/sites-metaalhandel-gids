@@ -1,0 +1,37 @@
+{
+  "id": 489893,
+  "slug": "gs-metals",
+  "provincie": "noord-holland",
+  "plaats": "ijmuiden",
+  "naam": "GS Metals",
+  "straat": "Koningsplein 2",
+  "postcode": "1975DR",
+  "plaatsnaam": "IJmuiden",
+  "telefoon": "06-53327266",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.462495,
+  "lon": 4.599272,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/ijmuiden/gs-metals/",
+  "meta_title": "GS Metals 06-53327266",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen IJmuiden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/ijmuiden/gs-metals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

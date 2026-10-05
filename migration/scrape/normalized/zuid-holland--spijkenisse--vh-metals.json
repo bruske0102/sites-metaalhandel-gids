@@ -1,0 +1,37 @@
+{
+  "id": 489717,
+  "slug": "vh-metals",
+  "provincie": "zuid-holland",
+  "plaats": "spijkenisse",
+  "naam": "VH Metals",
+  "straat": "Multatulistraat 3",
+  "postcode": "3202AP",
+  "plaatsnaam": "Spijkenisse",
+  "telefoon": "06-38480093",
+  "email": "info@vhmetals-ontruimingen.nl",
+  "website": "http://www.vhmetals-ontruimingen.nl",
+  "lat": 51.853856,
+  "lon": 4.311856,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/spijkenisse/vh-metals/",
+  "meta_title": "VH Metals 06-38480093 info@vhmetals-ontruimingen.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Spijkenisse. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/spijkenisse/vh-metals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

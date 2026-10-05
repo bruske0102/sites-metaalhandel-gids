@@ -1,0 +1,41 @@
+{
+  "id": 490427,
+  "slug": "vof-as-netten",
+  "provincie": "zuid-holland",
+  "plaats": "middelharnis",
+  "naam": "VOF A.S. Netten",
+  "straat": "Dwarsweg 9",
+  "postcode": "3241LB",
+  "plaatsnaam": "Middelharnis",
+  "telefoon": "0187-485230",
+  "email": null,
+  "website": "http://www.jkik.nl",
+  "lat": 51.757887,
+  "lon": 4.177853,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/middelharnis/vof-as-netten/",
+  "meta_title": "VOF A.S. Netten 0187-485230",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Middelharnis. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/middelharnis/vof-as-netten/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

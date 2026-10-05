@@ -1,0 +1,41 @@
+{
+  "id": 489898,
+  "slug": "h-hut-auto-activiteiten",
+  "provincie": "groningen",
+  "plaats": "lutjegast",
+  "naam": "H. Hut Auto activiteiten",
+  "straat": "Westerhornerweg 27",
+  "postcode": "9866TJ",
+  "plaatsnaam": "Lutjegast",
+  "telefoon": "06-25475430",
+  "email": null,
+  "website": null,
+  "lat": 53.250218,
+  "lon": 6.260953,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/lutjegast/h-hut-auto-activiteiten/",
+  "meta_title": "H. Hut Auto activiteiten 06-25475430",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lutjegast. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/lutjegast/h-hut-auto-activiteiten/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

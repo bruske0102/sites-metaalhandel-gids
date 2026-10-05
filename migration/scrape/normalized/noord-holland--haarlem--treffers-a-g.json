@@ -1,0 +1,41 @@
+{
+  "id": 490403,
+  "slug": "treffers-a-g",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Treffers A G",
+  "straat": "P.C. Boutensstraat 249",
+  "postcode": "2025LE",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-34972280",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.418149,
+  "lon": 4.643778,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/haarlem/treffers-a-g/",
+  "meta_title": "Treffers A G 06-34972280",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/treffers-a-g/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

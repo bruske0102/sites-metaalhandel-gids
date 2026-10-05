@@ -1,0 +1,41 @@
+{
+  "id": 489851,
+  "slug": "faja-van-den-dungen",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Faja Van den Dungen",
+  "straat": "Donkse Dreef 49/E",
+  "postcode": "5233HD",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-22736542",
+  "email": null,
+  "website": null,
+  "lat": 51.719262,
+  "lon": 5.321487,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/den-bosch/faja-van-den-dungen/",
+  "meta_title": "Faja Van den Dungen 06-22736542",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bosch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/den-bosch/faja-van-den-dungen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

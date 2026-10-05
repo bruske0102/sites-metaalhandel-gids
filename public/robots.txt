@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /*/verwijderen/
+Disallow: /*/wijzigen/
+
+Sitemap: https://metaalhandel-gids.nl/sitemap-index.xml

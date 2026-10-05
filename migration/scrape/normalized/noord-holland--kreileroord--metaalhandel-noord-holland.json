@@ -1,0 +1,37 @@
+{
+  "id": 490184,
+  "slug": "metaalhandel-noord-holland",
+  "provincie": "noord-holland",
+  "plaats": "kreileroord",
+  "naam": "Metaalhandel Noord-Holland",
+  "straat": "Klaverstraat 17",
+  "postcode": "1773AE",
+  "plaatsnaam": "Kreileroord",
+  "telefoon": "06-41246229",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.841364,
+  "lon": 5.084041,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/kreileroord/metaalhandel-noord-holland/",
+  "meta_title": "Metaalhandel Noord-Holland 06-41246229",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kreileroord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/kreileroord/metaalhandel-noord-holland/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

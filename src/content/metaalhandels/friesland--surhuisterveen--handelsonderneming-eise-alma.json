@@ -1,0 +1,31 @@
+{
+  "id": 489919,
+  "slug": "handelsonderneming-eise-alma",
+  "provincie": "friesland",
+  "plaats": "surhuisterveen",
+  "naam": "Handelsonderneming Eise Alma",
+  "straat": "Torenvalk 19",
+  "postcode": "9231KN",
+  "plaatsnaam": "Surhuisterveen",
+  "telefoon": "06-52375530",
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.185057,
+  "lon": 6.167604,
+  "status": "gesloten",
+  "oude_url": "/friesland/surhuisterveen/handelsonderneming-eise-alma/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming Eise Alma 06-52375530",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Surhuisterveen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

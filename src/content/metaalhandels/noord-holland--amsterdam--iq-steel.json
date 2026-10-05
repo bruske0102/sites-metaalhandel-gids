@@ -1,0 +1,31 @@
+{
+  "id": 490001,
+  "slug": "iq-steel",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "IQ-Steel",
+  "straat": "Eva Besnyostraat 84",
+  "postcode": "1087KR",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-39761231",
+  "website": "http://www.springers.nl",
+  "lat": 52.352059,
+  "lon": 5.003961,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/iq-steel/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "IQ-Steel 06-39761231",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

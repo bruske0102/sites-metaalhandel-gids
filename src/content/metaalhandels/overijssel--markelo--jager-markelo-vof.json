@@ -1,0 +1,30 @@
+{
+  "id": 490020,
+  "slug": "jager-markelo-vof",
+  "provincie": "overijssel",
+  "plaats": "markelo",
+  "naam": "Jager Markelo VOF",
+  "straat": "Postweg 8",
+  "postcode": "7475SG",
+  "plaatsnaam": "Markelo",
+  "telefoon": "0547-362587",
+  "lat": 52.250314,
+  "lon": 6.500135,
+  "status": "gesloten",
+  "oude_url": "/overijssel/markelo/jager-markelo-vof/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Jager Markelo VOF 0547-362587",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Markelo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

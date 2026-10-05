@@ -1,0 +1,30 @@
+{
+  "id": 489938,
+  "slug": "handelsonderneming-oosting-oosting",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Handelsonderneming Oosting & Oosting",
+  "straat": "De Buzen 4",
+  "postcode": "7815KJ",
+  "plaatsnaam": "Emmen",
+  "telefoon": "0591-221055",
+  "lat": 52.798422,
+  "lon": 6.888289,
+  "status": "gesloten",
+  "oude_url": "/drenthe/emmen/handelsonderneming-oosting-oosting/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming Oosting & Oosting 0591-221055",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

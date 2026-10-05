@@ -1,0 +1,37 @@
+{
+  "id": 489868,
+  "slug": "gelton",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "Gelton",
+  "straat": "Papaverweg 61/F",
+  "postcode": "8042ED",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "06-44900148",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.523795,
+  "lon": 6.052458,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/gelton/",
+  "meta_title": "Gelton 06-44900148",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/gelton/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

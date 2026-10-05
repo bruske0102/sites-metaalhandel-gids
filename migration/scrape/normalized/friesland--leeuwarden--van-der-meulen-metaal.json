@@ -1,0 +1,37 @@
+{
+  "id": 490412,
+  "slug": "van-der-meulen-metaal",
+  "provincie": "friesland",
+  "plaats": "leeuwarden",
+  "naam": "Van der Meulen Metaal",
+  "straat": "Einsteinweg 16",
+  "postcode": "8912AP",
+  "plaatsnaam": "Leeuwarden",
+  "telefoon": "058-2130402",
+  "email": null,
+  "website": null,
+  "lat": 53.196777,
+  "lon": 5.759491,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/leeuwarden/van-der-meulen-metaal/",
+  "meta_title": "Van der Meulen Metaal 058-2130402",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leeuwarden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/leeuwarden/van-der-meulen-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

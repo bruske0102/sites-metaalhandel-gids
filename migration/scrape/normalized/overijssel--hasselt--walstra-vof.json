@@ -1,0 +1,37 @@
+{
+  "id": 490440,
+  "slug": "walstra-vof",
+  "provincie": "overijssel",
+  "plaats": "hasselt",
+  "naam": "Walstra VOF",
+  "straat": "Gildenweg 4",
+  "postcode": "8061RP",
+  "plaatsnaam": "Hasselt",
+  "telefoon": "038-4772539",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.582852,
+  "lon": 6.089749,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/hasselt/walstra-vof/",
+  "meta_title": "Walstra VOF 038-4772539",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hasselt. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/hasselt/walstra-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

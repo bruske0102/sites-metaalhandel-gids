@@ -1,0 +1,31 @@
+{
+  "id": 490437,
+  "slug": "w-rast",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "W. Rast",
+  "straat": "G.T. Rietveldstraat 29",
+  "postcode": "7605DK",
+  "plaatsnaam": "Almelo",
+  "telefoon": "06-53791581",
+  "website": "http://www.calot.nl",
+  "lat": 52.35042,
+  "lon": 6.646948,
+  "status": "gesloten",
+  "oude_url": "/overijssel/almelo/w-rast/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "W. Rast 06-53791581",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

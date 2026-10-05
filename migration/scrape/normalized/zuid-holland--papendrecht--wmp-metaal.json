@@ -1,0 +1,37 @@
+{
+  "id": 490457,
+  "slug": "wmp-metaal",
+  "provincie": "zuid-holland",
+  "plaats": "papendrecht",
+  "naam": "WMP Metaal",
+  "straat": "Beltmolen 65",
+  "postcode": "3352XC",
+  "plaatsnaam": "Papendrecht",
+  "telefoon": "078-6152458",
+  "email": null,
+  "website": "http://www.oudmetaalhendrikidoambacht.nl",
+  "lat": 51.838388,
+  "lon": 4.690788,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/papendrecht/wmp-metaal/",
+  "meta_title": "WMP Metaal 078-6152458",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Papendrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/papendrecht/wmp-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

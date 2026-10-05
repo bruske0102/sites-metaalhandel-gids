@@ -1,0 +1,41 @@
+{
+  "id": 490095,
+  "slug": "lotraco",
+  "provincie": "limburg",
+  "plaats": "landgraaf",
+  "naam": "Lotraco",
+  "straat": "Amperestraat 7",
+  "postcode": "6372BB",
+  "plaatsnaam": "Landgraaf",
+  "telefoon": "045-8516557",
+  "email": null,
+  "website": "http://www.lotraco.nl",
+  "lat": 50.889119,
+  "lon": 6.02247,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/landgraaf/lotraco/",
+  "meta_title": "Lotraco 045-8516557",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Landgraaf. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/landgraaf/lotraco/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490000,
+  "slug": "international-schroothandel-saban",
+  "provincie": "noord-holland",
+  "plaats": "enkhuizen",
+  "naam": "International Schroothandel Saban",
+  "straat": "Hazelaarstraat 7",
+  "postcode": "1602SR",
+  "plaatsnaam": "Enkhuizen",
+  "telefoon": "06-53336344",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.709469,
+  "lon": 5.278819,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/enkhuizen/international-schroothandel-saban/",
+  "meta_title": "International Schroothandel Saban 06-53336344",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enkhuizen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/enkhuizen/international-schroothandel-saban/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

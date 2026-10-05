@@ -1,0 +1,37 @@
+{
+  "id": 489806,
+  "slug": "de-groot-metaalhandel",
+  "provincie": "zuid-holland",
+  "plaats": "hoek-van-holland",
+  "naam": "De Groot Metaalhandel",
+  "straat": "Mustangstraat 35",
+  "postcode": "3151GN",
+  "plaatsnaam": "Hoek van Holland",
+  "telefoon": "06-15298566",
+  "email": null,
+  "website": "http://www.steijgermetaalrecycling.nl",
+  "lat": 51.976232,
+  "lon": 4.13136,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoek-van-holland/de-groot-metaalhandel/",
+  "meta_title": "De Groot Metaalhandel 06-15298566",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoek van Holland. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/hoek-van-holland/de-groot-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

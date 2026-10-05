@@ -1,0 +1,37 @@
+{
+  "id": 490057,
+  "slug": "ketting-zn-bv-metaalhandel-w",
+  "provincie": "zuid-holland",
+  "plaats": "pernis",
+  "naam": "Ketting & Zn BV Metaalhandel W",
+  "straat": "Bakkersoordsekade 4/16",
+  "postcode": "3195GN",
+  "plaatsnaam": "Pernis rt",
+  "telefoon": "010-4169296",
+  "email": null,
+  "website": null,
+  "lat": 51.895537,
+  "lon": 4.377519,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/pernis/ketting-zn-bv-metaalhandel-w/",
+  "meta_title": "Ketting & Zn BV Metaalhandel W 010-4169296",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Pernis rt. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/pernis/ketting-zn-bv-metaalhandel-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

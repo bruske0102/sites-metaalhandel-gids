@@ -1,0 +1,37 @@
+{
+  "id": 490328,
+  "slug": "riethorst-metaalhandel-j-m",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Riethorst Metaalhandel J M",
+  "straat": "Oosseldstraat 5",
+  "postcode": "7004DM",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-360455",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.946733,
+  "lon": 6.311826,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/riethorst-metaalhandel-j-m/",
+  "meta_title": "Riethorst Metaalhandel J M 0314-360455",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/riethorst-metaalhandel-j-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

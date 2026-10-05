@@ -1,0 +1,37 @@
+{
+  "id": 489620,
+  "slug": "de-bruin-recycling-vof",
+  "provincie": "utrecht",
+  "plaats": "woerden",
+  "naam": "De Bruin Recycling VOF",
+  "straat": "Ampereweg 8",
+  "postcode": "3442AB",
+  "plaatsnaam": "Woerden",
+  "telefoon": "0348-414874",
+  "email": "bruinrecycling@hetnet.nl",
+  "website": null,
+  "lat": 52.078638,
+  "lon": 4.880311,
+  "omschrijving": "Bij ons kunt u terecht voor het inleveren van uw oud metaal afval. Voor bedrijven hebben wij speciale containers waarin dit afval verzameld kan worden. Deze worden op afroep geleegd.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/woerden/de-bruin-recycling-vof/",
+  "meta_title": "De Bruin Recycling VOF 0348-414874 bruinrecycling@hetnet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Woerden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/woerden/de-bruin-recycling-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

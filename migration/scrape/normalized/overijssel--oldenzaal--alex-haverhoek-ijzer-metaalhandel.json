@@ -1,0 +1,37 @@
+{
+  "id": 489730,
+  "slug": "alex-haverhoek-ijzer-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "oldenzaal",
+  "naam": "Alex Haverhoek IJzer & Metaalhandel",
+  "straat": "Het Nardusboer 145",
+  "postcode": "7576WR",
+  "plaatsnaam": "Oldenzaal",
+  "telefoon": "0541-520156",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.317962,
+  "lon": 6.897099,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/oldenzaal/alex-haverhoek-ijzer-metaalhandel/",
+  "meta_title": "Alex Haverhoek IJzer & Metaalhandel 0541-520156",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldenzaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/oldenzaal/alex-haverhoek-ijzer-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490448,
+  "slug": "wemeta-international-bv",
+  "provincie": "zuid-holland",
+  "plaats": "capelle-aan-den-ijssel",
+  "naam": "Wemeta International BV",
+  "straat": "Coen Botrede 5",
+  "postcode": "2901CC",
+  "plaatsnaam": "Capelle aan den IJssel",
+  "telefoon": "010-2840189",
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.913013,
+  "lon": 4.559434,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/capelle-aan-den-ijssel/wemeta-international-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Wemeta International BV 010-2840189",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Capelle aan den IJssel. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

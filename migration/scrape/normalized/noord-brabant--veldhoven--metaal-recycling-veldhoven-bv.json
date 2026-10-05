@@ -1,0 +1,37 @@
+{
+  "id": 490173,
+  "slug": "metaal-recycling-veldhoven-bv",
+  "provincie": "noord-brabant",
+  "plaats": "veldhoven",
+  "naam": "Metaal Recycling Veldhoven BV",
+  "straat": "De Run 4316",
+  "postcode": "5503LN",
+  "plaatsnaam": "Veldhoven",
+  "telefoon": "06-12612830",
+  "email": null,
+  "website": "http://www.metaalrecyclingveldhoven.nl",
+  "lat": 51.406705,
+  "lon": 5.426365,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/veldhoven/metaal-recycling-veldhoven-bv/",
+  "meta_title": "Metaal Recycling Veldhoven BV 06-12612830",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Veldhoven. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/veldhoven/metaal-recycling-veldhoven-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

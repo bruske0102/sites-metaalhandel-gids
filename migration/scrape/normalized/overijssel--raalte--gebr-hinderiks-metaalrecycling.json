@@ -1,0 +1,37 @@
+{
+  "id": 489864,
+  "slug": "gebr-hinderiks-metaalrecycling",
+  "provincie": "overijssel",
+  "plaats": "raalte",
+  "naam": "Gebr. Hinderiks Metaalrecycling",
+  "straat": "de Spinde 35",
+  "postcode": "8102LA",
+  "plaatsnaam": "Raalte",
+  "telefoon": "0572-357456",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.373683,
+  "lon": 6.274328,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/raalte/gebr-hinderiks-metaalrecycling/",
+  "meta_title": "Gebr. Hinderiks Metaalrecycling 0572-357456",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Raalte. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/raalte/gebr-hinderiks-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

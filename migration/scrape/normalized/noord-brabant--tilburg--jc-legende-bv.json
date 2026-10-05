@@ -1,0 +1,37 @@
+{
+  "id": 490026,
+  "slug": "jc-legende-bv",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "JC Legende BV",
+  "straat": "Schinveldstraat 42",
+  "postcode": "5035GC",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "06-54354629",
+  "email": null,
+  "website": "http://www.metaalhandelgvangool.nl",
+  "lat": 51.579729,
+  "lon": 4.978385,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/tilburg/jc-legende-bv/",
+  "meta_title": "JC Legende BV 06-54354629",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tilburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/tilburg/jc-legende-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

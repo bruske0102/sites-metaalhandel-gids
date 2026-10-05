@@ -1,0 +1,37 @@
+{
+  "id": 489861,
+  "slug": "gh-oosting-metaalhandel",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "G.H. Oosting Metaalhandel",
+  "straat": "De Buzen 9",
+  "postcode": "7815KJ",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-84615535",
+  "email": null,
+  "website": null,
+  "lat": 52.798572,
+  "lon": 6.888516,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/emmen/gh-oosting-metaalhandel/",
+  "meta_title": "G.H. Oosting Metaalhandel 06-84615535",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/emmen/gh-oosting-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

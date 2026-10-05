@@ -1,0 +1,41 @@
+{
+  "id": 490114,
+  "slug": "malestein-recycling",
+  "provincie": "utrecht",
+  "plaats": "amersfoort",
+  "naam": "Malestein Recycling",
+  "straat": "Argonweg 30",
+  "postcode": "3812RB",
+  "plaatsnaam": "Amersfoort",
+  "telefoon": "06-53493188",
+  "email": null,
+  "website": null,
+  "lat": 52.171555,
+  "lon": 5.358172,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/amersfoort/malestein-recycling/",
+  "meta_title": "Malestein Recycling 06-53493188",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amersfoort. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/amersfoort/malestein-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

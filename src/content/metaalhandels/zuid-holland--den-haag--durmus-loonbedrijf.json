@@ -1,0 +1,31 @@
+{
+  "id": 489822,
+  "slug": "durmus-loonbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Durmus Loonbedrijf",
+  "straat": "Majubastraat 3",
+  "postcode": "2572NT",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-42022718",
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.062295,
+  "lon": 4.295737,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/durmus-loonbedrijf/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Durmus Loonbedrijf 06-42022718",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

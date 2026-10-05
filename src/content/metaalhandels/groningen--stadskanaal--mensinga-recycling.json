@@ -1,0 +1,30 @@
+{
+  "id": 490125,
+  "slug": "mensinga-recycling",
+  "provincie": "groningen",
+  "plaats": "stadskanaal",
+  "naam": "Mensinga recycling",
+  "straat": "Fabrieksstraat 26",
+  "postcode": "9501HR",
+  "plaatsnaam": "Stadskanaal",
+  "telefoon": "06-48765462",
+  "lat": 52.997124,
+  "lon": 6.943137,
+  "status": "gesloten",
+  "oude_url": "/groningen/stadskanaal/mensinga-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Mensinga recycling 06-48765462",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Stadskanaal. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

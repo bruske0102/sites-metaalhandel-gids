@@ -1,0 +1,37 @@
+{
+  "id": 489813,
+  "slug": "deventer-metaal-recycling",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Deventer Metaal Recycling",
+  "straat": "Antwerpenweg 38014",
+  "postcode": "7418CR",
+  "plaatsnaam": "Deventer",
+  "telefoon": "06-51783800",
+  "email": null,
+  "website": "http://www.inkoopijzer.nl",
+  "lat": 52.2472402,
+  "lon": 6.1843692,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/deventer/deventer-metaal-recycling/",
+  "meta_title": "Deventer Metaal Recycling 06-51783800",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Deventer. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/deventer/deventer-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

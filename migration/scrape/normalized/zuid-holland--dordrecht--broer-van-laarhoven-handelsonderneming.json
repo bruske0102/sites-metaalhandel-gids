@@ -1,0 +1,41 @@
+{
+  "id": 489771,
+  "slug": "broer-van-laarhoven-handelsonderneming",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Broer van Laarhoven Handelsonderneming",
+  "straat": "Rechte Zandweg 5/7",
+  "postcode": "3319GN",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "078-6300136",
+  "email": null,
+  "website": "http://janitasclassiccars.nl",
+  "lat": 51.795435,
+  "lon": 4.70515,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/dordrecht/broer-van-laarhoven-handelsonderneming/",
+  "meta_title": "Broer van Laarhoven Handelsonderneming 078-6300136",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/broer-van-laarhoven-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

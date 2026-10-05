@@ -1,0 +1,31 @@
+{
+  "id": 490148,
+  "slug": "fmr",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "FMR",
+  "straat": "Oude Windslaan 48",
+  "postcode": "7607TR",
+  "plaatsnaam": "Almelo",
+  "telefoon": "06-11582090",
+  "website": "http://www.calot.nl",
+  "lat": 52.350481,
+  "lon": 6.679565,
+  "status": "gesloten",
+  "oude_url": "/overijssel/almelo/fmr/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "FMR 06-11582090",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

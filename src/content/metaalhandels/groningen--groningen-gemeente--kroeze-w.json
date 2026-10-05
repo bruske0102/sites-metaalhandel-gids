@@ -1,0 +1,31 @@
+{
+  "id": 490077,
+  "slug": "kroeze-w",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Kroeze W",
+  "straat": "Oostendeweg 22",
+  "postcode": "9723HH",
+  "plaatsnaam": "Groningen",
+  "telefoon": "050-3136648",
+  "website": "http://www.kroezerecycling.nl",
+  "lat": 53.20434,
+  "lon": 6.597619,
+  "status": "gesloten",
+  "oude_url": "/groningen/groningen-gemeente/kroeze-w/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Kroeze W 050-3136648",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

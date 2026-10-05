@@ -1,0 +1,41 @@
+{
+  "id": 489737,
+  "slug": "anka-metal-alloy-medical-chemistry-bv",
+  "provincie": "zuid-holland",
+  "plaats": "capelle-aan-den-ijssel",
+  "naam": "Anka Metal Alloy Medical Chemistry BV",
+  "straat": "Solislaan 34",
+  "postcode": "2909SB",
+  "plaatsnaam": "Capelle aan den IJssel",
+  "telefoon": "06-41793953",
+  "email": null,
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.917407,
+  "lon": 4.540253,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/capelle-aan-den-ijssel/anka-metal-alloy-medical-chemistry-bv/",
+  "meta_title": "Anka Metal Alloy Medical Chemistry BV 06-41793953",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Capelle aan den IJssel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/capelle-aan-den-ijssel/anka-metal-alloy-medical-chemistry-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

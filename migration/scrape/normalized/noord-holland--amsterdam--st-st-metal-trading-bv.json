@@ -1,0 +1,41 @@
+{
+  "id": 490378,
+  "slug": "st-st-metal-trading-bv",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "St St Metal Trading BV",
+  "straat": "Daniel Stalpertstraat 19",
+  "postcode": "1072VZ",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "084-8334684",
+  "email": null,
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.356381,
+  "lon": 4.887931,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/st-st-metal-trading-bv/",
+  "meta_title": "St St Metal Trading BV 084-8334684",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/st-st-metal-trading-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

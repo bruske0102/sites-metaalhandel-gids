@@ -1,0 +1,31 @@
+{
+  "id": 490216,
+  "slug": "mo-handelsbedrijf",
+  "provincie": "utrecht",
+  "plaats": "zeist",
+  "naam": "MO Handelsbedrijf",
+  "straat": "W.H. Vliegenlaan 14",
+  "postcode": "3705JX",
+  "plaatsnaam": "Zeist",
+  "telefoon": "06-87687066",
+  "website": "http://www.hoffland.nl",
+  "lat": 52.100031,
+  "lon": 5.240455,
+  "status": "gesloten",
+  "oude_url": "/utrecht/zeist/mo-handelsbedrijf/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "MO Handelsbedrijf 06-87687066",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zeist. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

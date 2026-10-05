@@ -1,0 +1,13 @@
+{
+  "total_normalized": 879,
+  "parsed_ok": 879,
+  "actief": 874,
+  "with_website": 641,
+  "with_phone": 879,
+  "with_coords": 874,
+  "run_ok": 879,
+  "run_fail": 0,
+  "run_skip": 0,
+  "errors": [],
+  "content_dir": "src/content/metaalhandels"
+}

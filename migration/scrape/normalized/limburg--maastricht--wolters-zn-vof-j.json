@@ -1,0 +1,41 @@
+{
+  "id": 490460,
+  "slug": "wolters-zn-vof-j",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Wolters & Zn VOF J",
+  "straat": "Hubert van Doornelaan 19",
+  "postcode": "6229VE",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-4083631",
+  "email": null,
+  "website": null,
+  "lat": 50.821555,
+  "lon": 5.71778,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/maastricht/wolters-zn-vof-j/",
+  "meta_title": "Wolters & Zn VOF J 043-4083631",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/wolters-zn-vof-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

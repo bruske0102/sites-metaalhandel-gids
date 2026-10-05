@@ -1,0 +1,37 @@
+{
+  "id": 490132,
+  "slug": "branten-ijzer-metalen-t",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Branten IJzer & Metalen T",
+  "straat": "Prinses Julianaweg 63",
+  "postcode": "3314KS",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "078-6142176",
+  "email": null,
+  "website": null,
+  "lat": 51.799714,
+  "lon": 4.667667,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/branten-ijzer-metalen-t/",
+  "meta_title": "Branten IJzer & Metalen T 078-6142176",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/branten-ijzer-metalen-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

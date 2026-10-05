@@ -1,0 +1,38 @@
+{
+  "id": 489852,
+  "slug": "fiege-non-ferrous-bv",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Fiege Non Ferrous BV",
+  "straat": "Marga Klompelaan 20",
+  "postcode": "7207KA",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-53720215",
+  "email": null,
+  "website": "http://www.fiegemetals.com",
+  "lat": 52.127383,
+  "lon": 6.22829,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/fiege-non-ferrous-bv/",
+  "meta_title": "Fiege Non Ferrous BV 06-53720215",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/fiege-non-ferrous-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

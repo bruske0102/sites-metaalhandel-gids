@@ -1,0 +1,38 @@
+{
+  "id": 489640,
+  "slug": "hans-raaymakers-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "Hans Raaymakers Metaalhandel",
+  "straat": "Roeventerpeelweg 17",
+  "postcode": "6004PH",
+  "plaatsnaam": "Weert",
+  "telefoon": "0495-545152",
+  "email": "raaijmakerscarin@planet.nl",
+  "website": "http://www.metaalhandelraaymakers.nl",
+  "lat": 51.247958,
+  "lon": 5.756774,
+  "omschrijving": "afname van oude ferro en non ferro metalen\nu komt oude metalen brengen,\nen/of wij komen het bij u ophalen.\nGratis Container plaatsing mogelijk",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/weert/hans-raaymakers-metaalhandel/",
+  "meta_title": "Hans Raaymakers Metaalhandel 0495-545152 raaijmakerscarin@planet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/weert/hans-raaymakers-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490347,
+  "slug": "s-graff",
+  "provincie": "zeeland",
+  "plaats": "schoondijke",
+  "naam": "S. Graff",
+  "straat": "Burg van Roseveltstraat 1",
+  "postcode": "4507AG",
+  "plaatsnaam": "Schoondijke",
+  "telefoon": "0117-402130",
+  "email": null,
+  "website": "http://www.nettenenzoon.nl",
+  "lat": 51.354665,
+  "lon": 3.557012,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/schoondijke/s-graff/",
+  "meta_title": "S. Graff 0117-402130",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schoondijke. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/schoondijke/s-graff/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

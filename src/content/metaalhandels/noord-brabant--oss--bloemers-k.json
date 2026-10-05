@@ -1,0 +1,31 @@
+{
+  "id": 489760,
+  "slug": "bloemers-k",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Bloemers K",
+  "straat": "Ritchiestraat 4",
+  "postcode": "5346TZ",
+  "plaatsnaam": "Oss",
+  "telefoon": "06-51978949",
+  "website": "http://www.vanmunster.com",
+  "lat": 51.775994,
+  "lon": 5.519884,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/oss/bloemers-k/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Bloemers K 06-51978949",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

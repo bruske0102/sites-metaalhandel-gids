@@ -1,0 +1,41 @@
+{
+  "id": 490455,
+  "slug": "wit-handelsonderneming-b-de",
+  "provincie": "friesland",
+  "plaats": "sneek",
+  "naam": "Wit Handelsonderneming B de",
+  "straat": "Borndiep 21",
+  "postcode": "8602CM",
+  "plaatsnaam": "Sneek",
+  "telefoon": "06-31905005",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 53.044784,
+  "lon": 5.657942,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/sneek/wit-handelsonderneming-b-de/",
+  "meta_title": "Wit Handelsonderneming B de 06-31905005",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sneek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/sneek/wit-handelsonderneming-b-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

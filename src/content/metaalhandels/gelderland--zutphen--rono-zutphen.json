@@ -1,0 +1,31 @@
+{
+  "id": 490339,
+  "slug": "rono-zutphen",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Rono Zutphen",
+  "straat": "Paulus Potterstraat 21",
+  "postcode": "7204CP",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-54363266",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.138997,
+  "lon": 6.207693,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/rono-zutphen/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Rono Zutphen 06-54363266",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

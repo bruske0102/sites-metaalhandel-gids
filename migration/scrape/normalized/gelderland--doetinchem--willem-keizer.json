@@ -1,0 +1,37 @@
+{
+  "id": 490452,
+  "slug": "willem-keizer",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Willem Keizer",
+  "straat": "Koolweg 43",
+  "postcode": "7009CJ",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-343828",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.979756,
+  "lon": 6.294749,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/willem-keizer/",
+  "meta_title": "Willem Keizer 0314-343828",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/willem-keizer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

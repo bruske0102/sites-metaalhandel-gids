@@ -1,0 +1,41 @@
+{
+  "id": 489957,
+  "slug": "hb-liften-bv",
+  "provincie": "zuid-holland",
+  "plaats": "vierpolders",
+  "naam": "HB Liften BV",
+  "straat": "J J P Tichlerlaan 10",
+  "postcode": "3237AR",
+  "plaatsnaam": "Vierpolders",
+  "telefoon": "0181-323883",
+  "email": null,
+  "website": "http://www.jkik.nl",
+  "lat": 51.87935,
+  "lon": 4.177944,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/vierpolders/hb-liften-bv/",
+  "meta_title": "HB Liften BV 0181-323883",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vierpolders. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/vierpolders/hb-liften-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

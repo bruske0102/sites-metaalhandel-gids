@@ -1,0 +1,38 @@
+{
+  "id": 489633,
+  "slug": "prometaal-bv",
+  "provincie": "utrecht",
+  "plaats": "maarssen",
+  "naam": "Prometaal BV",
+  "straat": "Westkanaaldijk 20",
+  "postcode": "3606AM",
+  "plaatsnaam": "Maarssen",
+  "telefoon": "0346-576006",
+  "email": null,
+  "website": "http://www.prometaal.nl",
+  "lat": 52.131436,
+  "lon": 5.042558,
+  "omschrijving": "Prometaal BV houdt zich vanaf 1993 bezich met recycling van en handel in oud ijzer en mataalafvallen als auminium, koper, lood en zink.\nVoor aan- en afvoer staan vrschillende containersystemen ter beschikking.\n\nEen specialisme van Prometaal is de handel en het vervoer van shredderklare autowrakken.\nPrometaal staat voor scherpe prijzen.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/maarssen/prometaal-bv/",
+  "meta_title": "Prometaal BV 0346-576006",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maarssen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/maarssen/prometaal-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

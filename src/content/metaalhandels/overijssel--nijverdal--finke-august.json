@@ -1,0 +1,31 @@
+{
+  "id": 489853,
+  "slug": "finke-august",
+  "provincie": "overijssel",
+  "plaats": "nijverdal",
+  "naam": "Finke August",
+  "straat": "Industrieweg 68",
+  "postcode": "7442CV",
+  "plaatsnaam": "Nijverdal",
+  "telefoon": "0548-620284",
+  "website": "http://www.calot.nl",
+  "lat": 52.359538,
+  "lon": 6.496651,
+  "status": "gesloten",
+  "oude_url": "/overijssel/nijverdal/finke-august/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Finke August 0548-620284",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijverdal. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

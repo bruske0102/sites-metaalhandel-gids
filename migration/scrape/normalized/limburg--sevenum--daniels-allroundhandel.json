@@ -1,0 +1,41 @@
+{
+  "id": 489801,
+  "slug": "daniels-allroundhandel",
+  "provincie": "limburg",
+  "plaats": "sevenum",
+  "naam": "Daniëls Allroundhandel",
+  "straat": "Van Vlattenstraat 50",
+  "postcode": "5975SC",
+  "plaatsnaam": "Sevenum",
+  "telefoon": "06-36111107",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.409987,
+  "lon": 6.043472,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/sevenum/daniels-allroundhandel/",
+  "meta_title": "Daniëls Allroundhandel 06-36111107",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sevenum. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sevenum/daniels-allroundhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

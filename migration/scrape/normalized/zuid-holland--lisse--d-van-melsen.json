@@ -1,0 +1,41 @@
+{
+  "id": 489792,
+  "slug": "d-van-melsen",
+  "provincie": "zuid-holland",
+  "plaats": "lisse",
+  "naam": "D. van Melsen",
+  "straat": "Regenboogplein 9",
+  "postcode": "2162LE",
+  "plaatsnaam": "Lisse",
+  "telefoon": "06-21949948",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.242376,
+  "lon": 4.564443,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/lisse/d-van-melsen/",
+  "meta_title": "D. van Melsen 06-21949948",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lisse. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/lisse/d-van-melsen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

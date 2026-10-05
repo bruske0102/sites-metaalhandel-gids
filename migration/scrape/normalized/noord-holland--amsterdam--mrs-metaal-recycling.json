@@ -1,0 +1,37 @@
+{
+  "id": 490225,
+  "slug": "mrs-metaal-recycling",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "MRS Metaal Recycling",
+  "straat": "Kelbergen 102",
+  "postcode": "1104LE",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6657253",
+  "email": null,
+  "website": "http://www.m-r-s.nl",
+  "lat": 52.311131,
+  "lon": 4.97506,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/mrs-metaal-recycling/",
+  "meta_title": "MRS Metaal Recycling 020-6657253",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/mrs-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

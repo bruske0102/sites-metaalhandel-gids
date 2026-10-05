@@ -1,0 +1,41 @@
+{
+  "id": 490151,
+  "slug": "frans-hodzelmans",
+  "provincie": "limburg",
+  "plaats": "horn",
+  "naam": "Frans Hodzelmans",
+  "straat": "Broekstraat 8",
+  "postcode": "6085EM",
+  "plaatsnaam": "Horn",
+  "telefoon": "0475-581350",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.213839,
+  "lon": 5.947076,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/horn/frans-hodzelmans/",
+  "meta_title": "Frans Hodzelmans 0475-581350",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Horn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/horn/frans-hodzelmans/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

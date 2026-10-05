@@ -1,0 +1,38 @@
+{
+  "id": 489716,
+  "slug": "roeck-recycling-bv-de",
+  "provincie": "noord-holland",
+  "plaats": "zaandam",
+  "naam": "Roeck Recycling BV De",
+  "straat": "Kruisbaken 14",
+  "postcode": "1505HS",
+  "plaatsnaam": "Zaandam",
+  "telefoon": "075-6357454",
+  "email": null,
+  "website": "http://www.deroeck.nl",
+  "lat": 52.419736,
+  "lon": 4.853127,
+  "omschrijving": "WELKOM BIJ DE ROECK RECYCLING\n\nOnze diensten bestaan uit inkoop en verkoop van oud metaal, houten pallets en ander te recyclen afval. Tevens transporteren en sorteren wij recyclebare materialen en zijn specialist op het gebied van industriële sloopwerken.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/zaandam/roeck-recycling-bv-de/",
+  "meta_title": "Roeck Recycling BV De 075-6357454",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zaandam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/zaandam/roeck-recycling-bv-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

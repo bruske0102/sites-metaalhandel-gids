@@ -1,0 +1,37 @@
+{
+  "id": 489842,
+  "slug": "europe-metals-bv",
+  "provincie": "noord-brabant",
+  "plaats": "heeze",
+  "naam": "Europe Metals BV",
+  "straat": "Industrieweg 111",
+  "postcode": "5591JL",
+  "plaatsnaam": "Heeze",
+  "telefoon": "040-2241919",
+  "email": null,
+  "website": "http://www.europe-metals.nl",
+  "lat": 51.36797,
+  "lon": 5.581462,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/heeze/europe-metals-bv/",
+  "meta_title": "Europe Metals BV 040-2241919",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heeze. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/heeze/europe-metals-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

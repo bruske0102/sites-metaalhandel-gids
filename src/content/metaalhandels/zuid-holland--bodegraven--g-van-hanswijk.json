@@ -1,0 +1,31 @@
+{
+  "id": 489859,
+  "slug": "g-van-hanswijk",
+  "provincie": "zuid-holland",
+  "plaats": "bodegraven",
+  "naam": "G. van Hanswijk",
+  "straat": "Meije 21",
+  "postcode": "2411PH",
+  "plaatsnaam": "Bodegraven",
+  "telefoon": "0172-615070",
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.10568,
+  "lon": 4.754896,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/bodegraven/g-van-hanswijk/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "G. van Hanswijk 0172-615070",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bodegraven. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

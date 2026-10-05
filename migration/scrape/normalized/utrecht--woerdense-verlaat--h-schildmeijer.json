@@ -1,0 +1,41 @@
+{
+  "id": 489900,
+  "slug": "h-schildmeijer",
+  "provincie": "utrecht",
+  "plaats": "woerdense-verlaat",
+  "naam": "H. Schildmeijer",
+  "straat": "Amstelkade 21",
+  "postcode": "3652MD",
+  "plaatsnaam": "Woerdense Verlaat",
+  "telefoon": "0172-572996",
+  "email": null,
+  "website": "http://www.prometaal.nl",
+  "lat": 52.162523,
+  "lon": 4.867579,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/woerdense-verlaat/h-schildmeijer/",
+  "meta_title": "H. Schildmeijer 0172-572996",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Woerdense Verlaat. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/woerdense-verlaat/h-schildmeijer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

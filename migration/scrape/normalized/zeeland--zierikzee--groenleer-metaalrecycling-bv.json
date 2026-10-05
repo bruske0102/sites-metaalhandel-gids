@@ -1,0 +1,37 @@
+{
+  "id": 489890,
+  "slug": "groenleer-metaalrecycling-bv",
+  "provincie": "zeeland",
+  "plaats": "zierikzee",
+  "naam": "Groenleer Metaalrecycling BV",
+  "straat": "Industrieweg 13",
+  "postcode": "4301RS",
+  "plaatsnaam": "Zierikzee",
+  "telefoon": "0111-412598",
+  "email": null,
+  "website": "http://www.groenleer.com",
+  "lat": 51.643828,
+  "lon": 3.919213,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/zierikzee/groenleer-metaalrecycling-bv/",
+  "meta_title": "Groenleer Metaalrecycling BV 0111-412598",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zierikzee. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/zierikzee/groenleer-metaalrecycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

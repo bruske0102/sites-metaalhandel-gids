@@ -1,0 +1,37 @@
+{
+  "id": 490235,
+  "slug": "metaalhandel-r-koning",
+  "provincie": "noord-holland",
+  "plaats": "zandvoort",
+  "naam": "Metaalhandel R. Koning",
+  "straat": "Flemingstraat 70",
+  "postcode": "2041VK",
+  "plaatsnaam": "Zandvoort",
+  "telefoon": "06-11339655",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.377948,
+  "lon": 4.547301,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/zandvoort/metaalhandel-r-koning/",
+  "meta_title": "Metaalhandel R. Koning 06-11339655",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zandvoort. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/zandvoort/metaalhandel-r-koning/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

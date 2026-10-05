@@ -1,0 +1,37 @@
+{
+  "id": 489985,
+  "slug": "huizinga-metalen",
+  "provincie": "drenthe",
+  "plaats": "peize",
+  "naam": "Huizinga Metalen",
+  "straat": "Hoppekampweg 4",
+  "postcode": "9321BG",
+  "plaatsnaam": "Peize",
+  "telefoon": "06-12410518",
+  "email": null,
+  "website": null,
+  "lat": 53.150661,
+  "lon": 6.493706,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/peize/huizinga-metalen/",
+  "meta_title": "Huizinga Metalen 06-12410518",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Peize. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/peize/huizinga-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

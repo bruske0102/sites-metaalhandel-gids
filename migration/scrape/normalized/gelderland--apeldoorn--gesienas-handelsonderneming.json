@@ -1,0 +1,41 @@
+{
+  "id": 489878,
+  "slug": "gesienas-handelsonderneming",
+  "provincie": "gelderland",
+  "plaats": "apeldoorn",
+  "naam": "Gesiena's Handelsonderneming",
+  "straat": "Kostverloren 9/A",
+  "postcode": "7316MN",
+  "plaatsnaam": "Apeldoorn",
+  "telefoon": "06-14121520",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.235594,
+  "lon": 5.962944,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/apeldoorn/gesienas-handelsonderneming/",
+  "meta_title": "Gesiena's Handelsonderneming 06-14121520",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Apeldoorn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/apeldoorn/gesienas-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

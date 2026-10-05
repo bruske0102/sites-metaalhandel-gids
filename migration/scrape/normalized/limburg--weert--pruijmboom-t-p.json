@@ -1,0 +1,37 @@
+{
+  "id": 490296,
+  "slug": "pruijmboom-t-p",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "Pruijmboom T P",
+  "straat": "Weijerbeemd 1",
+  "postcode": "6004MC",
+  "plaatsnaam": "Weert",
+  "telefoon": "0495-538927",
+  "email": null,
+  "website": "http://www.metaalhandelraaymakers.nl",
+  "lat": 51.248488,
+  "lon": 5.739563,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/weert/pruijmboom-t-p/",
+  "meta_title": "Pruijmboom T P 0495-538927",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/weert/pruijmboom-t-p/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

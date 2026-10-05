@@ -1,0 +1,31 @@
+{
+  "id": 490419,
+  "slug": "veraar-trucks",
+  "provincie": "utrecht",
+  "plaats": "de-bilt",
+  "naam": "Veraar Trucks",
+  "straat": "Weltevreden 10/A",
+  "postcode": "3731AL",
+  "plaatsnaam": "De Bilt",
+  "telefoon": "06-51859798",
+  "website": "http://www.hoffland.nl",
+  "lat": 52.11277,
+  "lon": 5.172339,
+  "status": "gesloten",
+  "oude_url": "/utrecht/de-bilt/veraar-trucks/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Veraar Trucks 06-51859798",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen De Bilt. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

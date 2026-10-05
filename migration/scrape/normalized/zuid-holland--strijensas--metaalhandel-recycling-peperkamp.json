@@ -1,0 +1,37 @@
+{
+  "id": 490187,
+  "slug": "metaalhandel-recycling-peperkamp",
+  "provincie": "zuid-holland",
+  "plaats": "strijensas",
+  "naam": "Metaalhandel & Recycling Peperkamp",
+  "straat": "Mariapolder 17",
+  "postcode": "3292LC",
+  "plaatsnaam": "Strijensas",
+  "telefoon": "06-85404645",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.729523,
+  "lon": 4.623883,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/strijensas/metaalhandel-recycling-peperkamp/",
+  "meta_title": "Metaalhandel & Recycling Peperkamp 06-85404645",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Strijensas. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/strijensas/metaalhandel-recycling-peperkamp/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

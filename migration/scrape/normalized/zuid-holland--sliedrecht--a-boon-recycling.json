@@ -1,0 +1,41 @@
+{
+  "id": 489719,
+  "slug": "a-boon-recycling",
+  "provincie": "zuid-holland",
+  "plaats": "sliedrecht",
+  "naam": "A. Boon Recycling",
+  "straat": "Cort van der Lindenlaan 9",
+  "postcode": "3362CA",
+  "plaatsnaam": "Sliedrecht",
+  "telefoon": "06-20621448",
+  "email": null,
+  "website": null,
+  "lat": 51.826154,
+  "lon": 4.777971,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/sliedrecht/a-boon-recycling/",
+  "meta_title": "A. Boon Recycling 06-20621448",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sliedrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/sliedrecht/a-boon-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

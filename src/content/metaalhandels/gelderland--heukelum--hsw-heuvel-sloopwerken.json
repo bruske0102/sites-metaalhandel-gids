@@ -1,0 +1,31 @@
+{
+  "id": 489982,
+  "slug": "hsw-heuvel-sloopwerken",
+  "provincie": "gelderland",
+  "plaats": "heukelum",
+  "naam": "HSW Heuvel Sloopwerken",
+  "straat": "Gasthuisstraat 33",
+  "postcode": "4161CB",
+  "plaatsnaam": "Heukelum",
+  "telefoon": "06-55524344",
+  "website": "http://www.derooijrecycling.nl",
+  "lat": 51.874001,
+  "lon": 5.076681,
+  "status": "gesloten",
+  "oude_url": "/gelderland/heukelum/hsw-heuvel-sloopwerken/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "HSW Heuvel Sloopwerken 06-55524344",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heukelum. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

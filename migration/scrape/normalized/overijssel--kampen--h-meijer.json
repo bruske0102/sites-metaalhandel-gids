@@ -1,0 +1,37 @@
+{
+  "id": 489899,
+  "slug": "h-meijer",
+  "provincie": "overijssel",
+  "plaats": "kampen",
+  "naam": "H. Meijer",
+  "straat": "Wielstraat 20",
+  "postcode": "8263BJ",
+  "plaatsnaam": "Kampen",
+  "telefoon": "06-49851452",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.56083,
+  "lon": 5.881905,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/kampen/h-meijer/",
+  "meta_title": "H. Meijer 06-49851452",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kampen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/kampen/h-meijer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

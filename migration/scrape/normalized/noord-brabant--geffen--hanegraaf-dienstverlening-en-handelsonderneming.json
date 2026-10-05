@@ -1,0 +1,41 @@
+{
+  "id": 489950,
+  "slug": "hanegraaf-dienstverlening-en-handelsonderneming",
+  "provincie": "noord-brabant",
+  "plaats": "geffen",
+  "naam": "Hanegraaf Dienstverlening en Handelsonderneming",
+  "straat": "Bredeweg 20",
+  "postcode": "5386KP",
+  "plaatsnaam": "Geffen",
+  "telefoon": "073-5322907",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.746059,
+  "lon": 5.476891,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/geffen/hanegraaf-dienstverlening-en-handelsonderneming/",
+  "meta_title": "Hanegraaf Dienstverlening en Handelsonderneming 073-5322907",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Geffen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/geffen/hanegraaf-dienstverlening-en-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

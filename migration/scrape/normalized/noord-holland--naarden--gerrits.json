@@ -1,0 +1,41 @@
+{
+  "id": 489871,
+  "slug": "gerrits",
+  "provincie": "noord-holland",
+  "plaats": "naarden",
+  "naam": "Gerrits",
+  "straat": "Abri 19",
+  "postcode": "1411GJ",
+  "plaatsnaam": "Naarden",
+  "telefoon": "06-22812175",
+  "email": null,
+  "website": "http://www.springers.nl",
+  "lat": 52.290707,
+  "lon": 5.164606,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/naarden/gerrits/",
+  "meta_title": "Gerrits 06-22812175",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Naarden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/naarden/gerrits/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

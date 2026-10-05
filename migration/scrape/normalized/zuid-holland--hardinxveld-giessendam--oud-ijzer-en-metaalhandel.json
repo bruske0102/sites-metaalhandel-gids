@@ -1,0 +1,37 @@
+{
+  "id": 490133,
+  "slug": "oud-ijzer-en-metaalhandel",
+  "provincie": "zuid-holland",
+  "plaats": "hardinxveld-giessendam",
+  "naam": "Oud ijzer- en metaalhandel",
+  "straat": "Buitendams 306/B",
+  "postcode": "3371BS",
+  "plaatsnaam": "Werkendam",
+  "telefoon": "0184-614786",
+  "email": null,
+  "website": "http://www.oudijzerenmetaalhandel.nl",
+  "lat": 51.825078,
+  "lon": 4.821531,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hardinxveld-giessendam/oud-ijzer-en-metaalhandel/",
+  "meta_title": "Oud ijzer- en metaalhandel 0184-614786",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Werkendam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/hardinxveld-giessendam/oud-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

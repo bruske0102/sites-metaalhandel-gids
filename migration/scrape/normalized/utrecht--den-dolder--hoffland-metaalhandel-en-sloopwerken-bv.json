@@ -1,0 +1,37 @@
+{
+  "id": 489710,
+  "slug": "hoffland-metaalhandel-en-sloopwerken-bv",
+  "provincie": "utrecht",
+  "plaats": "den-dolder",
+  "naam": "Hoffland Metaalhandel en Sloopwerken BV",
+  "straat": "Fornheselaan 198/200",
+  "postcode": "3734GE",
+  "plaatsnaam": "Den Dolder",
+  "telefoon": "030-2292824",
+  "email": null,
+  "website": "http://www.hoffland.nl",
+  "lat": 52.14208,
+  "lon": 5.250703,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/den-dolder/hoffland-metaalhandel-en-sloopwerken-bv/",
+  "meta_title": "Hoffland Metaalhandel en Sloopwerken BV 030-2292824",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Dolder. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/den-dolder/hoffland-metaalhandel-en-sloopwerken-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489724,
+  "slug": "aa-henraat",
+  "provincie": "limburg",
+  "plaats": "roermond",
+  "naam": "A.A. Henraat",
+  "straat": "De Ruyterstraat 29",
+  "postcode": "6045XK",
+  "plaatsnaam": "Roermond",
+  "telefoon": "06-25118041",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.17653,
+  "lon": 6.006539,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/roermond/aa-henraat/",
+  "meta_title": "A.A. Henraat 06-25118041",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roermond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/roermond/aa-henraat/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

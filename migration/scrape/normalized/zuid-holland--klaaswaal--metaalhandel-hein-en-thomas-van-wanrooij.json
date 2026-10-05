@@ -1,0 +1,37 @@
+{
+  "id": 489682,
+  "slug": "metaalhandel-hein-en-thomas-van-wanrooij",
+  "provincie": "zuid-holland",
+  "plaats": "klaaswaal",
+  "naam": "Metaalhandel Hein en Thomas van Wanrooij",
+  "straat": "Boomdijk 35/E",
+  "postcode": "3286LD",
+  "plaatsnaam": "Klaaswaal",
+  "telefoon": "06-22065343",
+  "email": "hlvanwanrooij@online.nl",
+  "website": null,
+  "lat": 51.756737,
+  "lon": 4.472643,
+  "omschrijving": "Wij als metaalrecycling bedrijf garanderen kwaliteit in alle diensten die wij aanbieden.\nOns vaste klanten weten precies waar ze aan toe zijn. Onze klanten kunnen blind vertrouwen op onze servicegerichte, eerlijke en effectieve werkwijze. Of het nu gaat om groen, steen bouwsloop afval kun u ook bij ons te recht voor de beste service",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/klaaswaal/metaalhandel-hein-en-thomas-van-wanrooij/",
+  "meta_title": "Metaalhandel Hein en Thomas van Wanrooij 06-22065343 hlvanwanrooij@online.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Klaaswaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/klaaswaal/metaalhandel-hein-en-thomas-van-wanrooij/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

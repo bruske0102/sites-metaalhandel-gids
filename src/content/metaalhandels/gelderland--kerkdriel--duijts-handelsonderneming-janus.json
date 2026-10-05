@@ -1,0 +1,30 @@
+{
+  "id": 489821,
+  "slug": "duijts-handelsonderneming-janus",
+  "provincie": "gelderland",
+  "plaats": "kerkdriel",
+  "naam": "Duijts Handelsonderneming Janus",
+  "straat": "Nijverheidsstraat 21",
+  "postcode": "5331PT",
+  "plaatsnaam": "Kerkdriel",
+  "telefoon": "0418-633729",
+  "lat": 51.772331,
+  "lon": 5.323004,
+  "status": "gesloten",
+  "oude_url": "/gelderland/kerkdriel/duijts-handelsonderneming-janus/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Duijts Handelsonderneming Janus 0418-633729",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kerkdriel. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490318,
+  "slug": "r-drosu",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "R. Drosu",
+  "straat": "Uiterwaardenstraat 80/2",
+  "postcode": "1079CD",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-87311145",
+  "email": null,
+  "website": "http://www.springers.nl",
+  "lat": 52.34324,
+  "lon": 4.909415,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/r-drosu/",
+  "meta_title": "R. Drosu 06-87311145",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/r-drosu/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

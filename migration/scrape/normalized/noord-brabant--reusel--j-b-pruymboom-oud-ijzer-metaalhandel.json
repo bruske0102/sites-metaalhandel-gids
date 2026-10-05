@@ -1,0 +1,37 @@
+{
+  "id": 490004,
+  "slug": "j-b-pruymboom-oud-ijzer-metaalhandel",
+  "provincie": "noord-brabant",
+  "plaats": "reusel",
+  "naam": "J & B Pruymboom Oud IJzer & Metaalhandel",
+  "straat": "Hoevenbocht 4/6",
+  "postcode": "5541RX",
+  "plaatsnaam": "Reusel",
+  "telefoon": "0497-642515",
+  "email": null,
+  "website": "http://www.jbpruymboom.com",
+  "lat": 51.362727,
+  "lon": 5.175761,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/reusel/j-b-pruymboom-oud-ijzer-metaalhandel/",
+  "meta_title": "J & B Pruymboom Oud IJzer & Metaalhandel 0497-642515",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Reusel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/reusel/j-b-pruymboom-oud-ijzer-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

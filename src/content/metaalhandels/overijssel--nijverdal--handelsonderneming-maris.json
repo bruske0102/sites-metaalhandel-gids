@@ -1,0 +1,31 @@
+{
+  "id": 489934,
+  "slug": "handelsonderneming-maris",
+  "provincie": "overijssel",
+  "plaats": "nijverdal",
+  "naam": "Handelsonderneming Maris",
+  "straat": "Lentzinckserve 7",
+  "postcode": "7441KD",
+  "plaatsnaam": "Nijverdal",
+  "telefoon": "0548-619152",
+  "website": "http://www.calot.nl",
+  "lat": 52.351922,
+  "lon": 6.464887,
+  "status": "gesloten",
+  "oude_url": "/overijssel/nijverdal/handelsonderneming-maris/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming Maris 0548-619152",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijverdal. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

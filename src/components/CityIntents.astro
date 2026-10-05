@@ -1,0 +1,71 @@
+---
+/**
+ * Intent H2s for Group A city pages: Metaalhandel-gids.nl
+ */
+import type { Listing } from "../lib/model";
+import { cityIntent, isHighTrafficCity, INTENT_BLOG_LINKS } from "../lib/city-intents";
+import { listingCount } from "../lib/nl-count";
+
+interface Props {
+  stad: string;
+  plaatsSlug: string;
+  listings: Listing[];
+  expanded?: boolean;
+}
+const { stad, plaatsSlug, listings, expanded = false } = Astro.props;
+const intent = cityIntent(plaatsSlug);
+const showExpanded = expanded || isHighTrafficCity(plaatsSlug);
+const n = listings.length;
+---
+<section class="section city-intents" aria-labelledby="intents-intro">
+  <h2 id="intents-intro" class="visually-hidden">Metaalhandel kiezen in {stad}</h2>
+  <p class="city-intents__lead">
+    Wat zoekers in {stad} vaak willen weten, kort en eerlijk.
+    Vergelijk {n === 1 ? "de metaalhandel" : "de metaalhandels"} hierboven op adres en telefoon.
+  </p>
+  <div class="city-intents__block">
+    <h2 id={`metaal-${plaatsSlug}`}>Metaalhandel &amp; oud ijzer in {stad}</h2>
+    <p>
+      {n === 1
+        ? `In onze gids staat 1 metaalhandel in ${stad}. Check adres en telefoon hierboven.`
+        : `In onze gids staan ${listingCount(n)} in ${stad}. Gebruik adres en telefoon om te vergelijken.`}
+      {" "}
+      Hulp: <a href={INTENT_BLOG_LINKS.prijzen.href}>{INTENT_BLOG_LINKS.prijzen.label}</a>.
+    </p>
+  </div>
+  <div class="city-intents__block">
+    <h2 id={`ophalen-${plaatsSlug}`}>Ophalen of inleveren in {stad}</h2>
+    <p>
+      Sommige handels halen schroot op; anderen werken alleen op het terrein.
+      Bel voor dagprijs, openingstijden en wat ze aannemen.
+      {" "}
+      Tip: <a href={INTENT_BLOG_LINKS.ophalen.href}>{INTENT_BLOG_LINKS.ophalen.label}</a>.
+    </p>
+  </div>
+  {showExpanded && (
+    <div class="city-intents__block">
+      <h2 id={`soorten-${plaatsSlug}`}>Welk metaal leveren?</h2>
+      <p>
+        Ferro, non-ferro, koper, aluminium: vraag wat ze innemen en of er een minimumgewicht geldt.
+        {" "}
+        <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
+      </p>
+    </div>
+  )}
+  <div class="city-intents__block">
+    <h2 id={`buurt-${plaatsSlug}`}>Metaalhandel in de buurt van {stad}</h2>
+    <p>
+      Geen geschikte handel in {stad}? Kijk ook in buurgemeenten via <a href="/zoeken/">zoeken</a>.
+    </p>
+  </div>
+</section>
+<style>
+  .city-intents__lead { color: var(--muted); max-width: 62ch; }
+  .city-intents__block { margin-top: 1.5rem; }
+  .city-intents__block h2 { font-size: 1.25rem; margin: 0 0 0.4rem; }
+  .city-intents__block p { margin: 0; max-width: 65ch; }
+  .visually-hidden {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+  }
+</style>

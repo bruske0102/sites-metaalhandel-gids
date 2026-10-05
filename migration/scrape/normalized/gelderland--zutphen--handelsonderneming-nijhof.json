@@ -1,0 +1,41 @@
+{
+  "id": 489937,
+  "slug": "handelsonderneming-nijhof",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Handelsonderneming Nijhof",
+  "straat": "Deventerweg 247/C",
+  "postcode": "7203AJ",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-51953894",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.157739,
+  "lon": 6.21533,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/handelsonderneming-nijhof/",
+  "meta_title": "Handelsonderneming Nijhof 06-51953894",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/handelsonderneming-nijhof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

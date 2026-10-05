@@ -1,0 +1,41 @@
+{
+  "id": 489702,
+  "slug": "vin-j-c-vd",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "Vin J C vd",
+  "straat": "Roeventerpeelweg 4",
+  "postcode": "6004PH",
+  "plaatsnaam": "Weert",
+  "telefoon": "0495-524005",
+  "email": null,
+  "website": null,
+  "lat": 51.24699,
+  "lon": 5.75585,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/weert/vin-j-c-vd/",
+  "meta_title": "Vin J C vd 0495-524005",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/weert/vin-j-c-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

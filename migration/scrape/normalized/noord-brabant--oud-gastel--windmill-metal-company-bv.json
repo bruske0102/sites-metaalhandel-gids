@@ -1,0 +1,41 @@
+{
+  "id": 489718,
+  "slug": "windmill-metal-company-bv",
+  "provincie": "noord-brabant",
+  "plaats": "oud-gastel",
+  "naam": "Windmill Metal Company BV",
+  "straat": "Het Appeltje 5",
+  "postcode": "4751XJ",
+  "plaatsnaam": "Oud Gastel",
+  "telefoon": "0165-349160",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.56402,
+  "lon": 4.477033,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/oud-gastel/windmill-metal-company-bv/",
+  "meta_title": "Windmill Metal Company BV 0165-349160",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oud Gastel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/oud-gastel/windmill-metal-company-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

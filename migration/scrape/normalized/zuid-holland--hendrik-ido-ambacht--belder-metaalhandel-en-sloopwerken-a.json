@@ -1,0 +1,37 @@
+{
+  "id": 489758,
+  "slug": "belder-metaalhandel-en-sloopwerken-a",
+  "provincie": "zuid-holland",
+  "plaats": "hendrik-ido-ambacht",
+  "naam": "Belder Metaalhandel en Sloopwerken A",
+  "straat": "Frankepad 9/11",
+  "postcode": "3341LV",
+  "plaatsnaam": "Alblasserdam",
+  "telefoon": "078-6918377",
+  "email": null,
+  "website": "http://www.oudmetaalhendrikidoambacht.nl",
+  "lat": 51.8602777,
+  "lon": 4.671866899999999,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hendrik-ido-ambacht/belder-metaalhandel-en-sloopwerken-a/",
+  "meta_title": "Belder Metaalhandel en Sloopwerken A 078-6918377",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Alblasserdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/hendrik-ido-ambacht/belder-metaalhandel-en-sloopwerken-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

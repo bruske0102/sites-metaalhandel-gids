@@ -1,0 +1,41 @@
+{
+  "id": 490068,
+  "slug": "laros-bv-t-j-h",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Laros BV T J H",
+  "straat": "Elsstraat 25",
+  "postcode": "4814AP",
+  "plaatsnaam": "Breda",
+  "telefoon": "076-5212763",
+  "email": null,
+  "website": "http://www.stolwerkmetaal.nl",
+  "lat": 51.590282,
+  "lon": 4.757647,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/breda/laros-bv-t-j-h/",
+  "meta_title": "Laros BV T J H 076-5212763",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Breda. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/breda/laros-bv-t-j-h/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

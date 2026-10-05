@@ -1,0 +1,41 @@
+{
+  "id": 490335,
+  "slug": "rjs-recycling",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "RJS Recycling",
+  "straat": "Kanaalstraat 323",
+  "postcode": "7547AT",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-33266224",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.231282,
+  "lon": 6.845496,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/rjs-recycling/",
+  "meta_title": "RJS Recycling 06-33266224",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/rjs-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

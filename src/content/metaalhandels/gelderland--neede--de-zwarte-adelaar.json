@@ -1,0 +1,31 @@
+{
+  "id": 490126,
+  "slug": "de-zwarte-adelaar",
+  "provincie": "gelderland",
+  "plaats": "neede",
+  "naam": "De Zwarte Adelaar",
+  "straat": "Oudestraat 40/A",
+  "postcode": "7161DX",
+  "plaatsnaam": "Neede",
+  "telefoon": "06-48176851",
+  "lat": 52.133292,
+  "lon": 6.612464,
+  "status": "gesloten",
+  "oude_url": "/gelderland/neede/de-zwarte-adelaar/",
+  "omschrijving": "Bij De Zwarte Adelaar kunt u terecht voor de aan - en verkoop van gebruikte goederen en inboedels.\n\nDe zaak ziet er uitnodigend uit, een veelvoud van meubels, kleding, slaapkamers, kleingoed en andere artikelen staan overzichtelijk en ruim geëtaleerd en gedecoreerd op een groot aantal m².",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "De Zwarte Adelaar 06-48176851",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Neede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

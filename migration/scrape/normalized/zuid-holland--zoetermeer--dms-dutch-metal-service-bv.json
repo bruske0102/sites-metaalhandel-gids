@@ -1,0 +1,41 @@
+{
+  "id": 489793,
+  "slug": "dms-dutch-metal-service-bv",
+  "provincie": "zuid-holland",
+  "plaats": "zoetermeer",
+  "naam": "D.M.S. Dutch Metal Service BV",
+  "straat": "Willem Dreeslaan 192",
+  "postcode": "2729NJ",
+  "plaatsnaam": "Zoetermeer",
+  "telefoon": "079-5939652",
+  "email": "j.slotboom@me.com",
+  "website": null,
+  "lat": 52.063534,
+  "lon": 4.532792,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/zoetermeer/dms-dutch-metal-service-bv/",
+  "meta_title": "D.M.S. Dutch Metal Service BV 079-5939652 j.slotboom@me.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zoetermeer. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/zoetermeer/dms-dutch-metal-service-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

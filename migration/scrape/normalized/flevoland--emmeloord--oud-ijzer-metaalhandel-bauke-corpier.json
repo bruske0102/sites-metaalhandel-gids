@@ -1,0 +1,37 @@
+{
+  "id": 490260,
+  "slug": "oud-ijzer-metaalhandel-bauke-corpier",
+  "provincie": "flevoland",
+  "plaats": "emmeloord",
+  "naam": "Oud Ijzer & Metaalhandel Bauke Corpier",
+  "straat": "Hoefbladstraat 45",
+  "postcode": "8302VM",
+  "plaatsnaam": "Emmeloord",
+  "telefoon": "06-30784995",
+  "email": null,
+  "website": "http://www.wijnand-handel.nl",
+  "lat": 52.715195,
+  "lon": 5.743337,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/emmeloord/oud-ijzer-metaalhandel-bauke-corpier/",
+  "meta_title": "Oud Ijzer & Metaalhandel Bauke Corpier 06-30784995",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmeloord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/emmeloord/oud-ijzer-metaalhandel-bauke-corpier/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

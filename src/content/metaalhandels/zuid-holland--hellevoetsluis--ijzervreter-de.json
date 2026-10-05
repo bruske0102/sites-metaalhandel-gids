@@ -1,0 +1,31 @@
+{
+  "id": 489997,
+  "slug": "ijzervreter-de",
+  "provincie": "zuid-holland",
+  "plaats": "hellevoetsluis",
+  "naam": "IJzervreter De",
+  "straat": "Dukdalf 16",
+  "postcode": "3224CB",
+  "plaatsnaam": "Hellevoetsluis",
+  "telefoon": "06-29192753",
+  "website": "http://www.jkik.nl",
+  "lat": 51.823398,
+  "lon": 4.149998,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/hellevoetsluis/ijzervreter-de/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "IJzervreter De 06-29192753",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hellevoetsluis. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

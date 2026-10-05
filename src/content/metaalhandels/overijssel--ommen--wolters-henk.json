@@ -1,0 +1,31 @@
+{
+  "id": 490463,
+  "slug": "wolters-henk",
+  "provincie": "overijssel",
+  "plaats": "ommen",
+  "naam": "Wolters Henk",
+  "straat": "Rotbrinksweg 9",
+  "postcode": "7731TC",
+  "plaatsnaam": "Ommen",
+  "telefoon": "06-39465790",
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.529009,
+  "lon": 6.421137,
+  "status": "gesloten",
+  "oude_url": "/overijssel/ommen/wolters-henk/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Wolters Henk 06-39465790",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ommen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

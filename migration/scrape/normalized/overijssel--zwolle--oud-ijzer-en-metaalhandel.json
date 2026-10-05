@@ -1,0 +1,37 @@
+{
+  "id": 489666,
+  "slug": "oud-ijzer-en-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "Oud ijzer- en metaalhandel",
+  "straat": "Buxtehudestraat 105",
+  "postcode": "8031KV",
+  "plaatsnaam": "Hattem",
+  "telefoon": "06-27093279",
+  "email": null,
+  "website": null,
+  "lat": 52.529354,
+  "lon": 6.085994,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/oud-ijzer-en-metaalhandel/",
+  "meta_title": "Oud ijzer- en metaalhandel 06-27093279",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hattem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/oud-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 489614,
+  "slug": "ks-recycling-bv",
+  "provincie": "zuid-holland",
+  "plaats": "simonshaven",
+  "naam": "KS Recycling BV",
+  "straat": "Ring 4",
+  "postcode": "3212LS",
+  "plaatsnaam": "Simonshaven",
+  "telefoon": "0181-459045",
+  "email": "info@ksrecycling.nl",
+  "website": "http://www.ksrecycling.nl",
+  "lat": 51.823019,
+  "lon": 4.289992,
+  "omschrijving": "IJzer- en Metaalhandel sinds 1921.\nInkoop van schroot en metalen van bedrijf of particulier. De beste dagprijzen!\nPlaatsing van containers voor de afvoer van schroot en metalen bij bedrijven.\n\nBij ons kunt u o.a. inleveren: oud ijzer, schroot, oud metaal, aluminium, koper, messing, roodkoper, geelkoper, handgepeld, zwaar rood, gemengd rood, geslagen aluminium, gegoten aluminium, nieuw aluminium, profiel aluminium, zink, lood, RVS, roestvrijstaal, 304, 316, brons, enz\n\nNeem contact op voor de actuele dagprijzen: 0181-459045",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/simonshaven/ks-recycling-bv/",
+  "meta_title": "KS Recycling BV 0181-459045 info@ksrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Simonshaven. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/simonshaven/ks-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490209,
+  "slug": "metaalrecycling-vossebelt-b-v",
+  "provincie": "zuid-holland",
+  "plaats": "lisse",
+  "naam": "Metaalrecycling Vossebelt B V",
+  "straat": "Regenboogplein 7",
+  "postcode": "2162LE",
+  "plaatsnaam": "Lisse",
+  "telefoon": "0252-413388",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.24242,
+  "lon": 4.564282,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/lisse/metaalrecycling-vossebelt-b-v/",
+  "meta_title": "Metaalrecycling Vossebelt B V 0252-413388",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lisse. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/lisse/metaalrecycling-vossebelt-b-v/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

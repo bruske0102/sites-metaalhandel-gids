@@ -1,0 +1,38 @@
+{
+  "id": 489886,
+  "slug": "gm-aluminium",
+  "provincie": "noord-brabant",
+  "plaats": "elshout",
+  "naam": "GM Aluminium",
+  "straat": "Scheidingstraat 1",
+  "postcode": "5154AE",
+  "plaatsnaam": "Elshout",
+  "telefoon": "0416-380159",
+  "email": null,
+  "website": "http://www.gm-aluminium.nl",
+  "lat": 51.696751,
+  "lon": 5.142337,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/elshout/gm-aluminium/",
+  "meta_title": "GM Aluminium 0416-380159",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Elshout. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/elshout/gm-aluminium/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

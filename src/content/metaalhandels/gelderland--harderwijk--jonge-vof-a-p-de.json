@@ -1,0 +1,30 @@
+{
+  "id": 490041,
+  "slug": "jonge-vof-a-p-de",
+  "provincie": "gelderland",
+  "plaats": "harderwijk",
+  "naam": "Jonge VOF A P de",
+  "straat": "Deventerweg 66",
+  "postcode": "3843GD",
+  "plaatsnaam": "Harderwijk",
+  "telefoon": "06-26802402",
+  "lat": 52.334199,
+  "lon": 5.636385,
+  "status": "gesloten",
+  "oude_url": "/gelderland/harderwijk/jonge-vof-a-p-de/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Jonge VOF A P de 06-26802402",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Harderwijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490314,
+  "slug": "puffelen-p-h-van",
+  "provincie": "zuid-holland",
+  "plaats": "rijswijk",
+  "naam": "Puffelen P H van",
+  "straat": "Broekmolenweg 19",
+  "postcode": "2289BE",
+  "plaatsnaam": "Rijswijk zh",
+  "telefoon": "070-3989008",
+  "website": "http://www.vanpuffelenrijswijk.nl",
+  "lat": 52.025652,
+  "lon": 4.34884,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rijswijk/puffelen-p-h-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Puffelen P H van 070-3989008",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijswijk zh. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490338,
+  "slug": "roggeveld-a",
+  "provincie": "friesland",
+  "plaats": "sneek",
+  "naam": "Roggeveld A",
+  "straat": "Selfhelpweg 1",
+  "postcode": "8607AB",
+  "plaatsnaam": "Sneek",
+  "telefoon": "0515-424189",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 53.02788,
+  "lon": 5.662353,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/sneek/roggeveld-a/",
+  "meta_title": "Roggeveld A 0515-424189",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sneek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/sneek/roggeveld-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

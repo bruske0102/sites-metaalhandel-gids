@@ -1,0 +1,37 @@
+{
+  "id": 490167,
+  "slug": "metaal-bv-b-t",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Metaal BV B & T",
+  "straat": "Kiotoweg 157",
+  "postcode": "3047BG",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-81413141",
+  "email": null,
+  "website": null,
+  "lat": 51.94308,
+  "lon": 4.397743,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/metaal-bv-b-t/",
+  "meta_title": "Metaal BV B & T 06-81413141",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/metaal-bv-b-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

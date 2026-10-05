@@ -1,0 +1,41 @@
+{
+  "id": 490061,
+  "slug": "klaas-zwart-handelsonderneming",
+  "provincie": "friesland",
+  "plaats": "driezum",
+  "naam": "Klaas Zwart Handelsonderneming",
+  "straat": "Foarwei 23",
+  "postcode": "9114RA",
+  "plaatsnaam": "Driezum",
+  "telefoon": "06-49345035",
+  "email": null,
+  "website": null,
+  "lat": 53.293136,
+  "lon": 6.041739,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/driezum/klaas-zwart-handelsonderneming/",
+  "meta_title": "Klaas Zwart Handelsonderneming 06-49345035",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Driezum. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/driezum/klaas-zwart-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

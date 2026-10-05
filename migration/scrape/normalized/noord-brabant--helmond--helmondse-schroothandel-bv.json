@@ -1,0 +1,38 @@
+{
+  "id": 489667,
+  "slug": "helmondse-schroothandel-bv",
+  "provincie": "noord-brabant",
+  "plaats": "helmond",
+  "naam": "Helmondse Schroothandel BV",
+  "straat": "Deurneseweg 1",
+  "postcode": "5709AH",
+  "plaatsnaam": "Helmond",
+  "telefoon": "0492-514559",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.469735,
+  "lon": 5.719111,
+  "omschrijving": "De Helmondse Schroothandel BV koopt en verkoopt afvalstoffen zoals ijzer, schroot, aluminium, koper, lood, zink, accus en kabels. Wij zijn gespecialiseerd in het verwerken, sorteren en scheiden van deze ferro en non-ferro metalen.\n\nZowel particulieren, handelaren, midden- kleinbedrijf als bouw en industrie worden tot de klantenkring van ons gerekend. Met marktgerichte beursgerelateerde prijzen staat de Helmondse Schroothandel BV garant voor een hoge prijs. Voor meer informatie kunt u contact met ons opnemen.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/helmond/helmondse-schroothandel-bv/",
+  "meta_title": "Helmondse Schroothandel BV 0492-514559",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Helmond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/helmond/helmondse-schroothandel-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

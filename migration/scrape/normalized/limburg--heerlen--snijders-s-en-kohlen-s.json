@@ -1,0 +1,41 @@
+{
+  "id": 490372,
+  "slug": "snijders-s-en-kohlen-s",
+  "provincie": "limburg",
+  "plaats": "heerlen",
+  "naam": "Snijders S en Kohlen S",
+  "straat": "Kampstraat 42",
+  "postcode": "6413ED",
+  "plaatsnaam": "Heerlen",
+  "telefoon": "045-5218288",
+  "email": null,
+  "website": null,
+  "lat": 50.916291,
+  "lon": 5.959068,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/heerlen/snijders-s-en-kohlen-s/",
+  "meta_title": "Snijders S en Kohlen S 045-5218288",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerlen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/heerlen/snijders-s-en-kohlen-s/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

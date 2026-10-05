@@ -1,0 +1,37 @@
+{
+  "id": 490300,
+  "slug": "ramakers-metaalhandel",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Ramakers Metaalhandel",
+  "straat": "Berlagelaan 113",
+  "postcode": "2033XS",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-13560222",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.379958,
+  "lon": 4.663776,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/ramakers-metaalhandel/",
+  "meta_title": "Ramakers Metaalhandel 06-13560222",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/ramakers-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

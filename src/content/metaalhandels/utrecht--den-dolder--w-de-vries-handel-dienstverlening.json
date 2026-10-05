@@ -1,0 +1,31 @@
+{
+  "id": 490436,
+  "slug": "w-de-vries-handel-dienstverlening",
+  "provincie": "utrecht",
+  "plaats": "den-dolder",
+  "naam": "W. de Vries Handel & Dienstverlening",
+  "straat": "Distelvlinder 5",
+  "postcode": "3734AA",
+  "plaatsnaam": "Den Dolder",
+  "telefoon": "06-47162050",
+  "website": "http://www.hoffland.nl",
+  "lat": 52.145533,
+  "lon": 5.244557,
+  "status": "gesloten",
+  "oude_url": "/utrecht/den-dolder/w-de-vries-handel-dienstverlening/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "W. de Vries Handel & Dienstverlening 06-47162050",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Dolder. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

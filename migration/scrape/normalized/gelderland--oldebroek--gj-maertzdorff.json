@@ -1,0 +1,41 @@
+{
+  "id": 489862,
+  "slug": "gj-maertzdorff",
+  "provincie": "gelderland",
+  "plaats": "oldebroek",
+  "naam": "G.J. Maertzdorff",
+  "straat": "Feithenhofsweg 14",
+  "postcode": "8096PB",
+  "plaatsnaam": "Oldebroek",
+  "telefoon": "0525-632952",
+  "email": null,
+  "website": null,
+  "lat": 52.437823,
+  "lon": 5.893632,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/oldebroek/gj-maertzdorff/",
+  "meta_title": "G.J. Maertzdorff 0525-632952",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldebroek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/oldebroek/gj-maertzdorff/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

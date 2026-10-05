@@ -1,0 +1,31 @@
+{
+  "id": 490091,
+  "slug": "loeve-w",
+  "provincie": "noord-brabant",
+  "plaats": "moerdijk",
+  "naam": "Loeve W",
+  "straat": "Steenweg 18",
+  "postcode": "4781AP",
+  "plaatsnaam": "Moerdijk",
+  "telefoon": "0168-412870",
+  "website": "http://www.hks.nl",
+  "lat": 51.69934,
+  "lon": 4.631148,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/moerdijk/loeve-w/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Loeve W 0168-412870",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Moerdijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

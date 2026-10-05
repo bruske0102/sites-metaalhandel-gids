@@ -1,0 +1,41 @@
+{
+  "id": 490326,
+  "slug": "rienksma-handelsonderneming-j",
+  "provincie": "friesland",
+  "plaats": "leeuwarden",
+  "naam": "Rienksma Handelsonderneming J",
+  "straat": "Javastraat 5",
+  "postcode": "8921JG",
+  "plaatsnaam": "Leeuwarden",
+  "telefoon": "06-21905190",
+  "email": null,
+  "website": null,
+  "lat": 53.20339,
+  "lon": 5.816253,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/leeuwarden/rienksma-handelsonderneming-j/",
+  "meta_title": "Rienksma Handelsonderneming J 06-21905190",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leeuwarden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/leeuwarden/rienksma-handelsonderneming-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

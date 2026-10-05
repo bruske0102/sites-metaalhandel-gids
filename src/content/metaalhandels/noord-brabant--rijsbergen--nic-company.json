@@ -1,0 +1,31 @@
+{
+  "id": 490233,
+  "slug": "nic-company",
+  "provincie": "noord-brabant",
+  "plaats": "rijsbergen",
+  "naam": "Nic Company",
+  "straat": "Bredaseweg 33",
+  "postcode": "4891SJ",
+  "plaatsnaam": "Rijsbergen",
+  "telefoon": "06-17079598",
+  "website": "http://www.stolwerkmetaal.nl",
+  "lat": 51.535638,
+  "lon": 4.715511,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/rijsbergen/nic-company/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Nic Company 06-17079598",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijsbergen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

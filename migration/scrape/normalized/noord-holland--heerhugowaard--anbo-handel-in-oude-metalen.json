@@ -1,0 +1,37 @@
+{
+  "id": 489735,
+  "slug": "anbo-handel-in-oude-metalen",
+  "provincie": "noord-holland",
+  "plaats": "heerhugowaard",
+  "naam": "Anbo Handel in Oude Metalen",
+  "straat": "Noorderlicht 91",
+  "postcode": "1704ZM",
+  "plaatsnaam": "Heerhugowaard",
+  "telefoon": "072-5717256",
+  "email": null,
+  "website": null,
+  "lat": 52.647954,
+  "lon": 4.80167,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heerhugowaard/anbo-handel-in-oude-metalen/",
+  "meta_title": "Anbo Handel in Oude Metalen 072-5717256",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerhugowaard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/heerhugowaard/anbo-handel-in-oude-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

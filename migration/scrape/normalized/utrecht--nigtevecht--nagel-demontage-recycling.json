@@ -1,0 +1,41 @@
+{
+  "id": 490229,
+  "slug": "nagel-demontage-recycling",
+  "provincie": "utrecht",
+  "plaats": "nigtevecht",
+  "naam": "Nagel Demontage & Recycling",
+  "straat": "Vreelandseweg 4",
+  "postcode": "1393PG",
+  "plaatsnaam": "Nigtevecht",
+  "telefoon": "0294-255825",
+  "email": null,
+  "website": "http://www.nageldemontage.nl",
+  "lat": 52.27208,
+  "lon": 5.022042,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/nigtevecht/nagel-demontage-recycling/",
+  "meta_title": "Nagel Demontage & Recycling 0294-255825",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nigtevecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/nigtevecht/nagel-demontage-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

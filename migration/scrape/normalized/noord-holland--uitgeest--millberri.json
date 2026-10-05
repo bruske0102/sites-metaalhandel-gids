@@ -1,0 +1,41 @@
+{
+  "id": 490214,
+  "slug": "millberri",
+  "provincie": "noord-holland",
+  "plaats": "uitgeest",
+  "naam": "Millberri",
+  "straat": "Hogeweg 39",
+  "postcode": "1911GB",
+  "plaatsnaam": "Uitgeest",
+  "telefoon": "06-22942830",
+  "email": null,
+  "website": null,
+  "lat": 52.527862,
+  "lon": 4.709821,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/uitgeest/millberri/",
+  "meta_title": "Millberri 06-22942830",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Uitgeest. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/uitgeest/millberri/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

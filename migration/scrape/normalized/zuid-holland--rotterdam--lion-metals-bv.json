@@ -1,0 +1,37 @@
+{
+  "id": 490088,
+  "slug": "lion-metals-bv",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Lion Metals BV",
+  "straat": "Boezembocht 34",
+  "postcode": "3034KA",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-2409999",
+  "email": null,
+  "website": "http://www.lionmetals.nl",
+  "lat": 51.943518,
+  "lon": 4.501072,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/lion-metals-bv/",
+  "meta_title": "Lion Metals BV 010-2409999",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/lion-metals-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

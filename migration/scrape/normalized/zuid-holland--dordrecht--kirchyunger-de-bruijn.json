@@ -1,0 +1,41 @@
+{
+  "id": 490060,
+  "slug": "kirchyunger-de-bruijn",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Kirchyünger De Bruijn",
+  "straat": "Merbau 202",
+  "postcode": "3315RJ",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "078-6214931",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.804216,
+  "lon": 4.712804,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/dordrecht/kirchyunger-de-bruijn/",
+  "meta_title": "Kirchyünger De Bruijn 078-6214931",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/kirchyunger-de-bruijn/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

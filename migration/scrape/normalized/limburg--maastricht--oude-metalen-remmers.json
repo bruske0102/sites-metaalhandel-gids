@@ -1,0 +1,37 @@
+{
+  "id": 490274,
+  "slug": "oude-metalen-remmers",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Oude Metalen Remmers",
+  "straat": "Mondragonstraat 3",
+  "postcode": "6224TM",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-4083378",
+  "email": null,
+  "website": "http://www.franssenmetaalrecycling.nl",
+  "lat": 50.85346,
+  "lon": 5.716318,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/oude-metalen-remmers/",
+  "meta_title": "Oude Metalen Remmers 043-4083378",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/oude-metalen-remmers/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

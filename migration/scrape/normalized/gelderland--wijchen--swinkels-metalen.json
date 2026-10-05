@@ -1,0 +1,37 @@
+{
+  "id": 490390,
+  "slug": "swinkels-metalen",
+  "provincie": "gelderland",
+  "plaats": "wijchen",
+  "naam": "Swinkels Metalen",
+  "straat": "Diepvoorde 2014",
+  "postcode": "6605GC",
+  "plaatsnaam": "Wijchen",
+  "telefoon": "06-16510118",
+  "email": null,
+  "website": "http://www.pennings-metaalrecycling.nl",
+  "lat": 51.802076,
+  "lon": 5.723499,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/wijchen/swinkels-metalen/",
+  "meta_title": "Swinkels Metalen 06-16510118",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wijchen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/wijchen/swinkels-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

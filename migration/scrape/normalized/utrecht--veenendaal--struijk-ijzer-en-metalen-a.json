@@ -1,0 +1,37 @@
+{
+  "id": 490385,
+  "slug": "struijk-ijzer-en-metalen-a",
+  "provincie": "utrecht",
+  "plaats": "veenendaal",
+  "naam": "Struijk IJzer en Metalen A",
+  "straat": "Roland Holstlaan 43",
+  "postcode": "3906XA",
+  "plaatsnaam": "Veenendaal",
+  "telefoon": "06-53617753",
+  "email": null,
+  "website": "http://www.struijkijzerenmetalen.nl",
+  "lat": 52.027589,
+  "lon": 5.524636,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/veenendaal/struijk-ijzer-en-metalen-a/",
+  "meta_title": "Struijk IJzer en Metalen A 06-53617753",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Veenendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/veenendaal/struijk-ijzer-en-metalen-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

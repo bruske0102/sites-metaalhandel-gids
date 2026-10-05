@@ -1,0 +1,31 @@
+{
+  "id": 489774,
+  "slug": "bunyamin-ata",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Bunyamin Ata",
+  "straat": "Piet Heynsplein 21/B",
+  "postcode": "3024RJ",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-42666461",
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.90779,
+  "lon": 4.449255,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/bunyamin-ata/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Bunyamin Ata 06-42666461",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

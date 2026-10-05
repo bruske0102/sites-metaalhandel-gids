@@ -1,0 +1,30 @@
+{
+  "id": 489838,
+  "slug": "eurema-european-recycling-maastricht",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Eurema (European Recycling Maastricht)",
+  "straat": "Windmolen 15",
+  "postcode": "6229PN",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-3674945",
+  "lat": 50.818517,
+  "lon": 5.714438,
+  "status": "gesloten",
+  "oude_url": "/limburg/maastricht/eurema-european-recycling-maastricht/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Eurema (European Recycling Maastricht) 043-3674945",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

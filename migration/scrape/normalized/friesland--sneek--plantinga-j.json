@@ -1,0 +1,41 @@
+{
+  "id": 490288,
+  "slug": "plantinga-j",
+  "provincie": "friesland",
+  "plaats": "sneek",
+  "naam": "Plantinga J",
+  "straat": "Selfhelpweg 27",
+  "postcode": "8607AC",
+  "plaatsnaam": "Sneek",
+  "telefoon": "0515-411871",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 53.023546,
+  "lon": 5.667587,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/sneek/plantinga-j/",
+  "meta_title": "Plantinga J 0515-411871",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sneek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/sneek/plantinga-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489695,
+  "slug": "schroothandel-hamstra-gerrit-en-jan",
+  "provincie": "overijssel",
+  "plaats": "vollenhove",
+  "naam": "Schroothandel Hamstra Gerrit en Jan",
+  "straat": "De Hagen 27",
+  "postcode": "8325DB",
+  "plaatsnaam": "Vollenhove",
+  "telefoon": "06-25123524",
+  "email": "hamstrablokzijl@gmail.com",
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.683025,
+  "lon": 5.970117,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/vollenhove/schroothandel-hamstra-gerrit-en-jan/",
+  "meta_title": "Schroothandel Hamstra Gerrit en Jan 06-25123524 hamstrablokzijl@gmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vollenhove. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/vollenhove/schroothandel-hamstra-gerrit-en-jan/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

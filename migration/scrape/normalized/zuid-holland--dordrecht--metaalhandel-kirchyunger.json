@@ -1,0 +1,37 @@
+{
+  "id": 490180,
+  "slug": "metaalhandel-kirchyunger",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Metaalhandel Kirchyunger",
+  "straat": "Windsingel 27",
+  "postcode": "3329KV",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "06-54202080",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.792741,
+  "lon": 4.724441,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/metaalhandel-kirchyunger/",
+  "meta_title": "Metaalhandel Kirchyunger 06-54202080",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/metaalhandel-kirchyunger/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

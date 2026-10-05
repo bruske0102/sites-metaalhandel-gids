@@ -1,0 +1,38 @@
+{
+  "id": 489669,
+  "slug": "hulters-metaalhandel-bart",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Hülters Metaalhandel Bart",
+  "straat": "Weegbladtuin 20",
+  "postcode": "4824PZ",
+  "plaatsnaam": "Breda",
+  "telefoon": "06-23116642",
+  "email": null,
+  "website": null,
+  "lat": 51.60091,
+  "lon": 4.741709,
+  "omschrijving": "MAAKT CASH GELD VAN U METALEN!\n\nIk wil graag al u metalen tegen een scherpe prijs, (ALU,RVS,KOPER,IJZER,ENZ ) bij u op kopen .Zet tevens ook bakken bij bedrijven ook kleine bakjes. Ik ben een oficeel bedrijf met al mijn papieren en certificaten.Geef mij een belletje en u weet wat u metalen waard zijn.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/breda/hulters-metaalhandel-bart/",
+  "meta_title": "Hülters Metaalhandel Bart 06-23116642",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Breda. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/breda/hulters-metaalhandel-bart/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

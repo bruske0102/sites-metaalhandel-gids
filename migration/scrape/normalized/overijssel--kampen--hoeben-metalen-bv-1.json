@@ -1,0 +1,37 @@
+{
+  "id": 489973,
+  "slug": "hoeben-metalen-bv-1",
+  "provincie": "overijssel",
+  "plaats": "kampen",
+  "naam": "Hoeben Metalen BV",
+  "straat": "Oslokade 1",
+  "postcode": "8263 CH",
+  "plaatsnaam": "Kampen",
+  "telefoon": "038-4772935",
+  "email": "info@hoeben-metalen.nl",
+  "website": "http://www.hoebenmetalen.nl",
+  "lat": 52.575634,
+  "lon": 5.872457700000041,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/kampen/hoeben-metalen-bv-1/",
+  "meta_title": "Hoeben Metalen BV 038-4772935 info@hoeben-metalen.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kampen. Dagprijs handel (Overijssel).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/kampen/hoeben-metalen-bv-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

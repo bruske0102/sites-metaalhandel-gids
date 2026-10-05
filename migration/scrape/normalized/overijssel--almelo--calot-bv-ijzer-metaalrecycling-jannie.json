@@ -1,0 +1,37 @@
+{
+  "id": 489627,
+  "slug": "calot-bv-ijzer-metaalrecycling-jannie",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Calot BV IJzer- & Metaalrecycling Jannie",
+  "straat": "Slachthuiskade 22/D",
+  "postcode": "7602CV",
+  "plaatsnaam": "Almelo",
+  "telefoon": "0546-814752",
+  "email": "info@calot.nl",
+  "website": "http://www.calot.nl",
+  "lat": 52.365309,
+  "lon": 6.640646,
+  "omschrijving": "Ons familie bedrijf houdt zich al meer dan 50 jaar bezig met de in - en verkoop van oud ijzer en metalen voor bedrijven en particulieren (grote en kleine hoeveelheden).",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/almelo/calot-bv-ijzer-metaalrecycling-jannie/",
+  "meta_title": "Calot BV IJzer- & Metaalrecycling Jannie 0546-814752 info@calot.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/almelo/calot-bv-ijzer-metaalrecycling-jannie/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

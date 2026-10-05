@@ -1,0 +1,38 @@
+{
+  "id": 489626,
+  "slug": "blom-zn-h-bv",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Blom & Zn H BV",
+  "straat": "Jan van Riebeeckhavenweg 6",
+  "postcode": "1041AE",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-4110487",
+  "email": "info@blomamsterdam.nl",
+  "website": "http://www.blomamsterdam.nl",
+  "lat": 52.408732,
+  "lon": 4.852363,
+  "omschrijving": "H. Blom & Zonen B.V. is een onderneming dat zich heeft gespecialiseerd in 2 richtingen, maar met één uitgangspunt, namelijk milieuvriendelijk en duurzaam.\n\nSinds het begin van de onderneming in 1912 is de in- en verkoop van Ferro en Non Ferro metalen de basis van ons bedrijf. Tegenwoordig is dit nog steeds een heel belangrijke deel van ons bedrijf. Vele duizenden tonnages ferro en non ferro metalen worden jaarlijks in- en verkocht. Onze klanten komen uit de metaal-, groothandel-, voeding- en afvalsector maar ook particulieren zijn onze klanten. Ferro en Non Ferro metalen opgehaald door onze vrachtwagen of gebracht door de klant worden gewogen op de plateauschaal of weegbrug. Vervolgens wordt dit contant of per factuur afgerekend.\n\nNaast bovengenoemde tak zijn wij ook in de wijde omgeving bekend vanwege onze verpakkingen. Ook hier komen de klanten uit de voeding-, chemie-, farmaceutische- en afvalsector. Met de verkoop van onze vaten bedienen wij ook steeds meer particulieren. Onze grote voorraad omvat een ruim scala aan verpakkingen zowel in stalen dan wel kunststof uitvoering, denkt u hierbij aan vloeistofvaten, dekselvaten, jerrycans, IBC containers, emmers, bakken etc. Al deze verpakkingen zijn er in diverse uitvoeringen, kleuren en grootte.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/blom-zn-h-bv/",
+  "meta_title": "Blom & Zn H BV 020-4110487 info@blomamsterdam.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/blom-zn-h-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

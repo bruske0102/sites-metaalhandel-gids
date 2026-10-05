@@ -1,0 +1,37 @@
+{
+  "id": 490083,
+  "slug": "leeuwen-oud-ijzerhandel-leon-van",
+  "provincie": "zuid-holland",
+  "plaats": "wateringen",
+  "naam": "Leeuwen Oud IJzerhandel Leon van",
+  "straat": "Roelsplantsoen 39",
+  "postcode": "2291RK",
+  "plaatsnaam": "Wateringen",
+  "telefoon": "06-38419250",
+  "email": null,
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.02771,
+  "lon": 4.274081,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/wateringen/leeuwen-oud-ijzerhandel-leon-van/",
+  "meta_title": "Leeuwen Oud IJzerhandel Leon van 06-38419250",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wateringen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/wateringen/leeuwen-oud-ijzerhandel-leon-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490363,
+  "slug": "semanur-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Semanur Metaalhandel",
+  "straat": "Bouwert 12",
+  "postcode": "6229XK",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "06-16975978",
+  "email": null,
+  "website": null,
+  "lat": 50.825053,
+  "lon": 5.707814,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/semanur-metaalhandel/",
+  "meta_title": "Semanur Metaalhandel 06-16975978",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/semanur-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

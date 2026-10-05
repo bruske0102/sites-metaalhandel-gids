@@ -1,0 +1,37 @@
+{
+  "id": 490334,
+  "slug": "ripkens-handel-in-oud-ijzer-en-metalen",
+  "provincie": "limburg",
+  "plaats": "venray",
+  "naam": "Ripkens Handel in Oud IJzer en Metalen",
+  "straat": "Veltumse Kleffen 107",
+  "postcode": "5801SE",
+  "plaatsnaam": "Venray",
+  "telefoon": "06-25115791",
+  "email": null,
+  "website": "http://www.henraath.nl",
+  "lat": 51.517757,
+  "lon": 5.96482,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/venray/ripkens-handel-in-oud-ijzer-en-metalen/",
+  "meta_title": "Ripkens Handel in Oud IJzer en Metalen 06-25115791",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venray. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venray/ripkens-handel-in-oud-ijzer-en-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

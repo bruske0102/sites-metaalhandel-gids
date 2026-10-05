@@ -1,0 +1,31 @@
+{
+  "id": 490294,
+  "slug": "pronk-recycling",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Pronk Recycling",
+  "straat": "Van de Beltstraat 19",
+  "postcode": "2035TE",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-30682534",
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.365851,
+  "lon": 4.661481,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/haarlem/pronk-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Pronk Recycling 06-30682534",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

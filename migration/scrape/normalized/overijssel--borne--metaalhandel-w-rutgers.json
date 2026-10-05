@@ -1,0 +1,37 @@
+{
+  "id": 490195,
+  "slug": "metaalhandel-w-rutgers",
+  "provincie": "overijssel",
+  "plaats": "borne",
+  "naam": "Metaalhandel W. Rutgers",
+  "straat": "Enk 80",
+  "postcode": "7621ET",
+  "plaatsnaam": "Borne",
+  "telefoon": "074-2669096",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.29386,
+  "lon": 6.750133,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/borne/metaalhandel-w-rutgers/",
+  "meta_title": "Metaalhandel W. Rutgers 074-2669096",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Borne. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/borne/metaalhandel-w-rutgers/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

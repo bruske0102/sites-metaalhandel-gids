@@ -1,0 +1,37 @@
+{
+  "id": 489638,
+  "slug": "burg-oud-ijzer-en-metaal-g-j",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Burg Oud IJzer en Metaal G J",
+  "straat": "Draadrusplein 15",
+  "postcode": "5223DA",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-50450962",
+  "email": "g.jburg@ziggo.nl",
+  "website": null,
+  "lat": 51.693434,
+  "lon": 5.245665,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/burg-oud-ijzer-en-metaal-g-j/",
+  "meta_title": "Burg Oud IJzer en Metaal G J 06-50450962 g.jburg@ziggo.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bosch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/den-bosch/burg-oud-ijzer-en-metaal-g-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

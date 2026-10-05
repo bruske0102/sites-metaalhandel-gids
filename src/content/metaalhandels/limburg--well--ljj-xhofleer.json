@@ -1,0 +1,31 @@
+{
+  "id": 490082,
+  "slug": "ljj-xhofleer",
+  "provincie": "limburg",
+  "plaats": "well",
+  "naam": "L.J.J. Xhofleer",
+  "straat": "Elsterendijk 22",
+  "postcode": "5855AT",
+  "plaatsnaam": "Well lb",
+  "telefoon": "0478-501391",
+  "website": "http://www.henraath.nl",
+  "lat": 51.559632,
+  "lon": 6.084153,
+  "status": "gesloten",
+  "oude_url": "/limburg/well/ljj-xhofleer/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "L.J.J. Xhofleer 0478-501391",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Well lb. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

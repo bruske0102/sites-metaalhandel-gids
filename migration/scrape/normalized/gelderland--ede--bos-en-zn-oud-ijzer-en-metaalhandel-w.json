@@ -1,0 +1,37 @@
+{
+  "id": 489766,
+  "slug": "bos-en-zn-oud-ijzer-en-metaalhandel-w",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Bos en Zn Oud IJzer en Metaalhandel W",
+  "straat": "Leendert Tulplaan 47",
+  "postcode": "6713AV",
+  "plaatsnaam": "Ede gld",
+  "telefoon": "0318-840699",
+  "email": null,
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 52.041244,
+  "lon": 5.661862,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/bos-en-zn-oud-ijzer-en-metaalhandel-w/",
+  "meta_title": "Bos en Zn Oud IJzer en Metaalhandel W 0318-840699",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ede gld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/ede/bos-en-zn-oud-ijzer-en-metaalhandel-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489809,
+  "slug": "de-weerdt-vof",
+  "provincie": "gelderland",
+  "plaats": "hattem",
+  "naam": "De Weerdt VOF",
+  "straat": "1e Industrieweg 8",
+  "postcode": "8051CN",
+  "plaatsnaam": "Hattem",
+  "telefoon": "038-4442456",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.465178,
+  "lon": 6.079034,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/hattem/de-weerdt-vof/",
+  "meta_title": "De Weerdt VOF 038-4442456",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hattem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/hattem/de-weerdt-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

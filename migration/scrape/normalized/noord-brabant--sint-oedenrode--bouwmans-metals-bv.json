@@ -1,0 +1,37 @@
+{
+  "id": 490139,
+  "slug": "bouwmans-metals-bv",
+  "provincie": "noord-brabant",
+  "plaats": "sint-oedenrode",
+  "naam": "Bouwmans Metals BV",
+  "straat": "Dreesstraat 5",
+  "postcode": "5491CH",
+  "plaatsnaam": "St Oedenrode",
+  "telefoon": "06-13973716",
+  "email": null,
+  "website": "http://www.brouwermetaal.nl",
+  "lat": 51.575285,
+  "lon": 5.465258,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/sint-oedenrode/bouwmans-metals-bv/",
+  "meta_title": "Bouwmans Metals BV 06-13973716",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen St Oedenrode. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/sint-oedenrode/bouwmans-metals-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

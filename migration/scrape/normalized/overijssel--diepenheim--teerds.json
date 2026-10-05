@@ -1,0 +1,37 @@
+{
+  "id": 490395,
+  "slug": "teerds",
+  "provincie": "overijssel",
+  "plaats": "diepenheim",
+  "naam": "Teerds",
+  "straat": "Needseweg 7",
+  "postcode": "7478PZ",
+  "plaatsnaam": "Diepenheim",
+  "telefoon": "0547-352148",
+  "email": null,
+  "website": "http://www.metaalhandel-teerds.nl",
+  "lat": 52.189303,
+  "lon": 6.569104,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/diepenheim/teerds/",
+  "meta_title": "Teerds 0547-352148",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Diepenheim. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/diepenheim/teerds/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

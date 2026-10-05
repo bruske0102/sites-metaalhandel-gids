@@ -1,0 +1,31 @@
+{
+  "id": 489776,
+  "slug": "buuren-handelsonderneming-toon-van",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Buuren Handelsonderneming Toon van",
+  "straat": "Joost van den Vondelstr 367",
+  "postcode": "7103XV",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-57316141",
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.978252,
+  "lon": 6.730762,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/buuren-handelsonderneming-toon-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Buuren Handelsonderneming Toon van 06-57316141",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

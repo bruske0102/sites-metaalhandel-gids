@@ -1,0 +1,37 @@
+{
+  "id": 490237,
+  "slug": "nispen-bv-metaalhandel-h-van",
+  "provincie": "noord-brabant",
+  "plaats": "sprundel",
+  "naam": "Nispen BV Metaalhandel H van",
+  "straat": "Ettenseweg 77",
+  "postcode": "4714SZ",
+  "plaatsnaam": "Sprundel",
+  "telefoon": "0165-382409",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.552453,
+  "lon": 4.61335,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/sprundel/nispen-bv-metaalhandel-h-van/",
+  "meta_title": "Nispen BV Metaalhandel H van 0165-382409",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sprundel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/sprundel/nispen-bv-metaalhandel-h-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

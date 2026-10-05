@@ -1,0 +1,41 @@
+{
+  "id": 489847,
+  "slug": "fm-huren",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "F.M. Huren",
+  "straat": "Tudderenderweg 307/A24",
+  "postcode": "6137LA",
+  "plaatsnaam": "Sittard",
+  "telefoon": "06-53222865",
+  "email": null,
+  "website": null,
+  "lat": 51.010149,
+  "lon": 5.892451,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/sittard/fm-huren/",
+  "meta_title": "F.M. Huren 06-53222865",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sittard/fm-huren/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

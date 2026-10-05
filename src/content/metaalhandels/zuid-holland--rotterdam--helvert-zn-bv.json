@@ -1,0 +1,31 @@
+{
+  "id": 489963,
+  "slug": "helvert-zn-bv",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Helvert & Zn BV",
+  "straat": "Overschieseweg 86",
+  "postcode": "3044EH",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4151866",
+  "website": "http://www.helvertmetals.com",
+  "lat": 51.933184,
+  "lon": 4.408576,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/helvert-zn-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Helvert & Zn BV 010-4151866",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

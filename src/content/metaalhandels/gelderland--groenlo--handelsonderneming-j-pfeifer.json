@@ -1,0 +1,31 @@
+{
+  "id": 489927,
+  "slug": "handelsonderneming-j-pfeifer",
+  "provincie": "gelderland",
+  "plaats": "groenlo",
+  "naam": "Handelsonderneming J Pfeifer",
+  "straat": "Schrijnwerker 31",
+  "postcode": "7141PR",
+  "plaatsnaam": "Groenlo",
+  "telefoon": "06-11616007",
+  "website": "http://www.heinhuis.nl",
+  "lat": 52.037541,
+  "lon": 6.603866,
+  "status": "gesloten",
+  "oude_url": "/gelderland/groenlo/handelsonderneming-j-pfeifer/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming J Pfeifer 06-11616007",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groenlo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

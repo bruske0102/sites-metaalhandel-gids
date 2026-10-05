@@ -1,0 +1,37 @@
+{
+  "id": 489819,
+  "slug": "driessen-jan",
+  "provincie": "gelderland",
+  "plaats": "culemborg",
+  "naam": "Driessen Jan",
+  "straat": "Industrieweg 11",
+  "postcode": "4104AP",
+  "plaatsnaam": "Culemborg",
+  "telefoon": "0345-517193",
+  "email": null,
+  "website": "http://www.metaalrecyclingnieuwegein.nl",
+  "lat": 51.943278,
+  "lon": 5.220621,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/culemborg/driessen-jan/",
+  "meta_title": "Driessen Jan 0345-517193",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Culemborg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/culemborg/driessen-jan/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489621,
+  "slug": "vissers-bv-oud-papier-en-metaal-recycling",
+  "provincie": "noord-brabant",
+  "plaats": "udenhout",
+  "naam": "Vissers BV Oud Papier en Metaal Recycling",
+  "straat": "Ambachtsweg 11",
+  "postcode": "5071NS",
+  "plaatsnaam": "Udenhout",
+  "telefoon": "013-5111812",
+  "email": "info@vissersbv-recycling.nl",
+  "website": "http://www.vissersbv-recycling.nl",
+  "lat": 51.60847,
+  "lon": 5.166864,
+  "omschrijving": "Bent u op zoek naar een organisatie die kan zorgdragen voor uw afvalmaterialen, zoals metalen, papier en folie? Dan bent u bij ons aan het goede adres.\n\nWij staan graag voor u klaar als het gaat om recycling van deze materialen. Wij denken met u mee en zoeken samen met u naar een passende oplossing.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/udenhout/vissers-bv-oud-papier-en-metaal-recycling/",
+  "meta_title": "Vissers BV Oud Papier en Metaal Recycling 013-5111812 info@vissersbv-recycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Udenhout. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/udenhout/vissers-bv-oud-papier-en-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

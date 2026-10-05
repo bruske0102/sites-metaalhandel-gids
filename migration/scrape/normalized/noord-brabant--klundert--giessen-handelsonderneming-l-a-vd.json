@@ -1,0 +1,37 @@
+{
+  "id": 489883,
+  "slug": "giessen-handelsonderneming-l-a-vd",
+  "provincie": "noord-brabant",
+  "plaats": "klundert",
+  "naam": "Giessen Handelsonderneming L A vd",
+  "straat": "Zevenbergsepoort 24",
+  "postcode": "4791AE",
+  "plaatsnaam": "Klundert",
+  "telefoon": "0168-403238",
+  "email": null,
+  "website": "http://www.oudijzerenmetaalhandel.nl",
+  "lat": 51.661745,
+  "lon": 4.534994,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/klundert/giessen-handelsonderneming-l-a-vd/",
+  "meta_title": "Giessen Handelsonderneming L A vd 0168-403238",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Klundert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/klundert/giessen-handelsonderneming-l-a-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

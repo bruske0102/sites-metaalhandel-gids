@@ -1,0 +1,41 @@
+{
+  "id": 490010,
+  "slug": "j-sikkens",
+  "provincie": "friesland",
+  "plaats": "haulerwijk",
+  "naam": "J. Sikkens",
+  "straat": "Norgerweg 52",
+  "postcode": "8433LP",
+  "plaatsnaam": "Haulerwijk",
+  "telefoon": "0516-421103",
+  "email": null,
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.065333,
+  "lon": 6.342505,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/haulerwijk/j-sikkens/",
+  "meta_title": "J. Sikkens 0516-421103",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haulerwijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/haulerwijk/j-sikkens/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

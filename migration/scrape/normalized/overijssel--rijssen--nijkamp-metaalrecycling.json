@@ -1,0 +1,37 @@
+{
+  "id": 490236,
+  "slug": "nijkamp-metaalrecycling",
+  "provincie": "overijssel",
+  "plaats": "rijssen",
+  "naam": "Nijkamp Metaalrecycling",
+  "straat": "Haarstraat 127/A",
+  "postcode": "7462AM",
+  "plaatsnaam": "Rijssen",
+  "telefoon": "0548-851586",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.308279,
+  "lon": 6.513554,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/rijssen/nijkamp-metaalrecycling/",
+  "meta_title": "Nijkamp Metaalrecycling 0548-851586",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijssen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/rijssen/nijkamp-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

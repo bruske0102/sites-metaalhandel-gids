@@ -1,0 +1,37 @@
+{
+  "id": 490415,
+  "slug": "van-osch-metals-vof",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Van Osch Metals vof",
+  "straat": "Tulpenstraat 53",
+  "postcode": "7004DG",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "06-82587197",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.948522,
+  "lon": 6.312969,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/van-osch-metals-vof/",
+  "meta_title": "Van Osch Metals vof 06-82587197",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/van-osch-metals-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

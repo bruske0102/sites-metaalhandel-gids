@@ -1,0 +1,41 @@
+{
+  "id": 490302,
+  "slug": "recycling-wieldraaijer",
+  "provincie": "groningen",
+  "plaats": "stadskanaal",
+  "naam": "Recycling Wieldraaijer",
+  "straat": "Industriestraat 25",
+  "postcode": "9502EJ",
+  "plaatsnaam": "Stadskanaal",
+  "telefoon": "0599-619189",
+  "email": null,
+  "website": "http://www.w-recycling.nl",
+  "lat": 52.976225,
+  "lon": 6.986255,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/stadskanaal/recycling-wieldraaijer/",
+  "meta_title": "Recycling Wieldraaijer 0599-619189",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Stadskanaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/stadskanaal/recycling-wieldraaijer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

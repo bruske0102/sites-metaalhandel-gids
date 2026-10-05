@@ -1,0 +1,30 @@
+{
+  "id": 490367,
+  "slug": "sipkema-patrick",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Sipkema Patrick",
+  "straat": "Haspengouw 35",
+  "postcode": "6227RM",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "06-41981188",
+  "lat": 50.835924,
+  "lon": 5.722155,
+  "status": "gesloten",
+  "oude_url": "/limburg/maastricht/sipkema-patrick/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Sipkema Patrick 06-41981188",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

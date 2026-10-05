@@ -1,0 +1,37 @@
+{
+  "id": 490113,
+  "slug": "maikel-kinnaer-ijzer-en-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Maikel Kinnaer IJzer- en Metaalhandel",
+  "straat": "Molukkenstraat 83",
+  "postcode": "7512XP",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-12918842",
+  "email": null,
+  "website": null,
+  "lat": 52.213718,
+  "lon": 6.905329,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/maikel-kinnaer-ijzer-en-metaalhandel/",
+  "meta_title": "Maikel Kinnaer IJzer- en Metaalhandel 06-12918842",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/maikel-kinnaer-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

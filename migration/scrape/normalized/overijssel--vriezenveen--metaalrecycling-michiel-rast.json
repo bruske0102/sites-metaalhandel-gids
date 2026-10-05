@@ -1,0 +1,37 @@
+{
+  "id": 490199,
+  "slug": "metaalrecycling-michiel-rast",
+  "provincie": "overijssel",
+  "plaats": "vriezenveen",
+  "naam": "Metaalrecycling Michiel Rast",
+  "straat": "Bedrijfsweg 15",
+  "postcode": "7671EG",
+  "plaatsnaam": "Vriezenveen",
+  "telefoon": "06-34654477",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.409844,
+  "lon": 6.601223,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/vriezenveen/metaalrecycling-michiel-rast/",
+  "meta_title": "Metaalrecycling Michiel Rast 06-34654477",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vriezenveen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/vriezenveen/metaalrecycling-michiel-rast/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

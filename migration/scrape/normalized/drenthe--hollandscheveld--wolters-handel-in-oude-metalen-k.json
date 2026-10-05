@@ -1,0 +1,37 @@
+{
+  "id": 490461,
+  "slug": "wolters-handel-in-oude-metalen-k",
+  "provincie": "drenthe",
+  "plaats": "hollandscheveld",
+  "naam": "Wolters Handel in Oude Metalen K",
+  "straat": "Sellerstraat 23",
+  "postcode": "7913AH",
+  "plaatsnaam": "Hollandscheveld",
+  "telefoon": "06-15115299",
+  "email": null,
+  "website": null,
+  "lat": 52.710201,
+  "lon": 6.535812,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/hollandscheveld/wolters-handel-in-oude-metalen-k/",
+  "meta_title": "Wolters Handel in Oude Metalen K 06-15115299",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hollandscheveld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/hollandscheveld/wolters-handel-in-oude-metalen-k/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

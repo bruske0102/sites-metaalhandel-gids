@@ -1,0 +1,41 @@
+{
+  "id": 489788,
+  "slug": "d-l-imex",
+  "provincie": "zeeland",
+  "plaats": "goes",
+  "naam": "D & L Imex",
+  "straat": "Troelstrapad 48",
+  "postcode": "4463VM",
+  "plaatsnaam": "Goes",
+  "telefoon": "06-34563156",
+  "email": null,
+  "website": "http://www.metaalhuiskes.nl",
+  "lat": 51.513199,
+  "lon": 3.875009,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/goes/d-l-imex/",
+  "meta_title": "D & L Imex 06-34563156",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Goes. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/goes/d-l-imex/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

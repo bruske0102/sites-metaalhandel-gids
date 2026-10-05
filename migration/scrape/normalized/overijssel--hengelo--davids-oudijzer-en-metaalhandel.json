@@ -1,0 +1,38 @@
+{
+  "id": 489628,
+  "slug": "davids-oudijzer-en-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "hengelo",
+  "naam": "David's Oudijzer en Metaalhandel",
+  "straat": "Zirkoonstraat 18",
+  "postcode": "7554TT",
+  "plaatsnaam": "Hengelo ov",
+  "telefoon": "06-29238839",
+  "email": "daviddenoudsten@hotmail.nl",
+  "website": "http://www.oudijzerhengelo.com",
+  "lat": 52.2505489,
+  "lon": 6.8053518,
+  "omschrijving": "Uw oud ijzer is meer waard dan u denkt. Als u dit bij ons brengt levert dit wat op voor u Wij betalen u contant. Dit geldt ook voor uw metalen. Als u niet in de gelegenheid bent dit zelf te brengen halen wij het graag en gratis in de regio Hengelo (Ov)bij op. Het kan dus gaan om fietsen, wasmachines, koelkasten, videos, tvs, stofzuigers of noem maar op. In principe alles waar een stekker aan zit en waar metaal in zit.\n\nOp een uiterst verantwoorde wijze recyclen wij dit . Door onze jarenlange ervaring in dit vak beschikken wij over een verantwoorde kennis en werken wij zo mee aan duurzaamheid. Ferro en non ferro metalen die wij kunnen recyclen zijn o.a.: koper, messing, lood, aluminium, kabel, zink, roestvrijstaal, balkijzer, gruisijzer, constructie ijzer, ict afval. En mocht u twijfelen of hetgeen u wilt aanbieden geschikt is voor recycling, informeer dan bij ons.\n\nAls u wilt beschikken over een container voor b.v. uw (bouw) afval dan plaatsen wij deze graag voor u.\n\nOns bedrijf is gelegen aan de Binnenhavenstraat nr 12 in Hengelo. Voor meer informatie verwijzen wij u graag naar onze website: www. oudijzerhengelo.com",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/hengelo/davids-oudijzer-en-metaalhandel/",
+  "meta_title": "David's Oudijzer en Metaalhandel 06-29238839 daviddenoudsten@hotmail.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hengelo ov. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/hengelo/davids-oudijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

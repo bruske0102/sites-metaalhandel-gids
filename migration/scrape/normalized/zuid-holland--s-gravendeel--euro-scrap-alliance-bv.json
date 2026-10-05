@@ -1,0 +1,37 @@
+{
+  "id": 489839,
+  "slug": "euro-scrap-alliance-bv",
+  "provincie": "zuid-holland",
+  "plaats": "s-gravendeel",
+  "naam": "Euro Scrap-Alliance BV",
+  "straat": "Havenweg 1",
+  "postcode": "3295XZ",
+  "plaatsnaam": "'s-Gravendeel",
+  "telefoon": "078-6323610",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.784063,
+  "lon": 4.623424,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/s-gravendeel/euro-scrap-alliance-bv/",
+  "meta_title": "Euro Scrap-Alliance BV 078-6323610",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/s-gravendeel/euro-scrap-alliance-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

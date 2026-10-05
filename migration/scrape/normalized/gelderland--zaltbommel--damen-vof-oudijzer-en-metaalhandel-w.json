@@ -1,0 +1,37 @@
+{
+  "id": 489798,
+  "slug": "damen-vof-oudijzer-en-metaalhandel-w",
+  "provincie": "gelderland",
+  "plaats": "zaltbommel",
+  "naam": "Damen VOF Oudijzer- en Metaalhandel W",
+  "straat": "Pr Julianastraat 74",
+  "postcode": "5301PJ",
+  "plaatsnaam": "Zaltbommel",
+  "telefoon": "06-54375409",
+  "email": null,
+  "website": null,
+  "lat": 51.80446,
+  "lon": 5.254075,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zaltbommel/damen-vof-oudijzer-en-metaalhandel-w/",
+  "meta_title": "Damen VOF Oudijzer- en Metaalhandel W 06-54375409",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zaltbommel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zaltbommel/damen-vof-oudijzer-en-metaalhandel-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

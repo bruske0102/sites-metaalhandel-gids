@@ -1,0 +1,31 @@
+{
+  "id": 489892,
+  "slug": "groot-handelsonderneming-erik-de",
+  "provincie": "gelderland",
+  "plaats": "eefde",
+  "naam": "Groot Handelsonderneming Erik de",
+  "straat": "Zutphenseweg 49/B",
+  "postcode": "7211EB",
+  "plaatsnaam": "Eefde",
+  "telefoon": "06-20537608",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.177509,
+  "lon": 6.219688,
+  "status": "gesloten",
+  "oude_url": "/gelderland/eefde/groot-handelsonderneming-erik-de/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Groot Handelsonderneming Erik de 06-20537608",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Eefde. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

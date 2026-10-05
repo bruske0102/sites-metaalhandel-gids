@@ -1,0 +1,38 @@
+{
+  "id": 489632,
+  "slug": "kruyer-recycling-bv",
+  "provincie": "gelderland",
+  "plaats": "arnhem",
+  "naam": "Kruyer Recycling BV",
+  "straat": "Willemstraat 24",
+  "postcode": "6822CT",
+  "plaatsnaam": "Arnhem",
+  "telefoon": "026-4424330",
+  "email": "kruyer.recycling@gmail.com",
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 51.986592,
+  "lon": 5.921587,
+  "omschrijving": "inkoop van ; oud metaal\n oud papier",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/arnhem/kruyer-recycling-bv/",
+  "meta_title": "Kruyer Recycling BV 026-4424330 kruyer.recycling@gmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Arnhem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/arnhem/kruyer-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

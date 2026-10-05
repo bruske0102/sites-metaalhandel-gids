@@ -1,0 +1,41 @@
+{
+  "id": 489707,
+  "slug": "dalen-moerdijk-bv-van",
+  "provincie": "noord-brabant",
+  "plaats": "moerdijk",
+  "naam": "Dalen Moerdijk BV Van",
+  "straat": "Graanweg 18",
+  "postcode": "4782PP",
+  "plaatsnaam": "Moerdijk",
+  "telefoon": "0168-330130",
+  "email": null,
+  "website": null,
+  "lat": 51.684542,
+  "lon": 4.602054,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/moerdijk/dalen-moerdijk-bv-van/",
+  "meta_title": "Dalen Moerdijk BV Van 0168-330130",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Moerdijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/moerdijk/dalen-moerdijk-bv-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

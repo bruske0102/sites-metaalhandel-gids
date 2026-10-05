@@ -1,0 +1,41 @@
+{
+  "id": 489882,
+  "slug": "giersbergen-bv",
+  "provincie": "zeeland",
+  "plaats": "middelburg",
+  "naam": "Giersbergen BV",
+  "straat": "Ampereweg 51",
+  "postcode": "4338PT",
+  "plaatsnaam": "Middelburg",
+  "telefoon": "06-51541360",
+  "email": null,
+  "website": "http://www.giersbergenbv.nl",
+  "lat": 51.491259,
+  "lon": 3.650559,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/middelburg/giersbergen-bv/",
+  "meta_title": "Giersbergen BV 06-51541360",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Middelburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/middelburg/giersbergen-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

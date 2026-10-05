@@ -1,0 +1,41 @@
+{
+  "id": 490381,
+  "slug": "steenbergen-b-w",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Steenbergen B W",
+  "straat": "Gasthuiskamp 46",
+  "postcode": "7203BJ",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-53173902",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.150962,
+  "lon": 6.212691,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/steenbergen-b-w/",
+  "meta_title": "Steenbergen B W 06-53173902",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/steenbergen-b-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

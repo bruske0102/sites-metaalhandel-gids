@@ -1,0 +1,37 @@
+{
+  "id": 489953,
+  "slug": "hans-willemsen-oud-ijzer-en-metaal",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Hans Willemsen Oud IJzer en Metaal",
+  "straat": "Mercuriusstraat 20",
+  "postcode": "7521WS",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-41894590",
+  "email": null,
+  "website": null,
+  "lat": 52.234317,
+  "lon": 6.849358,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/hans-willemsen-oud-ijzer-en-metaal/",
+  "meta_title": "Hans Willemsen Oud IJzer en Metaal 06-41894590",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/hans-willemsen-oud-ijzer-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

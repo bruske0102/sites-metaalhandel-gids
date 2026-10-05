@@ -1,0 +1,37 @@
+{
+  "id": 490015,
+  "slug": "jf-bakker",
+  "provincie": "utrecht",
+  "plaats": "utrecht-gemeente",
+  "naam": "J.F. Bakker",
+  "straat": "Ina Boudier-Bakkerlaan 2/P",
+  "postcode": "3582VA",
+  "plaatsnaam": "Utrecht",
+  "telefoon": "06-44409741",
+  "email": null,
+  "website": "http://www.metaalrecyclingnieuwegein.nl",
+  "lat": 52.081928,
+  "lon": 5.133813,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/utrecht-gemeente/jf-bakker/",
+  "meta_title": "J.F. Bakker 06-44409741",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Utrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/utrecht-gemeente/jf-bakker/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

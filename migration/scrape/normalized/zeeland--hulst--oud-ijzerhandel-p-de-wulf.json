@@ -1,0 +1,37 @@
+{
+  "id": 490272,
+  "slug": "oud-ijzerhandel-p-de-wulf",
+  "provincie": "zeeland",
+  "plaats": "hulst",
+  "naam": "Oud ijzerhandel P de Wulf",
+  "straat": "Kamillestraat 1",
+  "postcode": "4561TG",
+  "plaatsnaam": "Hulst",
+  "telefoon": "06-23129714",
+  "email": null,
+  "website": "http://www.galloo.com",
+  "lat": 51.293177,
+  "lon": 4.073445,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/hulst/oud-ijzerhandel-p-de-wulf/",
+  "meta_title": "Oud ijzerhandel P de Wulf 06-23129714",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hulst. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/hulst/oud-ijzerhandel-p-de-wulf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490239,
+  "slug": "nol-kirchyunger",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Nol Kirchyunger",
+  "straat": "Windsingel 25",
+  "postcode": "3329KV",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "06-54314172",
+  "website": "http://www.hks.nl",
+  "lat": 51.792948,
+  "lon": 4.724569,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/dordrecht/nol-kirchyunger/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Nol Kirchyunger 06-54314172",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

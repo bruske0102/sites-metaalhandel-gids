@@ -1,0 +1,41 @@
+{
+  "id": 489799,
+  "slug": "damian-mulder",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Damian Mulder",
+  "straat": "Leegeweg 2/5",
+  "postcode": "9745CP",
+  "plaatsnaam": "Groningen",
+  "telefoon": "06-11388942",
+  "email": null,
+  "website": null,
+  "lat": 53.228521,
+  "lon": 6.518522,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/groningen-gemeente/damian-mulder/",
+  "meta_title": "Damian Mulder 06-11388942",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/groningen-gemeente/damian-mulder/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

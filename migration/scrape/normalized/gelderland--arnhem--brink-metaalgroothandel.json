@@ -1,0 +1,41 @@
+{
+  "id": 489767,
+  "slug": "brink-metaalgroothandel",
+  "provincie": "gelderland",
+  "plaats": "arnhem",
+  "naam": "Brink Metaalgroothandel",
+  "straat": "Merwedestraat 20",
+  "postcode": "6826AB",
+  "plaatsnaam": "Arnhem",
+  "telefoon": "06-53926356",
+  "email": null,
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/arnhem/brink-metaalgroothandel/",
+  "meta_title": "Brink Metaalgroothandel 06-53926356",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Arnhem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/arnhem/brink-metaalgroothandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

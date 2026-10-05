@@ -1,0 +1,37 @@
+{
+  "id": 489962,
+  "slug": "heinhuis-oud-ijzer-en-metaal-en-containerdienst",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Heinhuis Oud IJzer en Metaal en Containerdienst",
+  "straat": "Tulpenstraat 85",
+  "postcode": "7004DG",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-345896",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.948915,
+  "lon": 6.314504,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/heinhuis-oud-ijzer-en-metaal-en-containerdienst/",
+  "meta_title": "Heinhuis Oud IJzer en Metaal en Containerdienst 0314-345896",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/heinhuis-oud-ijzer-en-metaal-en-containerdienst/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

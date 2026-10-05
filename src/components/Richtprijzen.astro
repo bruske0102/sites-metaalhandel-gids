@@ -1,0 +1,21 @@
+---
+interface Props { stad: string }
+const { stad } = Astro.props;
+---
+<section class="section" aria-labelledby="tips-metaal">
+  <h2 id="tips-metaal">Tips voor metaalhandel in {stad}</h2>
+  <div class="prijzen">
+    <p>
+      Handig om te weten voordat je belt of langsrijdt:
+    </p>
+    <ul>
+      <li>Vraag de dagprijs per kilo — die wisselt per metaalsoort</li>
+      <li>Check of ze ophalen of alleen op het terrein innemen</li>
+      <li>Neem legitimatie mee bij inleveren van schroot</li>
+    </ul>
+    <p class="fine">
+      Geen vaste landelijke prijzen voor schroot. Vergelijk adressen hierboven of
+      <a href="/zoeken/">zoek landelijk</a>.
+    </p>
+  </div>
+</section>

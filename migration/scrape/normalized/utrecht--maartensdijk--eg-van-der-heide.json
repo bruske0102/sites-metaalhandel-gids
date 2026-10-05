@@ -1,0 +1,41 @@
+{
+  "id": 489826,
+  "slug": "eg-van-der-heide",
+  "provincie": "utrecht",
+  "plaats": "maartensdijk",
+  "naam": "E.G. van der Heide",
+  "straat": "Aanlegsteeg 17",
+  "postcode": "3738CZ",
+  "plaatsnaam": "Maartensdijk",
+  "telefoon": "0346-211580",
+  "email": null,
+  "website": "http://www.hoffland.nl",
+  "lat": 52.162556,
+  "lon": 5.19373,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/maartensdijk/eg-van-der-heide/",
+  "meta_title": "E.G. van der Heide 0346-211580",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maartensdijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/maartensdijk/eg-van-der-heide/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

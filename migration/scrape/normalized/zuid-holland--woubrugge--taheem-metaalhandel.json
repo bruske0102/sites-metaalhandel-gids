@@ -1,0 +1,37 @@
+{
+  "id": 490393,
+  "slug": "taheem-metaalhandel",
+  "provincie": "zuid-holland",
+  "plaats": "woubrugge",
+  "naam": "Taheem Metaalhandel",
+  "straat": "Wilhelminalaan 32",
+  "postcode": "2481BD",
+  "plaatsnaam": "Woubrugge",
+  "telefoon": "06-15201359",
+  "email": null,
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.170903,
+  "lon": 4.63479,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/woubrugge/taheem-metaalhandel/",
+  "meta_title": "Taheem Metaalhandel 06-15201359",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Woubrugge. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/woubrugge/taheem-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

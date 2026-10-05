@@ -1,0 +1,37 @@
+{
+  "id": 490407,
+  "slug": "tuijl-metaalrecycling-a-van",
+  "provincie": "gelderland",
+  "plaats": "gameren",
+  "naam": "Tuijl Metaalrecycling A van",
+  "straat": "De Hoef 7",
+  "postcode": "5311GH",
+  "plaatsnaam": "Gameren",
+  "telefoon": "0418-562019",
+  "email": "info@metaalrecylinggameren.nl",
+  "website": "http://www.vantuijlmetaalrecycling.nl",
+  "lat": 51.796742,
+  "lon": 5.202693,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/gameren/tuijl-metaalrecycling-a-van/",
+  "meta_title": "Tuijl Metaalrecycling A van 0418-562019 info@metaalrecylinggameren.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Gameren. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/gameren/tuijl-metaalrecycling-a-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

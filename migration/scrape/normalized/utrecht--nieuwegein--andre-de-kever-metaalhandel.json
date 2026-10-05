@@ -1,0 +1,37 @@
+{
+  "id": 489736,
+  "slug": "andre-de-kever-metaalhandel",
+  "provincie": "utrecht",
+  "plaats": "nieuwegein",
+  "naam": "André de Kever Metaalhandel",
+  "straat": "Laagraven 61",
+  "postcode": "3439LL",
+  "plaatsnaam": "Nieuwegein",
+  "telefoon": "030-2888203",
+  "email": null,
+  "website": "http://www.metaalrecyclingnieuwegein.nl",
+  "lat": 52.051082,
+  "lon": 5.12231,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/nieuwegein/andre-de-kever-metaalhandel/",
+  "meta_title": "André de Kever Metaalhandel 030-2888203",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nieuwegein. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/nieuwegein/andre-de-kever-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

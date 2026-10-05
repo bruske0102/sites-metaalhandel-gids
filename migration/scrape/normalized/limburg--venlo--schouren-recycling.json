@@ -1,0 +1,41 @@
+{
+  "id": 490353,
+  "slug": "schouren-recycling",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Schouren recycling",
+  "straat": "Klingerbergsingel 18",
+  "postcode": "5925AC",
+  "plaatsnaam": "Venlo",
+  "telefoon": "06-55266072",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.37573,
+  "lon": 6.127533,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/venlo/schouren-recycling/",
+  "meta_title": "Schouren recycling 06-55266072",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/schouren-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

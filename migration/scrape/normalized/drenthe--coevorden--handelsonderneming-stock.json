@@ -1,0 +1,41 @@
+{
+  "id": 489944,
+  "slug": "handelsonderneming-stock",
+  "provincie": "drenthe",
+  "plaats": "coevorden",
+  "naam": "Handelsonderneming Stock",
+  "straat": "Willem Marisstraat 17",
+  "postcode": "7741XK",
+  "plaatsnaam": "Coevorden",
+  "telefoon": "06-13120888",
+  "email": null,
+  "website": null,
+  "lat": 52.669563,
+  "lon": 6.753019,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/coevorden/handelsonderneming-stock/",
+  "meta_title": "Handelsonderneming Stock 06-13120888",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Coevorden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/coevorden/handelsonderneming-stock/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

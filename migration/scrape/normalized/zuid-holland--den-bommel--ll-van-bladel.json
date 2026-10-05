@@ -1,0 +1,41 @@
+{
+  "id": 490066,
+  "slug": "ll-van-bladel",
+  "provincie": "zuid-holland",
+  "plaats": "den-bommel",
+  "naam": "L.L. van Bladel",
+  "straat": "Wijdeblik 1",
+  "postcode": "3258LX",
+  "plaatsnaam": "Den Bommel",
+  "telefoon": "0187-611785",
+  "email": null,
+  "website": "http://www.ksrecycling.nl",
+  "lat": 51.710055,
+  "lon": 4.284429,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-bommel/ll-van-bladel/",
+  "meta_title": "L.L. van Bladel 0187-611785",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bommel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-bommel/ll-van-bladel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

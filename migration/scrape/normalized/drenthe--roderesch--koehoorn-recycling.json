@@ -1,0 +1,41 @@
+{
+  "id": 490065,
+  "slug": "koehoorn-recycling",
+  "provincie": "drenthe",
+  "plaats": "roderesch",
+  "naam": "Koehoorn Recycling",
+  "straat": "Berkenheuvel 5",
+  "postcode": "9305TL",
+  "plaatsnaam": "Roderesch",
+  "telefoon": "050-5013945",
+  "email": null,
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.111334,
+  "lon": 6.422538,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/roderesch/koehoorn-recycling/",
+  "meta_title": "Koehoorn Recycling 050-5013945",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roderesch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/roderesch/koehoorn-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

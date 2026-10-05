@@ -1,0 +1,37 @@
+{
+  "id": 490471,
+  "slug": "zegelaar-metaalhandel-a",
+  "provincie": "zuid-holland",
+  "plaats": "sliedrecht",
+  "naam": "Zegelaar Metaalhandel A",
+  "straat": "Elzenhof 157",
+  "postcode": "3363HG",
+  "plaatsnaam": "Sliedrecht",
+  "telefoon": "0184-410530",
+  "email": null,
+  "website": "http://www.oudmetaalhendrikidoambacht.nl",
+  "lat": 51.825997,
+  "lon": 4.756852,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/sliedrecht/zegelaar-metaalhandel-a/",
+  "meta_title": "Zegelaar Metaalhandel A 0184-410530",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sliedrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/sliedrecht/zegelaar-metaalhandel-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

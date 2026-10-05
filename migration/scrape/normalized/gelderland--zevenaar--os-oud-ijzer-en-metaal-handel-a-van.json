@@ -1,0 +1,37 @@
+{
+  "id": 490256,
+  "slug": "os-oud-ijzer-en-metaal-handel-a-van",
+  "provincie": "gelderland",
+  "plaats": "zevenaar",
+  "naam": "Os Oud IJzer en Metaal Handel A van",
+  "straat": "Reisenakker 22",
+  "postcode": "6903ZJ",
+  "plaatsnaam": "Zevenaar",
+  "telefoon": "0316-333633",
+  "email": null,
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 51.944889,
+  "lon": 6.065604,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zevenaar/os-oud-ijzer-en-metaal-handel-a-van/",
+  "meta_title": "Os Oud IJzer en Metaal Handel A van 0316-333633",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zevenaar. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zevenaar/os-oud-ijzer-en-metaal-handel-a-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

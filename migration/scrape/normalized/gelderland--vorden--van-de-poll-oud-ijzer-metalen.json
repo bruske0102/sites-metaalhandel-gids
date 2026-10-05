@@ -1,0 +1,37 @@
+{
+  "id": 490411,
+  "slug": "van-de-poll-oud-ijzer-metalen",
+  "provincie": "gelderland",
+  "plaats": "vorden",
+  "naam": "Van de Poll Oud IJzer & Metalen",
+  "straat": "Handelsweg 10",
+  "postcode": "7251JG",
+  "plaatsnaam": "Vorden",
+  "telefoon": "06-30974306",
+  "email": null,
+  "website": "http://www.heinhuis.nl",
+  "lat": 52.108455,
+  "lon": 6.324529,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/vorden/van-de-poll-oud-ijzer-metalen/",
+  "meta_title": "Van de Poll Oud IJzer & Metalen 06-30974306",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vorden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/vorden/van-de-poll-oud-ijzer-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

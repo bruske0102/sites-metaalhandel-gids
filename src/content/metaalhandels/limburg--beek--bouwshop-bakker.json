@@ -1,0 +1,31 @@
+{
+  "id": 490140,
+  "slug": "bouwshop-bakker",
+  "provincie": "limburg",
+  "plaats": "beek",
+  "naam": "Bouwshop Bakker",
+  "straat": "Doctor Poelsstraat 24",
+  "postcode": "6191VN",
+  "plaatsnaam": "Beek lb",
+  "telefoon": "046-4379567",
+  "website": "http://www.ecore.com",
+  "lat": 50.943523,
+  "lon": 5.799396,
+  "status": "gesloten",
+  "oude_url": "/limburg/beek/bouwshop-bakker/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Bouwshop Bakker 046-4379567",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Beek lb. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

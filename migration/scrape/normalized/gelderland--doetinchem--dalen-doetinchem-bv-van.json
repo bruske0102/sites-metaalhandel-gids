@@ -1,0 +1,37 @@
+{
+  "id": 489795,
+  "slug": "dalen-doetinchem-bv-van",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Dalen Doetinchem BV Van",
+  "straat": "Fabriekstraat 49",
+  "postcode": "7005AP",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-324920",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.954272,
+  "lon": 6.289112,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/dalen-doetinchem-bv-van/",
+  "meta_title": "Dalen Doetinchem BV Van 0314-324920",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/dalen-doetinchem-bv-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490052,
+  "slug": "kabinza-bv-1",
+  "provincie": "zuid-holland",
+  "plaats": "alblasserdam",
+  "naam": "Kabinza BV",
+  "straat": "Edisonweg 10",
+  "postcode": "2952 AD",
+  "plaatsnaam": "Alblasserdam",
+  "telefoon": "06-28176688",
+  "email": "info@kabinza.nl",
+  "website": null,
+  "lat": 51.8582429,
+  "lon": 4.664456800000039,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/alblasserdam/kabinza-bv-1/",
+  "meta_title": "Kabinza BV 06-28176688 info@kabinza.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Alblasserdam. Dagprijs handel (Zuid-Holland).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/alblasserdam/kabinza-bv-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

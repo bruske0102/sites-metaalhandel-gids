@@ -1,0 +1,41 @@
+{
+  "id": 489672,
+  "slug": "kik-en-zn-handelsonderneming-j",
+  "provincie": "zuid-holland",
+  "plaats": "oudenhoorn",
+  "naam": "Kik en Zn Handelsonderneming J",
+  "straat": "Heullaan 1",
+  "postcode": "3227AJ",
+  "plaatsnaam": "Oudenhoorn",
+  "telefoon": "0181-461831",
+  "email": null,
+  "website": "http://www.jkik.nl",
+  "lat": 51.828273,
+  "lon": 4.190138,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/oudenhoorn/kik-en-zn-handelsonderneming-j/",
+  "meta_title": "Kik en Zn Handelsonderneming J 0181-461831",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oudenhoorn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/oudenhoorn/kik-en-zn-handelsonderneming-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

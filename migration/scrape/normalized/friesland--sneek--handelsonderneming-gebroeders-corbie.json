@@ -1,0 +1,41 @@
+{
+  "id": 489660,
+  "slug": "handelsonderneming-gebroeders-corbie",
+  "provincie": "friesland",
+  "plaats": "sneek",
+  "naam": "Handelsonderneming Gebroeders Corbie",
+  "straat": "Selfhelpweg 95",
+  "postcode": "8607AC",
+  "plaatsnaam": "Sneek",
+  "telefoon": "06-25401943",
+  "email": "corbie01@home.nl",
+  "website": null,
+  "lat": 53.023077,
+  "lon": 5.668359,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/sneek/handelsonderneming-gebroeders-corbie/",
+  "meta_title": "Handelsonderneming Gebroeders Corbie 06-25401943 corbie01@home.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sneek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/sneek/handelsonderneming-gebroeders-corbie/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

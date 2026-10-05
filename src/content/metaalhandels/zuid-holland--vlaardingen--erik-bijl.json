@@ -1,0 +1,31 @@
+{
+  "id": 489834,
+  "slug": "erik-bijl",
+  "provincie": "zuid-holland",
+  "plaats": "vlaardingen",
+  "naam": "Erik Bijl",
+  "straat": "Callenburgstraat 60/C",
+  "postcode": "3134GG",
+  "plaatsnaam": "Vlaardingen",
+  "telefoon": "06-55816945",
+  "website": "http://www.vhmetals-ontruimingen.nl",
+  "lat": 51.908653,
+  "lon": 4.348797,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/vlaardingen/erik-bijl/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Erik Bijl 06-55816945",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vlaardingen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490147,
+  "slug": "fkr-wijchen",
+  "provincie": "gelderland",
+  "plaats": "overasselt",
+  "naam": "FKR Wijchen",
+  "straat": "Rotsestraat 6/A",
+  "postcode": "6611AD",
+  "plaatsnaam": "Overasselt",
+  "telefoon": "06-16163007",
+  "email": null,
+  "website": "http://www.pennings-metaalrecycling.nl",
+  "lat": 51.763157,
+  "lon": 5.769925,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/overasselt/fkr-wijchen/",
+  "meta_title": "FKR Wijchen 06-16163007",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Overasselt. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/overasselt/fkr-wijchen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

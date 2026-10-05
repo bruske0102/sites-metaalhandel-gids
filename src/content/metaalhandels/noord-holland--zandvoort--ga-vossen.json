@@ -1,0 +1,31 @@
+{
+  "id": 489860,
+  "slug": "ga-vossen",
+  "provincie": "noord-holland",
+  "plaats": "zandvoort",
+  "naam": "G.A. Vossen",
+  "straat": "Kamerlingh Onnesstraat 19",
+  "postcode": "2041CB",
+  "plaatsnaam": "Zandvoort",
+  "telefoon": "06-53939206",
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.376907,
+  "lon": 4.548789,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/zandvoort/ga-vossen/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "G.A. Vossen 06-53939206",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zandvoort. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490319,
+  "slug": "rdc-onderhoud-en-montagebedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "R.D.C. Onderhoud- en Montagebedrijf",
+  "straat": "Schuttersstraat 25/B-2R",
+  "postcode": "3034RK",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-51913672",
+  "email": null,
+  "website": null,
+  "lat": 51.935107,
+  "lon": 4.491946,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/rdc-onderhoud-en-montagebedrijf/",
+  "meta_title": "R.D.C. Onderhoud- en Montagebedrijf 06-51913672",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/rdc-onderhoud-en-montagebedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

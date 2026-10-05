@@ -1,0 +1,37 @@
+{
+  "id": 489680,
+  "slug": "mentzij-henk-zn",
+  "provincie": "zeeland",
+  "plaats": "terneuzen",
+  "naam": "Mentzij Henk & Zn",
+  "straat": "Noordhof 6",
+  "postcode": "4533PR",
+  "plaatsnaam": "Terneuzen",
+  "telefoon": "0115-614512",
+  "email": null,
+  "website": null,
+  "lat": 51.328025,
+  "lon": 3.861423,
+  "omschrijving": "Bij ons is uw ijzer en metalen geld waard! De materialen worden geleverd tegen contante betalingen..\nOok is er de mogelijkheid een container te laten plaatsen geheel gratis!\nU kan altijd vrijblijvend bellen voor meer informatie .",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/terneuzen/mentzij-henk-zn/",
+  "meta_title": "Mentzij Henk & Zn 0115-614512",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Terneuzen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/terneuzen/mentzij-henk-zn/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

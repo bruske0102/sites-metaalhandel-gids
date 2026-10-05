@@ -1,0 +1,37 @@
+{
+  "id": 490266,
+  "slug": "oud-ijzer-zo",
+  "provincie": "overijssel",
+  "plaats": "daarlerveen",
+  "naam": "Oud IJzer & Zo",
+  "straat": "Meeuwenweg 1",
+  "postcode": "7687AK",
+  "plaatsnaam": "Daarlerveen",
+  "telefoon": "06-12909644",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.442654,
+  "lon": 6.576191,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/daarlerveen/oud-ijzer-zo/",
+  "meta_title": "Oud IJzer & Zo 06-12909644",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Daarlerveen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/daarlerveen/oud-ijzer-zo/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

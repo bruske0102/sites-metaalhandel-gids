@@ -1,0 +1,41 @@
+{
+  "id": 490278,
+  "slug": "p-kiel",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "P. Kiel",
+  "straat": "Janninksweg 15",
+  "postcode": "7513DE",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-30041017",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.212003,
+  "lon": 6.879106,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/p-kiel/",
+  "meta_title": "P. Kiel 06-30041017",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/p-kiel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

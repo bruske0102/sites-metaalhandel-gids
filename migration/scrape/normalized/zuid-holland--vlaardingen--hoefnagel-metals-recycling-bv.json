@@ -1,0 +1,37 @@
+{
+  "id": 489974,
+  "slug": "hoefnagel-metals-recycling-bv",
+  "provincie": "zuid-holland",
+  "plaats": "vlaardingen",
+  "naam": "Hoefnagel Metals Recycling BV",
+  "straat": "Marconistraat 3",
+  "postcode": "3133KL",
+  "plaatsnaam": "Vlaardingen",
+  "telefoon": "010-4345902",
+  "email": null,
+  "website": "http://www.hoefnagelmetalen.nl",
+  "lat": 51.903737,
+  "lon": 4.30998,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/vlaardingen/hoefnagel-metals-recycling-bv/",
+  "meta_title": "Hoefnagel Metals Recycling BV 010-4345902",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vlaardingen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/vlaardingen/hoefnagel-metals-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

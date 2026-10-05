@@ -1,0 +1,31 @@
+{
+  "id": 490086,
+  "slug": "lentjes-handelsonderneming-j-g",
+  "provincie": "gelderland",
+  "plaats": "ooij",
+  "naam": "Lentjes Handelsonderneming J G",
+  "straat": "Marialaan 31",
+  "postcode": "6576BG",
+  "plaatsnaam": "Ooij gem Ubbergen",
+  "telefoon": "06-30094677",
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 51.8554,
+  "lon": 5.944124,
+  "status": "gesloten",
+  "oude_url": "/gelderland/ooij/lentjes-handelsonderneming-j-g/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Lentjes Handelsonderneming J G 06-30094677",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ooij gem Ubbergen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490078,
+  "slug": "kruitbosch-bv-gebr",
+  "provincie": "zuid-holland",
+  "plaats": "gouda",
+  "naam": "Kruitbosch BV Gebr",
+  "straat": "Jaagpad 52",
+  "postcode": "2802AZ",
+  "plaatsnaam": "Gouda",
+  "telefoon": "0182-514759",
+  "website": "http://www.kruitbosch-recycling.nl",
+  "lat": 52.01104,
+  "lon": 4.698463,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/gouda/kruitbosch-bv-gebr/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Kruitbosch BV Gebr 0182-514759",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Gouda. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

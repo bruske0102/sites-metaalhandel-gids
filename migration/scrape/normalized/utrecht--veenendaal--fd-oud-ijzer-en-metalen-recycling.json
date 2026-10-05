@@ -1,0 +1,37 @@
+{
+  "id": 490128,
+  "slug": "fd-oud-ijzer-en-metalen-recycling",
+  "provincie": "utrecht",
+  "plaats": "veenendaal",
+  "naam": "FD Oud IJzer en Metalen Recycling",
+  "straat": "Sterrenschans 8",
+  "postcode": "3905XP",
+  "plaatsnaam": "Veenendaal",
+  "telefoon": "06-51753541",
+  "email": null,
+  "website": null,
+  "lat": 52.036452,
+  "lon": 5.5453,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/veenendaal/fd-oud-ijzer-en-metalen-recycling/",
+  "meta_title": "FD Oud IJzer en Metalen Recycling 06-51753541",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Veenendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/veenendaal/fd-oud-ijzer-en-metalen-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

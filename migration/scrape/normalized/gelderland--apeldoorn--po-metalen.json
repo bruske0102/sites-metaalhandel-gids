@@ -1,0 +1,37 @@
+{
+  "id": 490289,
+  "slug": "po-metalen",
+  "provincie": "gelderland",
+  "plaats": "apeldoorn",
+  "naam": "PO Metalen",
+  "straat": "Gildenlaan 805",
+  "postcode": "7326DX",
+  "plaatsnaam": "Apeldoorn",
+  "telefoon": "06-42663289",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.187777,
+  "lon": 6.007499,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/apeldoorn/po-metalen/",
+  "meta_title": "PO Metalen 06-42663289",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Apeldoorn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/apeldoorn/po-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

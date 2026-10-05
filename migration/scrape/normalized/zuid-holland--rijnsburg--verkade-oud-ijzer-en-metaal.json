@@ -1,0 +1,37 @@
+{
+  "id": 490421,
+  "slug": "verkade-oud-ijzer-en-metaal",
+  "provincie": "zuid-holland",
+  "plaats": "rijnsburg",
+  "naam": "Verkade Oud IJzer en Metaal",
+  "straat": "Kleipettenlaan 37",
+  "postcode": "2231XZ",
+  "plaatsnaam": "Rijnsburg",
+  "telefoon": "06-46751099",
+  "email": null,
+  "website": "http://www.oudmetaalhandel.nl",
+  "lat": 52.189161,
+  "lon": 4.432504,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rijnsburg/verkade-oud-ijzer-en-metaal/",
+  "meta_title": "Verkade Oud IJzer en Metaal 06-46751099",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijnsburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rijnsburg/verkade-oud-ijzer-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

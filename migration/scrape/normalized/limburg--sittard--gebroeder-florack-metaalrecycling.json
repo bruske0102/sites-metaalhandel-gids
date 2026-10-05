@@ -1,0 +1,38 @@
+{
+  "id": 489631,
+  "slug": "gebroeder-florack-metaalrecycling",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "Gebroeder Florack Metaalrecycling",
+  "straat": "Milieuparkweg 5/9",
+  "postcode": "6136KP",
+  "plaatsnaam": "Sittard",
+  "telefoon": "046-4519679",
+  "email": "nederland@gebr-florack.com",
+  "website": null,
+  "lat": 51.01649,
+  "lon": 5.861839,
+  "omschrijving": "Eijkenboom en Florack gevestigd aan de Milieuparkweg nummer 5-9 te Sittard is een veelzijdig bedrijf met ruime ervaring in verschillende diensten. Het inkopen van oud ijzer en metalen, recycling van autos, montage cq demotage van gebruikte en nieuwe autobanden en de verkoop van nieuw ijzer behoren tot onze specialiteit. In tegenstelling tot andere gerelateerde bedrijven bieden wij een reële prijs voor zowel inkoop als verkoop.\n\nMedio augustus 2007 openen wij een tweede vestiging in de regio Selfkant.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/sittard/gebroeder-florack-metaalrecycling/",
+  "meta_title": "Gebroeder Florack Metaalrecycling 046-4519679 nederland@gebr-florack.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sittard/gebroeder-florack-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

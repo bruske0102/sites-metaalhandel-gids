@@ -1,0 +1,41 @@
+{
+  "id": 490076,
+  "slug": "kroesen-vof-j",
+  "provincie": "zuid-holland",
+  "plaats": "brielle",
+  "naam": "Kroesen VOF J",
+  "straat": "Van Alkemadelaan 19",
+  "postcode": "3232XH",
+  "plaatsnaam": "Brielle",
+  "telefoon": "06-53295694",
+  "email": null,
+  "website": "http://www.jkik.nl",
+  "lat": 51.901008,
+  "lon": 4.154053,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/brielle/kroesen-vof-j/",
+  "meta_title": "Kroesen VOF J 06-53295694",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Brielle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/brielle/kroesen-vof-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

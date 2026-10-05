@@ -1,0 +1,38 @@
+{
+  "id": 490480,
+  "slug": "bossche-ijzer-en-metaalhandel-van-erp-bv",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Bossche IJzer- en Metaalhandel Van Erp BV",
+  "straat": "Ketelaarskampweg 46",
+  "postcode": "5222AL",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6216106",
+  "email": "info@vanerpbv.nl",
+  "website": "http://www.vanerpbv.nl",
+  "lat": 51.708757,
+  "lon": 5.277013,
+  "omschrijving": "Sinds 1921 is Metaalhandel Van Erp B.V. een bekende naam in de metaalrecycling afvalstoffen branche. Wij kopen uw afvalstoffen in zoals ijzer, aluminium, koper, zink, accu's en kabels. Wij hebben ons gespecialiseerd in het scheiden, knippen, verkleinen en sorteren van deze ferro en non-ferro metalen.\n\nZowel particulieren, handelaren, midden- en kleinbedrijf als industrie worden tot onze klantenkring gerekend. Met marktgerichte beurs gerelateerde prijzen staat van Erp BV garant voor een hoge vergoeding van uw afvalstoffen.\n\nWij hebben de beschikking over een groot containerpark waarmee wij aan iedere wens van de klant kunnen voldoen. Indien u een grote partij of meerdere kleine partijen bij elkaar heeft dan worden gratis containers ter beschikking gesteld. Het gaat dan om kleine vloeistofdichte containers van 1 m3 en grotere afzetcontainers van 15 m3 t/m 40 m3.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/bossche-ijzer-en-metaalhandel-van-erp-bv/",
+  "meta_title": "Bossche IJzer- en Metaalhandel Van Erp BV 073-6216106 info@vanerpbv.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bosch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/den-bosch/bossche-ijzer-en-metaalhandel-van-erp-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

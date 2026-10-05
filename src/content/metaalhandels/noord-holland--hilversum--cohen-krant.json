@@ -1,0 +1,31 @@
+{
+  "id": 489783,
+  "slug": "cohen-krant",
+  "provincie": "noord-holland",
+  "plaats": "hilversum",
+  "naam": "Cohen & Krant",
+  "straat": "Nieuwe Havenweg 18",
+  "postcode": "1216BS",
+  "plaatsnaam": "Hilversum",
+  "telefoon": "035-6210402",
+  "website": "http://www.hoffland.nl",
+  "lat": 52.221875,
+  "lon": 5.140188,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/hilversum/cohen-krant/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Cohen & Krant 035-6210402",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hilversum. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

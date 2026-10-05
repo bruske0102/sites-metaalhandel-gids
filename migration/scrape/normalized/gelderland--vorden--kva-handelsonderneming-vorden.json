@@ -1,0 +1,41 @@
+{
+  "id": 490050,
+  "slug": "kva-handelsonderneming-vorden",
+  "provincie": "gelderland",
+  "plaats": "vorden",
+  "naam": "K.V.A. Handelsonderneming Vorden",
+  "straat": "Ruurloseweg 120",
+  "postcode": "7251LZ",
+  "plaatsnaam": "Vorden",
+  "telefoon": "0575-551036",
+  "email": null,
+  "website": "http://www.heinhuis.nl",
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/vorden/kva-handelsonderneming-vorden/",
+  "meta_title": "K.V.A. Handelsonderneming Vorden 0575-551036",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vorden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/vorden/kva-handelsonderneming-vorden/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

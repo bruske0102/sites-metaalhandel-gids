@@ -1,0 +1,41 @@
+{
+  "id": 490092,
+  "slug": "lohr-p",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Löhr P",
+  "straat": "Nachtegaalstraat 90",
+  "postcode": "7605BR",
+  "plaatsnaam": "Almelo",
+  "telefoon": "0546-828531",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.349096,
+  "lon": 6.649743,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/almelo/lohr-p/",
+  "meta_title": "Löhr P 0546-828531",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/almelo/lohr-p/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

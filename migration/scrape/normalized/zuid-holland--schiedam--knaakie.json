@@ -1,0 +1,41 @@
+{
+  "id": 490063,
+  "slug": "knaakie",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "Knaakie",
+  "straat": "Fortunaweg 26",
+  "postcode": "3113AN",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "06-48071727",
+  "email": null,
+  "website": null,
+  "lat": 51.904697,
+  "lon": 4.411681,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/schiedam/knaakie/",
+  "meta_title": "Knaakie 06-48071727",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/schiedam/knaakie/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

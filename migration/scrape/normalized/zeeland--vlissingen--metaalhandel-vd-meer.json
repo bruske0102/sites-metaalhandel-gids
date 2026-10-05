@@ -1,0 +1,37 @@
+{
+  "id": 490190,
+  "slug": "metaalhandel-vd-meer",
+  "provincie": "zeeland",
+  "plaats": "vlissingen",
+  "naam": "Metaalhandel v/d Meer",
+  "straat": "Poortersweg 41",
+  "postcode": "4382NP",
+  "plaatsnaam": "Vlissingen",
+  "telefoon": "0118-623380",
+  "email": null,
+  "website": "http://www.nettenenzoon.nl",
+  "lat": 51.451701,
+  "lon": 3.605202,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/vlissingen/metaalhandel-vd-meer/",
+  "meta_title": "Metaalhandel v/d Meer 0118-623380",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vlissingen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/vlissingen/metaalhandel-vd-meer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

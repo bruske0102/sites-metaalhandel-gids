@@ -1,0 +1,31 @@
+{
+  "id": 490218,
+  "slug": "moes-zn",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Moes & Zn",
+  "straat": "Landsmeerderdijk 142",
+  "postcode": "1035PX",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6314605",
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 36.6407694,
+  "lon": -93.2612188,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/moes-zn/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Moes & Zn 020-6314605",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

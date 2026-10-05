@@ -1,0 +1,41 @@
+{
+  "id": 490316,
+  "slug": "r-r-handelsonderneming",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "R & R Handelsonderneming",
+  "straat": "Pathmossingel 169",
+  "postcode": "7513CG",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-13835221",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.216486,
+  "lon": 6.875715,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/r-r-handelsonderneming/",
+  "meta_title": "R & R Handelsonderneming 06-13835221",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/r-r-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

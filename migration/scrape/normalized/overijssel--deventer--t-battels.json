@@ -1,0 +1,41 @@
+{
+  "id": 490391,
+  "slug": "t-battels",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "T. Battels",
+  "straat": "Zweedsestraat 43",
+  "postcode": "7418BB",
+  "plaatsnaam": "Deventer",
+  "telefoon": "06-20065148",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.245383,
+  "lon": 6.194645,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/deventer/t-battels/",
+  "meta_title": "T. Battels 06-20065148",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Deventer. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/deventer/t-battels/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

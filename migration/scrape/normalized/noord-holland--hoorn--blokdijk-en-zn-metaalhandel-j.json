@@ -1,0 +1,38 @@
+{
+  "id": 489706,
+  "slug": "blokdijk-en-zn-metaalhandel-j",
+  "provincie": "noord-holland",
+  "plaats": "hoorn",
+  "naam": "Blokdijk en Zn Metaalhandel J",
+  "straat": "Kernweg 28",
+  "postcode": "1627LH",
+  "plaatsnaam": "Hoorn nh",
+  "telefoon": "0229-210944",
+  "email": null,
+  "website": null,
+  "lat": 52.637691,
+  "lon": 5.100631,
+  "omschrijving": "Metaalhandel Blokdijk is al 10-tallen jaren toonaangevend\n\nSinds 1948 is Firma J Blokdijk & Zn uit Hoorn een vertrouwde naam voor het milieuverantwoord verwerken van ferro en non-ferro metalen.\n\nDe expertise van onze medewerkers, het complete en moderne machinepark, investeringen in duurzame verwerking en familiale karakter van ons bedrijf staan garant voor een prettige samenwerking.\n\nMet een compleet aanbod diensten en concurrerende prijzen mogen we stellen dat wij dé partij zijn voor elke kleine en grote klus.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/hoorn/blokdijk-en-zn-metaalhandel-j/",
+  "meta_title": "Blokdijk en Zn Metaalhandel J 0229-210944",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoorn nh. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/hoorn/blokdijk-en-zn-metaalhandel-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489924,
+  "slug": "handelsonderneming-h-hindriks",
+  "provincie": "drenthe",
+  "plaats": "hollandscheveld",
+  "naam": "Handelsonderneming H. Hindriks",
+  "straat": "Juffrouw Blekkinghstraat 32",
+  "postcode": "7913EA",
+  "plaatsnaam": "Hollandscheveld",
+  "telefoon": "06-83656586",
+  "lat": 52.709195,
+  "lon": 6.536748,
+  "status": "gesloten",
+  "oude_url": "/drenthe/hollandscheveld/handelsonderneming-h-hindriks/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming H. Hindriks 06-83656586",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hollandscheveld. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

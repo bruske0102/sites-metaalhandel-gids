@@ -1,0 +1,37 @@
+{
+  "id": 490264,
+  "slug": "oud-ijzer-en-metaalhandel-vink",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Oud IJzer en Metaalhandel Vink",
+  "straat": "Cannemanstraat 9",
+  "postcode": "5344HM",
+  "plaatsnaam": "Oss",
+  "telefoon": "06-10274989",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.75353,
+  "lon": 5.496226,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/oss/oud-ijzer-en-metaalhandel-vink/",
+  "meta_title": "Oud IJzer en Metaalhandel Vink 06-10274989",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/oss/oud-ijzer-en-metaalhandel-vink/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

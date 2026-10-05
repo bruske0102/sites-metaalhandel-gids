@@ -1,0 +1,30 @@
+{
+  "id": 489903,
+  "slug": "hbw-handelsonderneming-blom-wildervank",
+  "provincie": "groningen",
+  "plaats": "wildervank",
+  "naam": "H.B.W. (Handelsonderneming Blom Wildervank)",
+  "straat": "Landbouwstraat 188",
+  "postcode": "9648GG",
+  "plaatsnaam": "Wildervank",
+  "telefoon": "0598-633544",
+  "lat": 53.059824,
+  "lon": 6.849578,
+  "status": "gesloten",
+  "oude_url": "/groningen/wildervank/hbw-handelsonderneming-blom-wildervank/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "H.B.W. (Handelsonderneming Blom Wildervank) 0598-633544",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wildervank. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 490116,
+  "slug": "maris",
+  "provincie": "drenthe",
+  "plaats": "roden",
+  "naam": "Maris",
+  "straat": "Acacialaan 20",
+  "postcode": "9301MS",
+  "plaatsnaam": "Roden",
+  "telefoon": "050-5018730",
+  "lat": 53.142622,
+  "lon": 6.425991,
+  "status": "gesloten",
+  "oude_url": "/drenthe/roden/maris/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Maris 050-5018730",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roden. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

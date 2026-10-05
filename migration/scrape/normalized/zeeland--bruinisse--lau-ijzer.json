@@ -1,0 +1,37 @@
+{
+  "id": 490069,
+  "slug": "lau-ijzer",
+  "provincie": "zeeland",
+  "plaats": "bruinisse",
+  "naam": "Lau IJzer",
+  "straat": "Botterstraat 1",
+  "postcode": "4311EV",
+  "plaatsnaam": "Bruinisse",
+  "telefoon": "0111-482311",
+  "email": null,
+  "website": "http://www.corec.nl",
+  "lat": 51.660372,
+  "lon": 4.088271,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/bruinisse/lau-ijzer/",
+  "meta_title": "Lau IJzer 0111-482311",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bruinisse. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/bruinisse/lau-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

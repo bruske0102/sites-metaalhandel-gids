@@ -1,0 +1,31 @@
+{
+  "id": 490418,
+  "slug": "veerhaeve-trade",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Veerhaeve Trade",
+  "straat": "Hoge Filterweg 580",
+  "postcode": "3063KL",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-2122700",
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.907121,
+  "lon": 4.525027,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/veerhaeve-trade/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Veerhaeve Trade 010-2122700",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

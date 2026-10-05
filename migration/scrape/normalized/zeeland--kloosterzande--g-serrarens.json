@@ -1,0 +1,41 @@
+{
+  "id": 489858,
+  "slug": "g-serrarens",
+  "provincie": "zeeland",
+  "plaats": "kloosterzande",
+  "naam": "G. Serrarens",
+  "straat": "Pres Rooseveltstraat 2",
+  "postcode": "4587LA",
+  "plaatsnaam": "Kloosterzande",
+  "telefoon": "06-27785299",
+  "email": null,
+  "website": "http://www.galloo.com",
+  "lat": 51.365979,
+  "lon": 4.022854,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/kloosterzande/g-serrarens/",
+  "meta_title": "G. Serrarens 06-27785299",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kloosterzande. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/kloosterzande/g-serrarens/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

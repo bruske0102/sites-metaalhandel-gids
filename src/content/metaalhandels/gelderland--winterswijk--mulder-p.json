@@ -1,0 +1,31 @@
+{
+  "id": 490226,
+  "slug": "mulder-p",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Mulder P",
+  "straat": "Laan van Hilbelink 13",
+  "postcode": "7101WG",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-519160",
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.969701,
+  "lon": 6.726227,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/mulder-p/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Mulder P 0543-519160",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

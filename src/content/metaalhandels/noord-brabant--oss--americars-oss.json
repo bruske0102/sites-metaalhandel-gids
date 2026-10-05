@@ -1,0 +1,31 @@
+{
+  "id": 489734,
+  "slug": "americars-oss",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Americars-Oss",
+  "straat": "Leuvenstraat 18",
+  "postcode": "5346TX",
+  "plaatsnaam": "Oss",
+  "telefoon": "06-51999547",
+  "website": "http://www.vanmunster.com",
+  "lat": 51.776411,
+  "lon": 5.508264,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/oss/americars-oss/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Americars-Oss 06-51999547",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

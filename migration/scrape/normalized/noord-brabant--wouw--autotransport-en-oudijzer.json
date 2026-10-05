@@ -1,0 +1,37 @@
+{
+  "id": 489742,
+  "slug": "autotransport-en-oudijzer",
+  "provincie": "noord-brabant",
+  "plaats": "wouw",
+  "naam": "Autotransport en Oudijzer",
+  "straat": "Boterstraat 22",
+  "postcode": "4724RZ",
+  "plaatsnaam": "Wouw",
+  "telefoon": "06-24739811",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.528574,
+  "lon": 4.403625,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/wouw/autotransport-en-oudijzer/",
+  "meta_title": "Autotransport en Oudijzer 06-24739811",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wouw. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/wouw/autotransport-en-oudijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

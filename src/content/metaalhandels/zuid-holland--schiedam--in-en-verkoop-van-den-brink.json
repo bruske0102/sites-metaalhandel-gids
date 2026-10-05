@@ -1,0 +1,30 @@
+{
+  "id": 489999,
+  "slug": "in-en-verkoop-van-den-brink",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "In- en Verkoop van den Brink",
+  "straat": "Zalmstraat 3",
+  "postcode": "3114NX",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "06-50601128",
+  "lat": 51.90644,
+  "lon": 4.404028,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/schiedam/in-en-verkoop-van-den-brink/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "In- en Verkoop van den Brink 06-50601128",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

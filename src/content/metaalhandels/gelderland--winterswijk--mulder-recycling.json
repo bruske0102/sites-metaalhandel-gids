@@ -1,0 +1,31 @@
+{
+  "id": 490227,
+  "slug": "mulder-recycling",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Mulder Recycling",
+  "straat": "Ambachtsstraat 21",
+  "postcode": "7102DW",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-769028",
+  "website": "http://www.mulder-recycling.nl",
+  "lat": 51.962627,
+  "lon": 6.712716,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/mulder-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Mulder Recycling 0543-769028",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

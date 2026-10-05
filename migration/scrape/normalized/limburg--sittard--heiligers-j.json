@@ -1,0 +1,41 @@
+{
+  "id": 489961,
+  "slug": "heiligers-j",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "Heiligers J",
+  "straat": "Oudeweg 183",
+  "postcode": "6136VX",
+  "plaatsnaam": "Sittard",
+  "telefoon": "06-30463068",
+  "email": null,
+  "website": null,
+  "lat": 51.005814,
+  "lon": 5.88253,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/sittard/heiligers-j/",
+  "meta_title": "Heiligers J 06-30463068",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sittard/heiligers-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

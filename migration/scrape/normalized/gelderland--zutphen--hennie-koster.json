@@ -1,0 +1,37 @@
+{
+  "id": 489968,
+  "slug": "hennie-koster",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Hennie Koster",
+  "straat": "Boxtartstraat 4",
+  "postcode": "7204GN",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "06-45356083",
+  "email": "koster-schroot-metalen@live.nl",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.136187,
+  "lon": 6.208517,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/hennie-koster/",
+  "meta_title": "Hennie Koster 06-45356083 koster-schroot-metalen@live.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/hennie-koster/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

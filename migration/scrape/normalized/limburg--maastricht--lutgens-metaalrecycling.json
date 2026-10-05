@@ -1,0 +1,37 @@
+{
+  "id": 489677,
+  "slug": "lutgens-metaalrecycling",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Lutgens Metaalrecycling",
+  "straat": "Maasvelderweg 44",
+  "postcode": "6229XT",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-3618871",
+  "email": null,
+  "website": null,
+  "lat": 50.821112,
+  "lon": 5.70563,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/lutgens-metaalrecycling/",
+  "meta_title": "Lutgens Metaalrecycling 043-3618871",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/lutgens-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

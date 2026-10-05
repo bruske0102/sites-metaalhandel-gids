@@ -1,0 +1,37 @@
+{
+  "id": 490279,
+  "slug": "p-pruijmboom-zn",
+  "provincie": "noord-brabant",
+  "plaats": "hapert",
+  "naam": "P. Pruijmboom & Zn",
+  "straat": "Castersedijk 29",
+  "postcode": "5527JR",
+  "plaatsnaam": "Hapert",
+  "telefoon": "06-51817988",
+  "email": null,
+  "website": "http://www.willemkaethovenmetaalrecycling.nl",
+  "lat": 51.381172,
+  "lon": 5.240113,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/hapert/p-pruijmboom-zn/",
+  "meta_title": "P. Pruijmboom & Zn 06-51817988",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hapert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/hapert/p-pruijmboom-zn/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489656,
+  "slug": "august-van-oursouw-oud-ijzer-en-metaalhandel",
+  "provincie": "utrecht",
+  "plaats": "rhenen",
+  "naam": "August van Oursouw Oud IJzer en Metaalhandel",
+  "straat": "Middelbuurtseweg 11/14",
+  "postcode": "3911TE",
+  "plaatsnaam": "Rhenen",
+  "telefoon": "06-23374503",
+  "email": null,
+  "website": null,
+  "lat": 51.998678,
+  "lon": 5.573605,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/rhenen/august-van-oursouw-oud-ijzer-en-metaalhandel/",
+  "meta_title": "August van Oursouw Oud IJzer en Metaalhandel 06-23374503",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rhenen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/rhenen/august-van-oursouw-oud-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

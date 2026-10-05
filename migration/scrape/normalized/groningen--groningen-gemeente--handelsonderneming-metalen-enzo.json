@@ -1,0 +1,37 @@
+{
+  "id": 489936,
+  "slug": "handelsonderneming-metalen-enzo",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Handelsonderneming Metalen enzo",
+  "straat": "Peizerweg 247",
+  "postcode": "9744BC",
+  "plaatsnaam": "Groningen",
+  "telefoon": "06-29087771",
+  "email": null,
+  "website": null,
+  "lat": 53.202808,
+  "lon": 6.523656,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/handelsonderneming-metalen-enzo/",
+  "meta_title": "Handelsonderneming Metalen enzo 06-29087771",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/groningen-gemeente/handelsonderneming-metalen-enzo/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

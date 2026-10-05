@@ -1,0 +1,37 @@
+{
+  "id": 489800,
+  "slug": "danielle-bernards-bv",
+  "provincie": "noord-brabant",
+  "plaats": "helmond",
+  "naam": "Danielle Bernards BV",
+  "straat": "Hoge Zij 13",
+  "postcode": "5704CD",
+  "plaatsnaam": "Helmond",
+  "telefoon": "0492-524422",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.460778,
+  "lon": 5.704268,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/helmond/danielle-bernards-bv/",
+  "meta_title": "Danielle Bernards BV 0492-524422",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Helmond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/helmond/danielle-bernards-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

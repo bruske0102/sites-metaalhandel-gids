@@ -1,0 +1,37 @@
+{
+  "id": 490011,
+  "slug": "j-spel-schrootrecycling",
+  "provincie": "noord-holland",
+  "plaats": "hoorn",
+  "naam": "J. Spel Schrootrecycling",
+  "straat": "Bobeldijkerweg 50",
+  "postcode": "1625NZ",
+  "plaatsnaam": "Hoorn nh",
+  "telefoon": "0229-213990",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.658146,
+  "lon": 5.040182,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/hoorn/j-spel-schrootrecycling/",
+  "meta_title": "J. Spel Schrootrecycling 0229-213990",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoorn nh. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/hoorn/j-spel-schrootrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

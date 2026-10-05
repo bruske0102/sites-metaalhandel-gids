@@ -1,0 +1,37 @@
+{
+  "id": 490008,
+  "slug": "j-hoekstra-metaalrecycling",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "J. Hoekstra Metaalrecycling",
+  "straat": "Schuilenburgstraat 39/E",
+  "postcode": "8043WV",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "06-11397138",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.538205,
+  "lon": 6.04218,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/j-hoekstra-metaalrecycling/",
+  "meta_title": "J. Hoekstra Metaalrecycling 06-11397138",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/j-hoekstra-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

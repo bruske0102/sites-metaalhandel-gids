@@ -1,0 +1,37 @@
+{
+  "id": 1920048,
+  "slug": "jgmetalen",
+  "provincie": "overijssel",
+  "plaats": "steenwijk",
+  "naam": "jgmetalen",
+  "straat": "Nieuwe Onnastraat 53",
+  "postcode": "8331 MA",
+  "plaatsnaam": "Steenwijk",
+  "telefoon": "0641424187",
+  "email": "gkallenkoot@hotmail.com",
+  "website": null,
+  "lat": 52.7827654,
+  "lon": 6.1207145,
+  "omschrijving": "wij garanderen de eerlijkste prijs voor de oude accu.s oud ijzer en autokatalysatoren en direct betaald",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/steenwijk/jgmetalen/",
+  "meta_title": "jgmetalen 0641424187 gkallenkoot@hotmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Steenwijk. Dagprijs handel (Overijssel).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/steenwijk/jgmetalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

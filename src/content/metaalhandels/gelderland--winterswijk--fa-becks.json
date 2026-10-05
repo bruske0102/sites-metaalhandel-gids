@@ -1,0 +1,31 @@
+{
+  "id": 489849,
+  "slug": "fa-becks",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Fa. Becks",
+  "straat": "Kobstederstraat 50/A",
+  "postcode": "7103ZT",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-518812",
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.976525,
+  "lon": 6.730885,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/fa-becks/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Fa. Becks 0543-518812",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

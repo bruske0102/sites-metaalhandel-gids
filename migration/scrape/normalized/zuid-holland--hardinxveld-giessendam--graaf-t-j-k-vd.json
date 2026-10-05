@@ -1,0 +1,41 @@
+{
+  "id": 489888,
+  "slug": "graaf-t-j-k-vd",
+  "provincie": "zuid-holland",
+  "plaats": "hardinxveld-giessendam",
+  "naam": "Graaf T J K vd",
+  "straat": "Buitendams 306/B",
+  "postcode": "3371BS",
+  "plaatsnaam": "Hardinxveld Giessendam",
+  "telefoon": "0184-614786",
+  "email": null,
+  "website": null,
+  "lat": 51.825078,
+  "lon": 4.821531,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/hardinxveld-giessendam/graaf-t-j-k-vd/",
+  "meta_title": "Graaf T J K vd 0184-614786",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hardinxveld Giessendam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/hardinxveld-giessendam/graaf-t-j-k-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

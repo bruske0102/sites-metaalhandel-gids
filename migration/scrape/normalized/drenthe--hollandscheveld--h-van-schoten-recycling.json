@@ -1,0 +1,41 @@
+{
+  "id": 489902,
+  "slug": "h-van-schoten-recycling",
+  "provincie": "drenthe",
+  "plaats": "hollandscheveld",
+  "naam": "H. van Schoten Recycling",
+  "straat": "Zandwijkstraat 1/I",
+  "postcode": "7913AD",
+  "plaatsnaam": "Hollandscheveld",
+  "telefoon": "06-22096276",
+  "email": null,
+  "website": null,
+  "lat": 52.704794,
+  "lon": 6.541027,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/hollandscheveld/h-van-schoten-recycling/",
+  "meta_title": "H. van Schoten Recycling 06-22096276",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hollandscheveld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/hollandscheveld/h-van-schoten-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

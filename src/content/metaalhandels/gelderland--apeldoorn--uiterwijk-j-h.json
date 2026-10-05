@@ -1,0 +1,31 @@
+{
+  "id": 490409,
+  "slug": "uiterwijk-j-h",
+  "provincie": "gelderland",
+  "plaats": "apeldoorn",
+  "naam": "Uiterwijk J H",
+  "straat": "Saturnusstraat 33",
+  "postcode": "7314KL",
+  "plaatsnaam": "Apeldoorn",
+  "telefoon": "06-53770495",
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.21601,
+  "lon": 5.945951,
+  "status": "gesloten",
+  "oude_url": "/gelderland/apeldoorn/uiterwijk-j-h/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Uiterwijk J H 06-53770495",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Apeldoorn. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

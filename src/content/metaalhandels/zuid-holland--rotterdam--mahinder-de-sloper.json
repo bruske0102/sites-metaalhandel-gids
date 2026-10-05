@@ -1,0 +1,30 @@
+{
+  "id": 490112,
+  "slug": "mahinder-de-sloper",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Mahinder de Sloper",
+  "straat": "Hekbootstraat 12/C",
+  "postcode": "3028XH",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-26456339",
+  "lat": 51.918107,
+  "lon": 4.420156,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/mahinder-de-sloper/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Mahinder de Sloper 06-26456339",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

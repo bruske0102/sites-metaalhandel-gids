@@ -1,0 +1,41 @@
+{
+  "id": 490166,
+  "slug": "mentzij-piet",
+  "provincie": "zeeland",
+  "plaats": "hulst",
+  "naam": "Mentzij Piet",
+  "straat": "Calandlaan 1",
+  "postcode": "4561XP",
+  "plaatsnaam": "Hulst",
+  "telefoon": "0114-321927",
+  "email": null,
+  "website": "http://www.galloo.com",
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/hulst/mentzij-piet/",
+  "meta_title": "Mentzij Piet 0114-321927",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hulst. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/hulst/mentzij-piet/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

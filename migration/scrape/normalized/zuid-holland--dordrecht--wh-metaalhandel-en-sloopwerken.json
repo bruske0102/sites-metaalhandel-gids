@@ -1,0 +1,37 @@
+{
+  "id": 490450,
+  "slug": "wh-metaalhandel-en-sloopwerken",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "WH Metaalhandel en Sloopwerken",
+  "straat": "Romboutsplantsoen 7",
+  "postcode": "3312KV",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "06-21555249",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.798985,
+  "lon": 4.685395,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/wh-metaalhandel-en-sloopwerken/",
+  "meta_title": "WH Metaalhandel en Sloopwerken 06-21555249",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dordrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/dordrecht/wh-metaalhandel-en-sloopwerken/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

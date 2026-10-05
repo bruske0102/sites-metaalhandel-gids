@@ -1,0 +1,31 @@
+{
+  "id": 490320,
+  "slug": "rw-ferket",
+  "provincie": "zeeland",
+  "plaats": "clinge",
+  "naam": "R.W. Ferket",
+  "straat": "Tiberghienweg 41",
+  "postcode": "4567BR",
+  "plaatsnaam": "Clinge",
+  "telefoon": "0114-313466",
+  "website": "http://www.galloo.com",
+  "lat": 51.271081,
+  "lon": 4.092753,
+  "status": "gesloten",
+  "oude_url": "/zeeland/clinge/rw-ferket/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "R.W. Ferket 0114-313466",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Clinge. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

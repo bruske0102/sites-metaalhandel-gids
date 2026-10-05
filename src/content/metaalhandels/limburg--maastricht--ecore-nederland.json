@@ -1,0 +1,31 @@
+{
+  "id": 489653,
+  "slug": "ecore-nederland",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Ecore Nederland",
+  "straat": "Klipperweg 16",
+  "postcode": "6222PC",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-3632500",
+  "website": "http://www.ecore.com",
+  "lat": 50.886669,
+  "lon": 5.717947,
+  "status": "gesloten",
+  "oude_url": "/limburg/maastricht/ecore-nederland/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Ecore Nederland 043-3632500",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

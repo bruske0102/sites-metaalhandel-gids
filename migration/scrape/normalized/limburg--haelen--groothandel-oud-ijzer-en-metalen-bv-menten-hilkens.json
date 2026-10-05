@@ -1,0 +1,37 @@
+{
+  "id": 490481,
+  "slug": "groothandel-oud-ijzer-en-metalen-bv-menten-hilkens",
+  "provincie": "limburg",
+  "plaats": "haelen",
+  "naam": "Groothandel Oud IJzer en Metalen BV Menten-Hilkens",
+  "straat": "Napoleonsweg 6",
+  "postcode": "6081AD",
+  "plaatsnaam": "Haelen",
+  "telefoon": "0475-591722",
+  "email": "ohilkens@mentenhilkens.nl",
+  "website": "http://www.mentenhilkens.nl",
+  "lat": 51.22487,
+  "lon": 5.94492,
+  "omschrijving": "WELKOM BIJ MENTEN-HILKENS BV. Menten-Hilkens metaalrecycling en handel in nieuw staal.\n\nEen innovatief bedrijf met oog voor milieu, kennis, service, prijs en kwaliteit. Door de ruim 50 jaar ervaring op het gebied van recycling en handel mogen we ons met trots een goed , en ervaren bedrijf noemen . Met een ruime kennis als het gaat om het ver - bewerken van restproducten voor hergebruik. Hierdoor kunnen we voor de klant een zo hoog mogelijke waarde genereren\n\nOmdat we op diverse markten actief zijn beschikken wij over alle noodzakelijke vergunningen en voorzieningen.\n\nOns bedrijf is ISO 9001 - 14001 en VCA - NIWO gecertificeerd.\n\nRestmaterialen en grondstoffen die wij inkopen komen van diverse toeleveranciers uit binnen- en buitenland. O.a. van overheidsinstellingen, industriële bedrijven,\ninzameling gebeurd door middel van eigen containers auto's\ntevens beschikken we over div soorten containers die bij klanten gratis ter beschikking gezet kunnen worden",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/haelen/groothandel-oud-ijzer-en-metalen-bv-menten-hilkens/",
+  "meta_title": "Groothandel Oud IJzer en Metalen BV Menten-Hilkens 0475-591722 ohilkens@mentenhilkens.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haelen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/haelen/groothandel-oud-ijzer-en-metalen-bv-menten-hilkens/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

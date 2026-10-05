@@ -1,0 +1,41 @@
+{
+  "id": 489918,
+  "slug": "handelsonderneming-d-van-meegdenburg",
+  "provincie": "gelderland",
+  "plaats": "arnhem",
+  "naam": "Handelsonderneming D van Meegdenburg",
+  "straat": "Meliskerkestraat 78",
+  "postcode": "6845AW",
+  "plaatsnaam": "Arnhem",
+  "telefoon": "06-15386584",
+  "email": null,
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.94571,
+  "lon": 5.863693,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/arnhem/handelsonderneming-d-van-meegdenburg/",
+  "meta_title": "Handelsonderneming D van Meegdenburg 06-15386584",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Arnhem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/arnhem/handelsonderneming-d-van-meegdenburg/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

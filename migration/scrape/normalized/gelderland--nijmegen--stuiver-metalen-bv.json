@@ -1,0 +1,37 @@
+{
+  "id": 490387,
+  "slug": "stuiver-metalen-bv",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "Stuiver Metalen BV",
+  "straat": "Dr. de Blecourtstraat 96",
+  "postcode": "6541DL",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "024-3773681",
+  "email": null,
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.840744,
+  "lon": 5.814566,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijmegen/stuiver-metalen-bv/",
+  "meta_title": "Stuiver Metalen BV 024-3773681",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijmegen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijmegen/stuiver-metalen-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

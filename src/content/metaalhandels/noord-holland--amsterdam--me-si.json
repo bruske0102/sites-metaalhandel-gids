@@ -1,0 +1,31 @@
+{
+  "id": 490122,
+  "slug": "me-si",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Me & Si",
+  "straat": "Jan C. de Voshof 10",
+  "postcode": "1065HC",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-38093999",
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.354007,
+  "lon": 4.821611,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/me-si/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Me & Si 06-38093999",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

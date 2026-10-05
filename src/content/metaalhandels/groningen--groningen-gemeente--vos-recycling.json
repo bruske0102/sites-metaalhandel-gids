@@ -1,0 +1,30 @@
+{
+  "id": 490433,
+  "slug": "vos-recycling",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Vos Recycling",
+  "straat": "Doornbosheerd 32",
+  "postcode": "9737MN",
+  "plaatsnaam": "Groningen",
+  "telefoon": "06-39469498",
+  "lat": 53.246376,
+  "lon": 6.590752,
+  "status": "gesloten",
+  "oude_url": "/groningen/groningen-gemeente/vos-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Vos Recycling 06-39469498",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490336,
+  "slug": "robben-metaal-recycling-bv",
+  "provincie": "friesland",
+  "plaats": "sneek",
+  "naam": "Robben Metaal Recycling BV",
+  "straat": "Zadelmakersstraat 26",
+  "postcode": "8601WH",
+  "plaatsnaam": "Sneek",
+  "telefoon": "0515-422021",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 53.031433,
+  "lon": 5.627346,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/sneek/robben-metaal-recycling-bv/",
+  "meta_title": "Robben Metaal Recycling BV 0515-422021",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sneek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/sneek/robben-metaal-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

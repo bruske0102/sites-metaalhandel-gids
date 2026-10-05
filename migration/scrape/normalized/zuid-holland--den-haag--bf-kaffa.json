@@ -1,0 +1,41 @@
+{
+  "id": 489746,
+  "slug": "bf-kaffa",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "B.F. Kaffa",
+  "straat": "Harderwijkstraat 238",
+  "postcode": "2573ZT",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "070-3660254",
+  "email": null,
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.062247,
+  "lon": 4.286726,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/bf-kaffa/",
+  "meta_title": "B.F. Kaffa 070-3660254",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-haag/bf-kaffa/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

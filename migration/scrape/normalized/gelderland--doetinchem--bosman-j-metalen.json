@@ -1,0 +1,37 @@
+{
+  "id": 490137,
+  "slug": "bosman-j-metalen",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Bosman J. Metalen",
+  "straat": "Tulpenstraat 79",
+  "postcode": "7004DG",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-842017",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.948835,
+  "lon": 6.314284,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/bosman-j-metalen/",
+  "meta_title": "Bosman J. Metalen 0314-842017",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/bosman-j-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490200,
+  "slug": "metaalrecycling-oost-nederland",
+  "provincie": "overijssel",
+  "plaats": "enter",
+  "naam": "Metaalrecycling Oost-Nederland",
+  "straat": "Erve Hofstee 28",
+  "postcode": "7468JT",
+  "plaatsnaam": "Enter",
+  "telefoon": "06-15085773",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.287535,
+  "lon": 6.584776,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enter/metaalrecycling-oost-nederland/",
+  "meta_title": "Metaalrecycling Oost-Nederland 06-15085773",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enter. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enter/metaalrecycling-oost-nederland/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

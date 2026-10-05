@@ -1,0 +1,38 @@
+{
+  "id": 489714,
+  "slug": "koks-j-p-m",
+  "provincie": "zuid-holland",
+  "plaats": "naaldwijk",
+  "naam": "Koks J P M",
+  "straat": "Monnikenlaan 19",
+  "postcode": "2671NG",
+  "plaatsnaam": "Naaldwijk",
+  "telefoon": "06-54626402",
+  "email": null,
+  "website": null,
+  "lat": 51.978723,
+  "lon": 4.213243,
+  "omschrijving": "Wat Wij Doen Het plaatzen van gratichs bakken voor fabrieken voor al uw oud ijzer Tevens ook inkoop van al uw oudemetalen Wij halen het ook op op de plaats van bestemming.Tegen een redelijken prijs.Ook halen wij oudijzer en metalen op bij particulieren tegen een klijnen vergoeding.Geen voor rijkosten Bel voor meer info TEL 0654626402 JPM Koks.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/naaldwijk/koks-j-p-m/",
+  "meta_title": "Koks J P M 06-54626402",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Naaldwijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/naaldwijk/koks-j-p-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489960,
+  "slug": "heiligers-vof",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "Heiligers VOF",
+  "straat": "Oudeweg 203",
+  "postcode": "6136VX",
+  "plaatsnaam": "Sittard",
+  "telefoon": "046-4511455",
+  "lat": 51.006325,
+  "lon": 5.882835,
+  "status": "gesloten",
+  "oude_url": "/limburg/sittard/heiligers-vof/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Heiligers VOF 046-4511455",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

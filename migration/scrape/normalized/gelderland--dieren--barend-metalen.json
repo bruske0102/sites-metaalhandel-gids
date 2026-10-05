@@ -1,0 +1,37 @@
+{
+  "id": 489752,
+  "slug": "barend-metalen",
+  "provincie": "gelderland",
+  "plaats": "dieren",
+  "naam": "Barend Metalen",
+  "straat": "Meidoornlaan 90",
+  "postcode": "6951LW",
+  "plaatsnaam": "Dieren",
+  "telefoon": "06-11117631",
+  "email": null,
+  "website": "http://www.kruyerrecycling.nl",
+  "lat": 52.063066,
+  "lon": 6.096547,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/dieren/barend-metalen/",
+  "meta_title": "Barend Metalen 06-11117631",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dieren. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/dieren/barend-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

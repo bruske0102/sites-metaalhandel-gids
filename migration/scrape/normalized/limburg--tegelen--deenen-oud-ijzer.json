@@ -1,0 +1,37 @@
+{
+  "id": 489810,
+  "slug": "deenen-oud-ijzer",
+  "provincie": "limburg",
+  "plaats": "tegelen",
+  "naam": "Deenen Oud IJzer",
+  "straat": "Hoogstraat 39",
+  "postcode": "5931GA",
+  "plaatsnaam": "Tegelen",
+  "telefoon": "06-48662773",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.344414,
+  "lon": 6.135623,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/tegelen/deenen-oud-ijzer/",
+  "meta_title": "Deenen Oud IJzer 06-48662773",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tegelen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/tegelen/deenen-oud-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

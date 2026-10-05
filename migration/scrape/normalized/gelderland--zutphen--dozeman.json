@@ -1,0 +1,41 @@
+{
+  "id": 489818,
+  "slug": "dozeman",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Dozeman",
+  "straat": "Buitensingel 63",
+  "postcode": "7204HB",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "0575-570137",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.135974,
+  "lon": 6.205563,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/dozeman/",
+  "meta_title": "Dozeman 0575-570137",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/dozeman/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

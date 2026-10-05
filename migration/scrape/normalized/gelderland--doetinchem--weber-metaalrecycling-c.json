@@ -1,0 +1,37 @@
+{
+  "id": 490445,
+  "slug": "weber-metaalrecycling-c",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Weber Metaalrecycling C",
+  "straat": "Industriestraat 17/B",
+  "postcode": "7005AN",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "06-53288630",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.956371,
+  "lon": 6.293214,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/weber-metaalrecycling-c/",
+  "meta_title": "Weber Metaalrecycling C 06-53288630",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/weber-metaalrecycling-c/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

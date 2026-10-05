@@ -1,0 +1,37 @@
+{
+  "id": 490034,
+  "slug": "joey-metalen",
+  "provincie": "noord-brabant",
+  "plaats": "bergen-op-zoom",
+  "naam": "Joey Metalen",
+  "straat": "Rijsselbergen 10",
+  "postcode": "4613RE",
+  "plaatsnaam": "Bergen op Zoom",
+  "telefoon": "06-11275456",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.508922,
+  "lon": 4.280897,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/bergen-op-zoom/joey-metalen/",
+  "meta_title": "Joey Metalen 06-11275456",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bergen op Zoom. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/bergen-op-zoom/joey-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

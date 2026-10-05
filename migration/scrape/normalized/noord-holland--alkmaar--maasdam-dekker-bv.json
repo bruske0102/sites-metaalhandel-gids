@@ -1,0 +1,37 @@
+{
+  "id": 489678,
+  "slug": "maasdam-dekker-bv",
+  "provincie": "noord-holland",
+  "plaats": "alkmaar",
+  "naam": "Maasdam & Dekker BV",
+  "straat": "Koedijkerstraat 34",
+  "postcode": "1823CR",
+  "plaatsnaam": "Alkmaar",
+  "telefoon": "072-5115507",
+  "email": "info@maasdamendekker.nl",
+  "website": null,
+  "lat": 52.638305,
+  "lon": 4.754864,
+  "omschrijving": "Maasdam & Dekker is een groothandel in gebruikte goederen, waaronder in het bijzonder gebruikte automobielonderdelen, oude metalen en afvalstoffen.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/alkmaar/maasdam-dekker-bv/",
+  "meta_title": "Maasdam & Dekker BV 072-5115507 info@maasdamendekker.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Alkmaar. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/alkmaar/maasdam-dekker-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

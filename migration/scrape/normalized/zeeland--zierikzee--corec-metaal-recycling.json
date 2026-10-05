@@ -1,0 +1,37 @@
+{
+  "id": 490134,
+  "slug": "corec-metaal-recycling",
+  "provincie": "zeeland",
+  "plaats": "zierikzee",
+  "naam": "Corec Metaal Recycling",
+  "straat": "Industrieweg 20",
+  "postcode": "4301RS",
+  "plaatsnaam": "Zierikzee",
+  "telefoon": "0111-451322",
+  "email": "info@corec.nl",
+  "website": "http://www.corec.nl",
+  "lat": 51.644587,
+  "lon": 3.919478,
+  "omschrijving": "Gesitueerd in Zierikzee langs de weg naar de milieu straat is Corec Metaal Recycling het inzamelpunt voor zowel particulieren als bedrijven voor al uw oud ijzer en metalen.\n\n Door de jaren lange ervaring die in het bedrijf aanwezig is te combineren met solide afspraken met grote metaalverwerkers en fabrieken, heeft dit geresulteerd in constant hoge vergoedingen, doorzichtigheid en een hoog kennis niveau.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/zierikzee/corec-metaal-recycling/",
+  "meta_title": "Corec Metaal Recycling 0111-451322 info@corec.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zierikzee. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/zierikzee/corec-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

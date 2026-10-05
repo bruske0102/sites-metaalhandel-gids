@@ -1,0 +1,37 @@
+{
+  "id": 490022,
+  "slug": "jan-van-rijssen-oud-ijzer-metaalhandel",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Jan van Rijssen Oud IJzer & Metaalhandel",
+  "straat": "Dirkeweideweg 8",
+  "postcode": "6716PS",
+  "plaatsnaam": "Ede gld",
+  "telefoon": "06-30618854",
+  "email": null,
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 52.026216,
+  "lon": 5.633372,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/jan-van-rijssen-oud-ijzer-metaalhandel/",
+  "meta_title": "Jan van Rijssen Oud IJzer & Metaalhandel 06-30618854",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ede gld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/ede/jan-van-rijssen-oud-ijzer-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489765,
+  "slug": "borst-oud-metaal-recycling-bv",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Borst Oud Metaal Recycling BV",
+  "straat": "Nijverheidsweg 33",
+  "postcode": "2031CN",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "023-5324979",
+  "email": null,
+  "website": "http://www.borst-recycling.nl",
+  "lat": 52.389934,
+  "lon": 4.657914,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/borst-oud-metaal-recycling-bv/",
+  "meta_title": "Borst Oud Metaal Recycling BV 023-5324979",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/borst-oud-metaal-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

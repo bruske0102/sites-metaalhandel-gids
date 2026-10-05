@@ -1,0 +1,37 @@
+{
+  "id": 490171,
+  "slug": "metaal-recycling-moerdijk",
+  "provincie": "noord-brabant",
+  "plaats": "klundert",
+  "naam": "Metaal Recycling Moerdijk",
+  "straat": "Kwartelweg 5",
+  "postcode": "4791RP",
+  "plaatsnaam": "Klundert",
+  "telefoon": "0168-381113",
+  "email": null,
+  "website": "http://www.oudijzerenmetaalhandel.nl",
+  "lat": 51.667236,
+  "lon": 4.557369,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/klundert/metaal-recycling-moerdijk/",
+  "meta_title": "Metaal Recycling Moerdijk 0168-381113",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Klundert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/klundert/metaal-recycling-moerdijk/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

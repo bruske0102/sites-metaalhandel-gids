@@ -1,0 +1,30 @@
+{
+  "id": 490067,
+  "slug": "langkamp-g",
+  "provincie": "gelderland",
+  "plaats": "nunspeet",
+  "naam": "Langkamp G",
+  "straat": "Waterweg 28/A",
+  "postcode": "8071RT",
+  "plaatsnaam": "Nunspeet",
+  "telefoon": "0341-254363",
+  "lat": 52.377107,
+  "lon": 5.767447,
+  "status": "gesloten",
+  "oude_url": "/gelderland/nunspeet/langkamp-g/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Langkamp G 0341-254363",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nunspeet. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

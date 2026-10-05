@@ -1,0 +1,31 @@
+{
+  "id": 489726,
+  "slug": "aad-iezer-buurke-t",
+  "provincie": "limburg",
+  "plaats": "posterholt",
+  "naam": "Aad Iezer Buurke 't",
+  "straat": "Irenelaan 15",
+  "postcode": "6061BC",
+  "plaatsnaam": "Posterholt",
+  "telefoon": "06-23383745",
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.119548,
+  "lon": 6.039464,
+  "status": "gesloten",
+  "oude_url": "/limburg/posterholt/aad-iezer-buurke-t/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Aad Iezer Buurke 't 06-23383745",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Posterholt. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

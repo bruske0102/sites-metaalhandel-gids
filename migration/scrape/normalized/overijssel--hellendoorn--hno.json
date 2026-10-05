@@ -1,0 +1,41 @@
+{
+  "id": 489972,
+  "slug": "hno",
+  "provincie": "overijssel",
+  "plaats": "hellendoorn",
+  "naam": "HNO",
+  "straat": "Reestpark 28",
+  "postcode": "7447GN",
+  "plaatsnaam": "Hellendoorn",
+  "telefoon": "06-51389786",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.378167,
+  "lon": 6.449046,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/hellendoorn/hno/",
+  "meta_title": "HNO 06-51389786",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hellendoorn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/hellendoorn/hno/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490444,
+  "slug": "weber-handelsonderneming-willie",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Weber Handelsonderneming Willie",
+  "straat": "Scheldeplein 1",
+  "postcode": "7417WB",
+  "plaatsnaam": "Deventer",
+  "telefoon": "06-53894925",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.256429,
+  "lon": 6.178749,
+  "status": "gesloten",
+  "oude_url": "/overijssel/deventer/weber-handelsonderneming-willie/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Weber Handelsonderneming Willie 06-53894925",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Deventer. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

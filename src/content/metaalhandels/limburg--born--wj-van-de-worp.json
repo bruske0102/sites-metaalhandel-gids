@@ -1,0 +1,30 @@
+{
+  "id": 490439,
+  "slug": "wj-van-de-worp",
+  "provincie": "limburg",
+  "plaats": "born",
+  "naam": "W.J. van de Worp",
+  "straat": "Achter het Hout 2",
+  "postcode": "6121HZ",
+  "plaatsnaam": "Born",
+  "telefoon": "06-55794324",
+  "lat": 51.038531,
+  "lon": 5.820392,
+  "status": "gesloten",
+  "oude_url": "/limburg/born/wj-van-de-worp/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "W.J. van de Worp 06-55794324",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Born. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

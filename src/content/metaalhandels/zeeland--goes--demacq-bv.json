@@ -1,0 +1,31 @@
+{
+  "id": 489812,
+  "slug": "demacq-bv",
+  "provincie": "zeeland",
+  "plaats": "goes",
+  "naam": "Demacq BV",
+  "straat": "Calsstraat 16",
+  "postcode": "4463VX",
+  "plaatsnaam": "Goes",
+  "telefoon": "06-21841580",
+  "website": "http://www.metaalhuiskes.nl",
+  "lat": 51.512828,
+  "lon": 3.873451,
+  "status": "gesloten",
+  "oude_url": "/zeeland/goes/demacq-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Demacq BV 06-21841580",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Goes. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

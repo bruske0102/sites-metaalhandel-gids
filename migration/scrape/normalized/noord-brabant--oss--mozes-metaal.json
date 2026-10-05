@@ -1,0 +1,37 @@
+{
+  "id": 490220,
+  "slug": "mozes-metaal",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Mozes Metaal",
+  "straat": "Hescheweg 82",
+  "postcode": "5342CL",
+  "plaatsnaam": "Oss",
+  "telefoon": "0412-622766",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.756477,
+  "lon": 5.530182,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/oss/mozes-metaal/",
+  "meta_title": "Mozes Metaal 0412-622766",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/oss/mozes-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

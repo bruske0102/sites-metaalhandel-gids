@@ -1,0 +1,37 @@
+{
+  "id": 490211,
+  "slug": "metals-trading-bv",
+  "provincie": "gelderland",
+  "plaats": "harderwijk",
+  "naam": "Metals Trading B.V.",
+  "straat": "Boomkamp 8",
+  "postcode": "3848ZC",
+  "plaatsnaam": "Harderwijk",
+  "telefoon": "06-16019119",
+  "email": "bartvlastuin@hotmail.nl",
+  "website": null,
+  "lat": 52.350257,
+  "lon": 5.642052,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/harderwijk/metals-trading-bv/",
+  "meta_title": "Metals Trading B.V. 06-16019119 bartvlastuin@hotmail.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Harderwijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/harderwijk/metals-trading-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

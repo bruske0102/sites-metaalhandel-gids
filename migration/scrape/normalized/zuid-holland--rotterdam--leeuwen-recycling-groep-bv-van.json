@@ -1,0 +1,38 @@
+{
+  "id": 489619,
+  "slug": "leeuwen-recycling-groep-bv-van",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Leeuwen Recycling Groep BV Van",
+  "straat": "Doklaan 22",
+  "postcode": "3081AD",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-2839400",
+  "email": "info@vanleeuwengroep.com",
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.8949,
+  "lon": 4.470924,
+  "omschrijving": "van Leeuwen Recycling Groep B.V. is een nationale en internationale handelsmaatschappij in ferro- en non-ferro metalen. Het accent ligt op de in- en verkoop, be- en verwerken van ferro-, en non-ferro metalen. Professionals met kennis van zaken staan garant voor een milieuvriendelijke en efficiënte verwerking van alle afvallen. Kennismaken met van Leeuwen Recycling Groep, wij staan garant voor:\n\n• Hoge restwaardevergoeding\n• Deskundig (Milieu) advies\n• Snelle zakelijke afwikkeling\n• Persoonlijk advies\n• Gecertificeerde dienstverlening",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/leeuwen-recycling-groep-bv-van/",
+  "meta_title": "Leeuwen Recycling Groep BV Van 010-2839400 info@vanleeuwengroep.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/leeuwen-recycling-groep-bv-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

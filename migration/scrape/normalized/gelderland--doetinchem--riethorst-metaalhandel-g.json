@@ -1,0 +1,37 @@
+{
+  "id": 490327,
+  "slug": "riethorst-metaalhandel-g",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Riethorst Metaalhandel G",
+  "straat": "Pinksterbloemstraat 18",
+  "postcode": "7004ED",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "06-21857126",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.948662,
+  "lon": 6.312404,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/riethorst-metaalhandel-g/",
+  "meta_title": "Riethorst Metaalhandel G 06-21857126",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/riethorst-metaalhandel-g/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

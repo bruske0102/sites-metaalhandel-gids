@@ -1,0 +1,64 @@
+---
+import type { City, Listing } from "../lib/model";
+import { kenmerkCount } from "../lib/model";
+import { listingCount, nlCount } from "../lib/nl-count";
+
+interface Props { city: City; listings: Listing[] }
+const { city, listings } = Astro.props;
+const n = listings.length || city.listings;
+
+const ophalenN = kenmerkCount(listings, /ophalen/i);
+const inkoopN = kenmerkCount(listings, /inkoop/i);
+const ferroN = kenmerkCount(listings, /ferro|oud-ijzer/i);
+const nonFerroN = kenmerkCount(listings, /non-ferro/i);
+
+const cards: { title: string; body: string }[] = [
+  {
+    title: "Adres & contact",
+    body: `${listingCount(n)} in ${city.naam} met adres en telefoon in onze gids.`,
+  },
+];
+
+if (ophalenN > 0) {
+  cards.push({
+    title: "Ophalen",
+    body: `${nlCount(ophalenN, "handel", "handels")} noemt ophalen van schroot.`,
+  });
+}
+if (inkoopN > 0) {
+  cards.push({
+    title: "Inkoop",
+    body: `${nlCount(inkoopN, "handel", "handels")} noemt inkoop / inleveren.`,
+  });
+}
+if (ferroN > 0) {
+  cards.push({
+    title: "Oud ijzer / ferro",
+    body: `${nlCount(ferroN, "vermelding", "vermeldingen")} noemt oud ijzer of ferro.`,
+  });
+}
+if (nonFerroN > 0) {
+  cards.push({
+    title: "Non-ferro",
+    body: `${nlCount(nonFerroN, "vermelding", "vermeldingen")} noemt non-ferro.`,
+  });
+}
+if (cards.length < 3) {
+  cards.push({
+    title: "Dagprijs",
+    body: `Bel voor openingstijden en actuele schrootprijs in ${city.naam}.`,
+  });
+}
+---
+<section class="section" aria-labelledby="diensten">
+  <h2 id="diensten">Wat je in {city.naam} tegenkomt</h2>
+  <p>Gebaseerd op de vermeldingen in onze gids — bel altijd voor actuele details.</p>
+  <div class="diensten-grid">
+    {cards.slice(0, 4).map((c) => (
+      <div class="dienst">
+        <h3>{c.title}</h3>
+        <p>{c.body}</p>
+      </div>
+    ))}
+  </div>
+</section>

@@ -1,0 +1,37 @@
+{
+  "id": 489686,
+  "slug": "mrb-metaalhandel",
+  "provincie": "gelderland",
+  "plaats": "ulft",
+  "naam": "MRB Metaalhandel",
+  "straat": "Ettenseweg 3",
+  "postcode": "7071AA",
+  "plaatsnaam": "Ulft",
+  "telefoon": "0315-841185",
+  "email": null,
+  "website": null,
+  "lat": 51.906327,
+  "lon": 6.360972,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ulft/mrb-metaalhandel/",
+  "meta_title": "MRB Metaalhandel 0315-841185",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ulft. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/ulft/mrb-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

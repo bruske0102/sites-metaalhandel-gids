@@ -1,0 +1,37 @@
+{
+  "id": 489928,
+  "slug": "handelsonderneming-j-roossien",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "Handelsonderneming J. Roossien",
+  "straat": "Cascadestraat 10",
+  "postcode": "8043PH",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "06-43980501",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.523566,
+  "lon": 6.065893,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/handelsonderneming-j-roossien/",
+  "meta_title": "Handelsonderneming J. Roossien 06-43980501",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/handelsonderneming-j-roossien/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

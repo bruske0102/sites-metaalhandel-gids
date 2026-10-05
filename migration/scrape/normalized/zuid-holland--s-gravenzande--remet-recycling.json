@@ -1,0 +1,41 @@
+{
+  "id": 490307,
+  "slug": "remet-recycling",
+  "provincie": "zuid-holland",
+  "plaats": "s-gravenzande",
+  "naam": "Remet Recycling",
+  "straat": "Braillestraat 1",
+  "postcode": "2691HX",
+  "plaatsnaam": "'s-Gravenzande",
+  "telefoon": "0174-444523",
+  "email": null,
+  "website": "http://www.remet.nl",
+  "lat": 51.997205,
+  "lon": 4.181348,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/s-gravenzande/remet-recycling/",
+  "meta_title": "Remet Recycling 0174-444523",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/s-gravenzande/remet-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

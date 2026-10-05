@@ -1,0 +1,37 @@
+{
+  "id": 490158,
+  "slug": "ijzer-en-metaalhandel-d-hinderiks",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "IJzer en Metaalhandel D. Hinderiks",
+  "straat": "David van Bourgondiestr 64",
+  "postcode": "7415XX",
+  "plaatsnaam": "Deventer",
+  "telefoon": "06-43652087",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.274016,
+  "lon": 6.162827,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/deventer/ijzer-en-metaalhandel-d-hinderiks/",
+  "meta_title": "IJzer en Metaalhandel D. Hinderiks 06-43652087",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Deventer. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/deventer/ijzer-en-metaalhandel-d-hinderiks/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

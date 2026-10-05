@@ -1,0 +1,37 @@
+{
+  "id": 490428,
+  "slug": "vof-ijzer-en-metaalhandel-hoffmann",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "VOF IJzer en Metaalhandel Hoffmann",
+  "straat": "Van der Meulenweg 16",
+  "postcode": "7814TK",
+  "plaatsnaam": "Emmen",
+  "telefoon": "0591-611272",
+  "email": null,
+  "website": null,
+  "lat": 52.801281,
+  "lon": 6.881787,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/emmen/vof-ijzer-en-metaalhandel-hoffmann/",
+  "meta_title": "VOF IJzer en Metaalhandel Hoffmann 0591-611272",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/emmen/vof-ijzer-en-metaalhandel-hoffmann/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

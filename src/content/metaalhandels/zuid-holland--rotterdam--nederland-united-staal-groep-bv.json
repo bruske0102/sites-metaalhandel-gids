@@ -1,0 +1,30 @@
+{
+  "id": 490232,
+  "slug": "nederland-united-staal-groep-bv",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Nederland United Staal Groep BV",
+  "straat": "Kruisplein 758",
+  "postcode": "3012CC",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-57439999",
+  "lat": 51.921074,
+  "lon": 4.471932,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/nederland-united-staal-groep-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Nederland United Staal Groep BV 06-57439999",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

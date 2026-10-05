@@ -1,0 +1,30 @@
+{
+  "id": 489940,
+  "slug": "handelsonderneming-platzer",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Handelsonderneming Platzer",
+  "straat": "H. de Langestraat 31",
+  "postcode": "7815ED",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-40887288",
+  "lat": 52.801023,
+  "lon": 6.890899,
+  "status": "gesloten",
+  "oude_url": "/drenthe/emmen/handelsonderneming-platzer/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming Platzer 06-40887288",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 489608,
+  "slug": "henraath-vof-metaalrecycling",
+  "provincie": "limburg",
+  "plaats": "horst",
+  "naam": "Henraath VOF Metaalrecycling",
+  "straat": "Heuvelweg 23",
+  "postcode": "5962AE",
+  "plaatsnaam": "Melderslo",
+  "telefoon": "077-3983343",
+  "email": "info@henraath.nl",
+  "website": "http://www.henraath.nl",
+  "lat": 51.458435,
+  "lon": 6.075092,
+  "omschrijving": "Wij kopen oud ijzer en metalen (koper Lood zink aluminium kabel rvs enz.) .ook voor koelkasten , witgoed ,bruingoed en computers kunt u hier terecht .inname auto's rdw erkend .\ntevens doen wij ook aan computer vernietiging data .Weegbrug op locatie.\nwij doen ook aan sloop projecten, ijzer uit panden halen of demonteren van machines.\nVerder info kunt u vinden op www.henraath.nl of op facebook\nons gebied is Horst, Venlo ,Venray , Helden ,Well , Wanssum , Meerlo , Panningen , Blerick , Sevenum ,Ysselstein , Melderslo , Broekhuizen , Broekhuizenvorst , Swolgen , Lottum , Grubbenvorst , Sevenum , Griendtsveen , America , Meterik , Hegelsom , Castenray , Maasbree , Leunen ,",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/horst/henraath-vof-metaalrecycling/",
+  "meta_title": "Henraath VOF Metaalrecycling 077-3983343 info@henraath.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Melderslo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/horst/henraath-vof-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

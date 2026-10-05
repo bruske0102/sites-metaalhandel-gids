@@ -1,0 +1,31 @@
+{
+  "id": 490104,
+  "slug": "m-kortland",
+  "provincie": "zuid-holland",
+  "plaats": "gouda",
+  "naam": "M. Kortland",
+  "straat": "Strookpolderstraat 4",
+  "postcode": "2807MX",
+  "plaatsnaam": "Gouda",
+  "telefoon": "06-42147702",
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.009111,
+  "lon": 4.751831,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/gouda/m-kortland/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "M. Kortland 06-42147702",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Gouda. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

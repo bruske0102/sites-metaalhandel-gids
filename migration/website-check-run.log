@@ -1,0 +1,51 @@
+checking 641 websites with 8 workers…
+  25/641
+  50/641
+  75/641
+  100/641
+  125/641
+  150/641
+  175/641
+  200/641
+  225/641
+  250/641
+  275/641
+  300/641
+  325/641
+  350/641
+  375/641
+  400/641
+  425/641
+  450/641
+  475/641
+  500/641
+  525/641
+  550/641
+  575/641
+  600/641
+  625/641
+  641/641
+status counts: {'ok': 493, 'dood': 65, 'spam': 23, 'verhuisd': 46, 'geblokkeerd': 3, 'ander_domein': 11}
+wrote /workspace/sites/metaalhandel-gids/src/data/websites.json
+wrote /workspace/sites/metaalhandel-gids/migration/website-check-report.json
+SPAM hits: 23
+  - 489809 De Weerdt VOF: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 490025 JB Metalen: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489914 Handelsondern. Dennis van 't Hul: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489732 Alumeconl BV: http://www.alumeco.nl → https://www.alumeco.nl/ (gambling/adult/pharma signals)
+  - 489932 Handelsonderneming K Spijkerman: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489854 Finke BV Metaalhandel: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489972 HNO: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489895 H & M Service: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489756 Bel H: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 490463 Wolters Henk: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489814 Dirk Battels Metaal Handel: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489864 Gebr. Hinderiks Metaalrecycling: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489630 Hinderiks Antoon: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489970 Hinderiks Metaalrecycling Antoon: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489971 Hinderiks Schroot en Metaal: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489811 Delta Metalen: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 490051 Kabel Recycling Zwolle BV: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 490265 Oud IJzer en Metalen W & G: http://www.antoonhinderiks.nl → https://www.antoonhinderiks.nl/ (gambling/adult/pharma signals)
+  - 489805 De Graaf Power: http://www.nettenenzoon.nl → https://55jogo8.casino/ (gambling/adult/pharma signals)
+  - 490347 S. Graff: http://www.nettenenzoon.nl → https://55jogo8.casino/ (gambling/adult/pharma signals)

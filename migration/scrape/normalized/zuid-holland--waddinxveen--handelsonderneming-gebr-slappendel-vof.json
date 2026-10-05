@@ -1,0 +1,41 @@
+{
+  "id": 489923,
+  "slug": "handelsonderneming-gebr-slappendel-vof",
+  "provincie": "zuid-holland",
+  "plaats": "waddinxveen",
+  "naam": "Handelsonderneming gebr. Slappendel VOF",
+  "straat": "Zuidkade 96",
+  "postcode": "2741JE",
+  "plaatsnaam": "Waddinxveen",
+  "telefoon": "0182-632853",
+  "email": null,
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.035335,
+  "lon": 4.658055,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/waddinxveen/handelsonderneming-gebr-slappendel-vof/",
+  "meta_title": "Handelsonderneming gebr. Slappendel VOF 0182-632853",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Waddinxveen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/waddinxveen/handelsonderneming-gebr-slappendel-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

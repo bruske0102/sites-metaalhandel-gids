@@ -1,0 +1,37 @@
+{
+  "id": 489910,
+  "slug": "hameta-scrap",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Hameta Scrap",
+  "straat": "Ellemare 38",
+  "postcode": "3085JT",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-53727975",
+  "email": null,
+  "website": null,
+  "lat": 51.869935,
+  "lon": 4.492705,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/hameta-scrap/",
+  "meta_title": "Hameta Scrap 06-53727975",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/hameta-scrap/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

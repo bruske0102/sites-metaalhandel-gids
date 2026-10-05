@@ -1,0 +1,38 @@
+{
+  "id": 489704,
+  "slug": "wsm-metaal-en-sloopwerken",
+  "provincie": "noord-brabant",
+  "plaats": "middelbeers",
+  "naam": "WSM Metaal- en Sloopwerken",
+  "straat": "Hoogeindseweg 21",
+  "postcode": "5091KB",
+  "plaatsnaam": "Oost- West- en Middelbeers",
+  "telefoon": "013-5142657",
+  "email": null,
+  "website": null,
+  "lat": 51.461848,
+  "lon": 5.274646,
+  "omschrijving": "Gespecialiseerd in de inkoop en slopen van oud ijzer en metaal, voor particulieren, bedrijven en aannemers in heel Nederland.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/middelbeers/wsm-metaal-en-sloopwerken/",
+  "meta_title": "WSM Metaal- en Sloopwerken 013-5142657",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oost- West- en Middelbeers. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/middelbeers/wsm-metaal-en-sloopwerken/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

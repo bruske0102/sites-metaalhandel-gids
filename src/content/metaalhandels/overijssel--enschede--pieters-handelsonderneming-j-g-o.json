@@ -1,0 +1,31 @@
+{
+  "id": 490287,
+  "slug": "pieters-handelsonderneming-j-g-o",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Pieters Handelsonderneming J G O",
+  "straat": "Snelliusstraat 20",
+  "postcode": "7533XW",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-53711380",
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.221968,
+  "lon": 6.920101,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/pieters-handelsonderneming-j-g-o/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Pieters Handelsonderneming J G O 06-53711380",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

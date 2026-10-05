@@ -1,0 +1,37 @@
+{
+  "id": 489907,
+  "slug": "haaren-metaalhandel-van",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "Haaren Metaalhandel Van",
+  "straat": "Zwanenveld 2513",
+  "postcode": "6538NG",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "06-23426648",
+  "email": "sibillavdvaart@hotmail.com",
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.81936,
+  "lon": 5.804718,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijmegen/haaren-metaalhandel-van/",
+  "meta_title": "Haaren Metaalhandel Van 06-23426648 sibillavdvaart@hotmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijmegen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijmegen/haaren-metaalhandel-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

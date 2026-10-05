@@ -1,0 +1,37 @@
+{
+  "id": 489780,
+  "slug": "chris-oud-ijzer-metaalrecycling",
+  "provincie": "utrecht",
+  "plaats": "veenendaal",
+  "naam": "Chris Oud IJzer & Metaalrecycling",
+  "straat": "Roland Holstlaan 19",
+  "postcode": "3906XA",
+  "plaatsnaam": "Veenendaal",
+  "telefoon": "06-23680386",
+  "email": null,
+  "website": "http://www.oudmetaalhandelpfeifer.nl",
+  "lat": 52.02811,
+  "lon": 5.525031,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/veenendaal/chris-oud-ijzer-metaalrecycling/",
+  "meta_title": "Chris Oud IJzer & Metaalrecycling 06-23680386",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Veenendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/veenendaal/chris-oud-ijzer-metaalrecycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

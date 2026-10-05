@@ -1,0 +1,31 @@
+{
+  "id": 490317,
+  "slug": "r-ch-vreeswijk",
+  "provincie": "zuid-holland",
+  "plaats": "waddinxveen",
+  "naam": "R. C.H. Vreeswijk",
+  "straat": "Pater Jornaweg 13/BIJ",
+  "postcode": "2742KM",
+  "plaatsnaam": "Waddinxveen",
+  "telefoon": "06-15370968",
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.036486,
+  "lon": 4.646698,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/waddinxveen/r-ch-vreeswijk/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "R. C.H. Vreeswijk 06-15370968",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Waddinxveen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

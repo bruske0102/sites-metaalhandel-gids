@@ -1,0 +1,37 @@
+{
+  "id": 490351,
+  "slug": "schippers-metaalhandel",
+  "provincie": "flevoland",
+  "plaats": "emmeloord",
+  "naam": "Schipper's Metaalhandel",
+  "straat": "Riepel 6",
+  "postcode": "8303KP",
+  "plaatsnaam": "Emmeloord",
+  "telefoon": "0527-616223",
+  "email": null,
+  "website": "http://www.wijnand-handel.nl",
+  "lat": 52.713348,
+  "lon": 5.726304,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/emmeloord/schippers-metaalhandel/",
+  "meta_title": "Schipper's Metaalhandel 0527-616223",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmeloord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/emmeloord/schippers-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

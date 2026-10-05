@@ -1,0 +1,37 @@
+{
+  "id": 489965,
+  "slug": "henk-metaalhandel",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "Henk Metaalhandel",
+  "straat": "Hillekensacker 3212",
+  "postcode": "6546LS",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "06-22804574",
+  "email": null,
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 51.83484,
+  "lon": 5.783577,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijmegen/henk-metaalhandel/",
+  "meta_title": "Henk Metaalhandel 06-22804574",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijmegen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijmegen/henk-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490115,
+  "slug": "marc-ijzer",
+  "provincie": "noord-brabant",
+  "plaats": "rosmalen",
+  "naam": "Marc IJzer",
+  "straat": "Burg Mazairaclaan 5",
+  "postcode": "5242AT",
+  "plaatsnaam": "Rosmalen",
+  "telefoon": "073-5210106",
+  "email": null,
+  "website": null,
+  "lat": 51.708563,
+  "lon": 5.360841,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/rosmalen/marc-ijzer/",
+  "meta_title": "Marc IJzer 073-5210106",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rosmalen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/rosmalen/marc-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

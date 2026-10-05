@@ -1,0 +1,41 @@
+{
+  "id": 489711,
+  "slug": "horst-recycling-bv-ter",
+  "provincie": "gelderland",
+  "plaats": "varsseveld",
+  "naam": "Horst Recycling BV Ter",
+  "straat": "Aaltenseweg 58",
+  "postcode": "7051GV",
+  "plaatsnaam": "Varsseveld",
+  "telefoon": "0315-241883",
+  "email": "info@terhorstgroep.nl",
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.938859,
+  "lon": 6.47174,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/varsseveld/horst-recycling-bv-ter/",
+  "meta_title": "Horst Recycling BV Ter 0315-241883 info@terhorstgroep.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Varsseveld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/varsseveld/horst-recycling-bv-ter/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

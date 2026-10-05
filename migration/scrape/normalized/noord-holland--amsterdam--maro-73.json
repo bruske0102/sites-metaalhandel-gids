@@ -1,0 +1,41 @@
+{
+  "id": 490117,
+  "slug": "maro-73",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Maro 73",
+  "straat": "C v Vollenhovenstr 14",
+  "postcode": "1063KS",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-86104680",
+  "email": null,
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.380208,
+  "lon": 4.820234,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/maro-73/",
+  "meta_title": "Maro 73 06-86104680",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/maro-73/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

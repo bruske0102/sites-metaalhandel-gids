@@ -1,0 +1,37 @@
+{
+  "id": 489668,
+  "slug": "huiskes-metaalhandel-vof",
+  "provincie": "zeeland",
+  "plaats": "kapelle",
+  "naam": "Huiskes Metaalhandel VOF",
+  "straat": "Handelsweg 53",
+  "postcode": "4421SH",
+  "plaatsnaam": "Kapelle",
+  "telefoon": "0113-340170",
+  "email": "info@metaalhuiskes.nl",
+  "website": "http://www.metaalhuiskes.nl",
+  "lat": 51.471566,
+  "lon": 3.979112,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/kapelle/huiskes-metaalhandel-vof/",
+  "meta_title": "Huiskes Metaalhandel VOF 0113-340170 info@metaalhuiskes.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kapelle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/kapelle/huiskes-metaalhandel-vof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

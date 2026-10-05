@@ -1,0 +1,37 @@
+{
+  "id": 490160,
+  "slug": "ijzer-metaalhandel-van-veen-vh-b-v-veen",
+  "provincie": "friesland",
+  "plaats": "drachten",
+  "naam": "IJzer & Metaalhandel Van Veen v/h B v Veen",
+  "straat": "Stuurboord 15",
+  "postcode": "9206BK",
+  "plaatsnaam": "Drachten",
+  "telefoon": "0512-531721",
+  "email": null,
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.118863,
+  "lon": 6.056657,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/drachten/ijzer-metaalhandel-van-veen-vh-b-v-veen/",
+  "meta_title": "IJzer & Metaalhandel Van Veen v/h B v Veen 0512-531721",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Drachten. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/drachten/ijzer-metaalhandel-van-veen-vh-b-v-veen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

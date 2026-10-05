@@ -1,0 +1,41 @@
+{
+  "id": 489996,
+  "slug": "ijzersterk-bv",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "IJzersterk BV",
+  "straat": "Koopvaardijweg 9",
+  "postcode": "6541BR",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "06-21553735",
+  "email": null,
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.852565,
+  "lon": 5.833547,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/nijmegen/ijzersterk-bv/",
+  "meta_title": "IJzersterk BV 06-21553735",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijmegen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijmegen/ijzersterk-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

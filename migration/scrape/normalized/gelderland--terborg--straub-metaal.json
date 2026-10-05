@@ -1,0 +1,37 @@
+{
+  "id": 489696,
+  "slug": "straub-metaal",
+  "provincie": "gelderland",
+  "plaats": "terborg",
+  "naam": "Straub Metaal",
+  "straat": "Akkermansbeekweg 21/A",
+  "postcode": "7061ZA",
+  "plaatsnaam": "Terborg",
+  "telefoon": "0315-323925",
+  "email": "f.c.straub@hetnet.nl",
+  "website": null,
+  "lat": 51.925065,
+  "lon": 6.335049,
+  "omschrijving": "IJzer en metaal handel.\nZand en grind.\nSloop werkzaam heden.\nKunststof recycling",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/terborg/straub-metaal/",
+  "meta_title": "Straub Metaal 0315-323925 f.c.straub@hetnet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Terborg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/terborg/straub-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

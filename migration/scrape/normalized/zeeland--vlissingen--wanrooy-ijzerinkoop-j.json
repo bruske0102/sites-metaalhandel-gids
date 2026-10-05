@@ -1,0 +1,42 @@
+{
+  "id": 490441,
+  "slug": "wanrooy-ijzerinkoop-j",
+  "provincie": "zeeland",
+  "plaats": "vlissingen",
+  "naam": "Wanrooy IJzerinkoop J",
+  "straat": "Nieuwe Zuidbeekseweg 10",
+  "postcode": "4386NH",
+  "plaatsnaam": "Vlissingen",
+  "telefoon": "0118-479756",
+  "email": null,
+  "website": null,
+  "lat": 51.46539,
+  "lon": 3.574641,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/vlissingen/wanrooy-ijzerinkoop-j/",
+  "meta_title": "Wanrooy IJzerinkoop J 0118-479756",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vlissingen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/vlissingen/wanrooy-ijzerinkoop-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

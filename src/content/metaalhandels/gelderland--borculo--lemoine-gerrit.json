@@ -1,0 +1,31 @@
+{
+  "id": 490084,
+  "slug": "lemoine-gerrit",
+  "provincie": "gelderland",
+  "plaats": "borculo",
+  "naam": "Lemoine Gerrit",
+  "straat": "Prinses Margrietstraat 5",
+  "postcode": "7271GJ",
+  "plaatsnaam": "Borculo",
+  "telefoon": "06-52547724",
+  "website": "http://www.heinhuis.nl",
+  "lat": 52.114167,
+  "lon": 6.513035,
+  "status": "gesloten",
+  "oude_url": "/gelderland/borculo/lemoine-gerrit/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Lemoine Gerrit 06-52547724",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Borculo. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

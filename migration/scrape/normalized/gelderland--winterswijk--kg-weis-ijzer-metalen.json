@@ -1,0 +1,37 @@
+{
+  "id": 490049,
+  "slug": "kg-weis-ijzer-metalen",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "K.G. Weis IJzer & Metalen",
+  "straat": "Joost van den Vondelstr 347",
+  "postcode": "7103XV",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-23329075",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.978113,
+  "lon": 6.73035,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/winterswijk/kg-weis-ijzer-metalen/",
+  "meta_title": "K.G. Weis IJzer & Metalen 06-23329075",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/kg-weis-ijzer-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

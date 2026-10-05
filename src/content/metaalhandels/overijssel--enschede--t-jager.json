@@ -1,0 +1,31 @@
+{
+  "id": 490392,
+  "slug": "t-jager",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "T. Jager",
+  "straat": "Bosbeekjuffer 65",
+  "postcode": "7532TA",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-30360876",
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.218321,
+  "lon": 6.937728,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/t-jager/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "T. Jager 06-30360876",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

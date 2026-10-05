@@ -1,0 +1,30 @@
+{
+  "id": 490002,
+  "slug": "irik-recycling",
+  "provincie": "limburg",
+  "plaats": "heerlen",
+  "naam": "Irik Recycling",
+  "straat": "Pappersjans 36",
+  "postcode": "6413CL",
+  "plaatsnaam": "Heerlen",
+  "telefoon": "045-5212913",
+  "lat": 50.914511,
+  "lon": 5.962771,
+  "status": "gesloten",
+  "oude_url": "/limburg/heerlen/irik-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Irik Recycling 045-5212913",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerlen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

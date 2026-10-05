@@ -1,0 +1,41 @@
+{
+  "id": 490243,
+  "slug": "n-roode",
+  "provincie": "overijssel",
+  "plaats": "hengelo",
+  "naam": "N. Roode",
+  "straat": "Emmaweg 34",
+  "postcode": "7551BJ",
+  "plaatsnaam": "Hengelo ov",
+  "telefoon": "074-2434549",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.263061,
+  "lon": 6.787308,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/hengelo/n-roode/",
+  "meta_title": "N. Roode 074-2434549",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hengelo ov. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/hengelo/n-roode/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

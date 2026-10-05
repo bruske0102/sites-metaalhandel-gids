@@ -1,0 +1,41 @@
+{
+  "id": 489791,
+  "slug": "d-van-der-ham",
+  "provincie": "zuid-holland",
+  "plaats": "oud-beijerland",
+  "naam": "D. van der Ham",
+  "straat": "Bordewijkring 3",
+  "postcode": "3261PV",
+  "plaatsnaam": "Oud-Beijerland",
+  "telefoon": "06-53850829",
+  "email": null,
+  "website": "http://www.degrootmetals.com",
+  "lat": 51.818809,
+  "lon": 4.439199,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/oud-beijerland/d-van-der-ham/",
+  "meta_title": "D. van der Ham 06-53850829",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oud-Beijerland. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/oud-beijerland/d-van-der-ham/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489897,
+  "slug": "h-hendriks",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "H. Hendriks",
+  "straat": "Haagjesweg 170",
+  "postcode": "7815LP",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-16892784",
+  "lat": 52.797115,
+  "lon": 6.890765,
+  "status": "gesloten",
+  "oude_url": "/drenthe/emmen/h-hendriks/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "H. Hendriks 06-16892784",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

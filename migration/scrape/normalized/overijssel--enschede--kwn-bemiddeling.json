@@ -1,0 +1,41 @@
+{
+  "id": 490080,
+  "slug": "kwn-bemiddeling",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "KWN Bemiddeling",
+  "straat": "Oldenzaalsestraat 177",
+  "postcode": "7523AA",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-38692784",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.228678,
+  "lon": 6.900247,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/kwn-bemiddeling/",
+  "meta_title": "KWN Bemiddeling 06-38692784",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/kwn-bemiddeling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490108,
+  "slug": "mr-metalen",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "M.R. Metalen",
+  "straat": "Berlagelaan 113",
+  "postcode": "2033XS",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-57772735",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.379958,
+  "lon": 4.663776,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/mr-metalen/",
+  "meta_title": "M.R. Metalen 06-57772735",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/mr-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

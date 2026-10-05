@@ -1,0 +1,41 @@
+{
+  "id": 490458,
+  "slug": "woco-steel-bv",
+  "provincie": "zuid-holland",
+  "plaats": "zwijndrecht",
+  "naam": "Woco Steel BV",
+  "straat": "Stationsplein 4/H",
+  "postcode": "3331LL",
+  "plaatsnaam": "Zwijndrecht",
+  "telefoon": "078-7620888",
+  "email": "wvdgraaf@wocosteel.nl",
+  "website": null,
+  "lat": 51.815794,
+  "lon": 4.641581,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/zwijndrecht/woco-steel-bv/",
+  "meta_title": "Woco Steel BV 078-7620888 wvdgraaf@wocosteel.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwijndrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/zwijndrecht/woco-steel-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489824,
+  "slug": "e-van-der-west",
+  "provincie": "friesland",
+  "plaats": "twijzelerheide",
+  "naam": "E. van der West",
+  "straat": "Bjirkewei 24",
+  "postcode": "9287LD",
+  "plaatsnaam": "Twijzelerheide",
+  "telefoon": "0511-443628",
+  "email": null,
+  "website": null,
+  "lat": 53.239978,
+  "lon": 6.054624,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/twijzelerheide/e-van-der-west/",
+  "meta_title": "E. van der West 0511-443628",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Twijzelerheide. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/twijzelerheide/e-van-der-west/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490217,
+  "slug": "moed-metaal-recycling",
+  "provincie": "noord-holland",
+  "plaats": "ouderkerk-aan-de-amstel",
+  "naam": "Moed Metaal Recycling",
+  "straat": "Hendrick van Avercampweg 65",
+  "postcode": "1191EX",
+  "plaatsnaam": "Ouderkerk aan de Amstel",
+  "telefoon": "06-51521019",
+  "email": null,
+  "website": "http://www.springers.nl",
+  "lat": 52.299257,
+  "lon": 4.916955,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/ouderkerk-aan-de-amstel/moed-metaal-recycling/",
+  "meta_title": "Moed Metaal Recycling 06-51521019",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ouderkerk aan de Amstel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/ouderkerk-aan-de-amstel/moed-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

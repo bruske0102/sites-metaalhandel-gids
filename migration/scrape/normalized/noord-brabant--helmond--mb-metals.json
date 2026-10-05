@@ -1,0 +1,37 @@
+{
+  "id": 490121,
+  "slug": "mb-metals",
+  "provincie": "noord-brabant",
+  "plaats": "helmond",
+  "naam": "MB Metals",
+  "straat": "Achterdijk 11",
+  "postcode": "5705CB",
+  "plaatsnaam": "Helmond",
+  "telefoon": "0492-524422",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.46222,
+  "lon": 5.682564,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/helmond/mb-metals/",
+  "meta_title": "MB Metals 0492-524422",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Helmond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/helmond/mb-metals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

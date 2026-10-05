@@ -1,0 +1,37 @@
+{
+  "id": 489971,
+  "slug": "hinderiks-schroot-en-metaal",
+  "provincie": "overijssel",
+  "plaats": "raalte",
+  "naam": "Hinderiks Schroot en Metaal",
+  "straat": "Maalsteen 6",
+  "postcode": "8102DM",
+  "plaatsnaam": "Raalte",
+  "telefoon": "0572-354735",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.385226,
+  "lon": 6.283549,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/raalte/hinderiks-schroot-en-metaal/",
+  "meta_title": "Hinderiks Schroot en Metaal 0572-354735",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Raalte. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/raalte/hinderiks-schroot-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

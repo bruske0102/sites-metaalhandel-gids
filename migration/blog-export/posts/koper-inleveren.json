@@ -1,0 +1,44 @@
+{
+  "slug": "koper-inleveren",
+  "title": "Koper inleveren: prijs en aandachtspunten",
+  "meta_title": "Koper inleveren: dagprijs, soorten & waar op letten",
+  "meta_description": "Koper inleveren bij de metaalhandel: welke soorten er zijn, waarom de prijs hoger ligt, en hoe je diefstalregels en wegen serieus neemt.",
+  "author": "Redactie Metaalhandel-gids",
+  "excerpt": "Koper is non-ferro en meestal meer waard per kilo dan oud ijzer. Zo lever je het netjes in.",
+  "primary_keyword": "koper inleveren",
+  "secondary_keywords": [
+    "aluminium inleveren",
+    "non-ferro",
+    "oud ijzer prijs"
+  ],
+  "semrush": {
+    "database": "nl",
+    "volume": 880,
+    "kd": 13,
+    "support": "aluminium inleveren 320/21; oud ijzer prijs 22200/26",
+    "note": "phrase_these 2026-10-05"
+  },
+  "faq": [
+    {
+      "q": "Geldt voor koper een strengere ID-plicht?",
+      "a": "Vaak wel, omdat koper diefstalgevoelig is. Reken op legitimatie en registratie bij veel zaken."
+    },
+    {
+      "q": "Mag geïsoleerd koper erbij?",
+      "a": "Soms tegen een andere prijs (met of zonder isolatie). Vraag hoe zij classificeren."
+    },
+    {
+      "q": "Is aluminium hetzelfde tarief?",
+      "a": "Nee. Aluminium inleveren heeft een eigen dagprijs, meestal lager dan koper per kilo."
+    }
+  ],
+  "content_html": "<p><strong>Koper inleveren</strong> is populair omdat non-ferro doorgaans meer oplevert dan gewoon schroot. Denk aan leidingen, kabel (deels), fittingen en platen.</p>\n\n<h2>Soorten die je vaak ziet</h2>\n<ul>\n<li>Blank koper / buizen</li>\n<li>Koper met aanslag of soldeerresten</li>\n<li>Kabelkoper (met of zonder mantel)</li>\n</ul>\n<p>De classificatie bepaalt de prijs. Twijfel je: laat de weger het duiden.</p>\n\n<h2>Regels en veiligheid</h2>\n<p>Lever alleen koper dat van jou is of waar je toestemming voor hebt. Handels controleren strenger bij non-ferro. Neem ID mee.</p>\n\n<h2>Aluminium en andere non-ferro</h2>\n<p>Combineer gerust een rit met <strong>aluminium inleveren</strong>, maar houd stromen gescheiden voor een betere verrekening.</p>\n\n<section class=\"faq\"><h2>Veelgestelde vragen</h2>\n<details><summary>Geldt voor koper een strengere ID-plicht?</summary><p>Vaak wel, omdat koper diefstalgevoelig is. Reken op legitimatie en registratie bij veel zaken.</p></details>\n<details><summary>Mag geïsoleerd koper erbij?</summary><p>Soms tegen een andere prijs (met of zonder isolatie). Vraag hoe zij classificeren.</p></details>\n<details><summary>Is aluminium hetzelfde tarief?</summary><p>Nee. Aluminium inleveren heeft een eigen dagprijs, meestal lager dan koper per kilo.</p></details>\n</section>\n\n<aside class=\"cta\">\n  <h2>Koperprijs navragen</h2>\n  <p>Bel een metaalhandel voor de actuele koper-dagprijs en inlevervoorwaarden.</p>\n  <p class=\"cta-links\"><a href=\"/noord-holland/amsterdam/\">Amsterdam</a> · <a href=\"/zuid-holland/rotterdam/\">Rotterdam</a> · <a href=\"/zuid-holland/den-haag/\">Den Haag</a> · <a href=\"/utrecht/utrecht-gemeente/\">Utrecht</a> · <a href=\"/zoeken/\">Zoeken</a></p>\n</aside>\n",
+  "date": "2026-10-05",
+  "modified": "2026-10-05",
+  "_status": "published",
+  "redirects_from": [],
+  "hero": {
+    "src": "koper-inleveren.jpg",
+    "alt": "Koper inleveren: prijs en aandachtspunten"
+  }
+}

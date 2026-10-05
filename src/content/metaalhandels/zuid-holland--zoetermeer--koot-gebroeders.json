@@ -1,0 +1,31 @@
+{
+  "id": 490073,
+  "slug": "koot-gebroeders",
+  "provincie": "zuid-holland",
+  "plaats": "zoetermeer",
+  "naam": "Koot Gebroeders",
+  "straat": "Industrieweg 5/B",
+  "postcode": "2712LA",
+  "plaatsnaam": "Zoetermeer",
+  "telefoon": "079-3164196",
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.047185,
+  "lon": 4.508438,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/zoetermeer/koot-gebroeders/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Koot Gebroeders 079-3164196",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zoetermeer. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

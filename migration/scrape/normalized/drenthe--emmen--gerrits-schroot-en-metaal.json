@@ -1,0 +1,37 @@
+{
+  "id": 489877,
+  "slug": "gerrits-schroot-en-metaal",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Gerrits Schroot en Metaal",
+  "straat": "Varenkamp 24",
+  "postcode": "7815CG",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-21222660",
+  "email": null,
+  "website": null,
+  "lat": 52.801225,
+  "lon": 6.886294,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/emmen/gerrits-schroot-en-metaal/",
+  "meta_title": "Gerrits Schroot en Metaal 06-21222660",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/emmen/gerrits-schroot-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

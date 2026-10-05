@@ -1,0 +1,41 @@
+{
+  "id": 489744,
+  "slug": "b-battels",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "B. Battels",
+  "straat": "Neringstraat 20",
+  "postcode": "7532SC",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-22448151",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.221565,
+  "lon": 6.937871,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/b-battels/",
+  "meta_title": "B. Battels 06-22448151",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/b-battels/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

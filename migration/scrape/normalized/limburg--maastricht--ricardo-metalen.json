@@ -1,0 +1,37 @@
+{
+  "id": 490325,
+  "slug": "ricardo-metalen",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Ricardo Metalen",
+  "straat": "Peerdekensruwe 2",
+  "postcode": "6218EE",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "06-11188223",
+  "email": null,
+  "website": "http://www.ecore.com",
+  "lat": 50.863454,
+  "lon": 5.661947,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/ricardo-metalen/",
+  "meta_title": "Ricardo Metalen 06-11188223",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/ricardo-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

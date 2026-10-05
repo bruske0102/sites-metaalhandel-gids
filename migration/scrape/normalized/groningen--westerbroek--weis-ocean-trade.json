@@ -1,0 +1,41 @@
+{
+  "id": 490447,
+  "slug": "weis-ocean-trade",
+  "provincie": "groningen",
+  "plaats": "westerbroek",
+  "naam": "Weis Ocean Trade",
+  "straat": "Vonderpad 6",
+  "postcode": "9608PG",
+  "plaatsnaam": "Westerbroek",
+  "telefoon": "06-47143473",
+  "email": null,
+  "website": null,
+  "lat": 53.176615,
+  "lon": 6.692798,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/westerbroek/weis-ocean-trade/",
+  "meta_title": "Weis Ocean Trade 06-47143473",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Westerbroek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/westerbroek/weis-ocean-trade/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

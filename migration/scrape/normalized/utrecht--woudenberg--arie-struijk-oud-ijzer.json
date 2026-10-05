@@ -1,0 +1,37 @@
+{
+  "id": 489740,
+  "slug": "arie-struijk-oud-ijzer",
+  "provincie": "utrecht",
+  "plaats": "woudenberg",
+  "naam": "Arie Struijk Oud IJzer",
+  "straat": "Stationsweg Oost 273",
+  "postcode": "3931ER",
+  "plaatsnaam": "Woudenberg",
+  "telefoon": "06-51815485",
+  "email": null,
+  "website": "http://www.oudmetaalhandelpfeifer.nl",
+  "lat": 52.080869,
+  "lon": 5.452705,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/woudenberg/arie-struijk-oud-ijzer/",
+  "meta_title": "Arie Struijk Oud IJzer 06-51815485",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Woudenberg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/woudenberg/arie-struijk-oud-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

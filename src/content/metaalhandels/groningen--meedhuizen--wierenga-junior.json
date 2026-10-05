@@ -1,0 +1,30 @@
+{
+  "id": 490451,
+  "slug": "wierenga-junior",
+  "provincie": "groningen",
+  "plaats": "meedhuizen",
+  "naam": "Wierenga Junior",
+  "straat": "Maarkampen 4",
+  "postcode": "9937PL",
+  "plaatsnaam": "Meedhuizen",
+  "telefoon": "06-29064126",
+  "lat": 53.287747,
+  "lon": 6.912804,
+  "status": "gesloten",
+  "oude_url": "/groningen/meedhuizen/wierenga-junior/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Wierenga Junior 06-29064126",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Meedhuizen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

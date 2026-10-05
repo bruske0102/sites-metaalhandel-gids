@@ -1,0 +1,30 @@
+{
+  "id": 489857,
+  "slug": "g-heiligers",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "G. Heiligers",
+  "straat": "Pieter de Hooghstraat 24",
+  "postcode": "6137TV",
+  "plaatsnaam": "Sittard",
+  "telefoon": "06-54706875",
+  "lat": 51.004567,
+  "lon": 5.888272,
+  "status": "gesloten",
+  "oude_url": "/limburg/sittard/g-heiligers/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "G. Heiligers 06-54706875",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

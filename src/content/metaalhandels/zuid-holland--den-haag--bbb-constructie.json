@@ -1,0 +1,31 @@
+{
+  "id": 489753,
+  "slug": "bbb-constructie",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "BBB Constructie",
+  "straat": "Cornelis van der Lijnstr 22",
+  "postcode": "2593NJ",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-83848985",
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.090335,
+  "lon": 4.342741,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/bbb-constructie/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "BBB Constructie 06-83848985",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

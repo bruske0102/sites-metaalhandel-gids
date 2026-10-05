@@ -1,0 +1,41 @@
+{
+  "id": 490348,
+  "slug": "schadeservice-van-poppel",
+  "provincie": "noord-brabant",
+  "plaats": "dinteloord",
+  "naam": "Schadeservice Van Poppel",
+  "straat": "Boompjesdijk 80",
+  "postcode": "4671PS",
+  "plaatsnaam": "Dinteloord",
+  "telefoon": "06-41559624",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.618932,
+  "lon": 4.314488,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/dinteloord/schadeservice-van-poppel/",
+  "meta_title": "Schadeservice Van Poppel 06-41559624",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Dinteloord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/dinteloord/schadeservice-van-poppel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

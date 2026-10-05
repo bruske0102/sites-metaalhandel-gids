@@ -1,0 +1,38 @@
+{
+  "id": 489610,
+  "slug": "schotsman-a-zn-bv",
+  "provincie": "gelderland",
+  "plaats": "putten",
+  "naam": "Schotsman A & Zn BV",
+  "straat": "Hoornsdam 9",
+  "postcode": "3882RM",
+  "plaatsnaam": "Putten",
+  "telefoon": "0341-351448",
+  "email": "info@aschotsman.com",
+  "website": "http://www.aschotsman.com",
+  "lat": 52.266113,
+  "lon": 5.537503,
+  "omschrijving": "A.Schotsman & ZN BV NIEUWE & GEBRUIKTE MACHINES\n\nA. Schotsman & Zn. richt zich met name op het aankopen en verkopen van nieuwe en gebruikte machines, ferro en non-ferro metalen en legeringen. Alle producten die wij aanbieden op onze site zijn in eigendom van A. Schotsman & Zn en staan opgeslagen, in Putten en in Hattiesburg (USA)",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/putten/schotsman-a-zn-bv/",
+  "meta_title": "Schotsman A & Zn BV 0341-351448 info@aschotsman.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Putten. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/putten/schotsman-a-zn-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

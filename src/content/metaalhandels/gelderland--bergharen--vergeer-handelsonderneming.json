@@ -1,0 +1,31 @@
+{
+  "id": 490420,
+  "slug": "vergeer-handelsonderneming",
+  "provincie": "gelderland",
+  "plaats": "bergharen",
+  "naam": "Vergeer Handelsonderneming",
+  "straat": "Molenweg 38",
+  "postcode": "6617BE",
+  "plaatsnaam": "Bergharen",
+  "telefoon": "06-28556925",
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 51.853314,
+  "lon": 5.670686,
+  "status": "gesloten",
+  "oude_url": "/gelderland/bergharen/vergeer-handelsonderneming/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Vergeer Handelsonderneming 06-28556925",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bergharen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

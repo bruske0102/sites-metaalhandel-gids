@@ -1,0 +1,31 @@
+{
+  "id": 490333,
+  "slug": "ripa-recycling",
+  "provincie": "zeeland",
+  "plaats": "hulst",
+  "naam": "Ripa Recycling",
+  "straat": "Azieweg 21/D",
+  "postcode": "4561PC",
+  "plaatsnaam": "Hulst",
+  "telefoon": "06-20605875",
+  "website": "http://www.galloo.com",
+  "lat": 51.269054,
+  "lon": 4.038569,
+  "status": "gesloten",
+  "oude_url": "/zeeland/hulst/ripa-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Ripa Recycling 06-20605875",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hulst. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

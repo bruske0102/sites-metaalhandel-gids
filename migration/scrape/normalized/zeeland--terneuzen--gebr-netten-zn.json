@@ -1,0 +1,41 @@
+{
+  "id": 489617,
+  "slug": "gebr-netten-zn",
+  "provincie": "zeeland",
+  "plaats": "terneuzen",
+  "naam": "Gebr Netten & Zn",
+  "straat": "Koegorsstraat 9",
+  "postcode": "4538PK",
+  "plaatsnaam": "Terneuzen",
+  "telefoon": "0115-471235",
+  "email": "info@nettenenzoon.nl",
+  "website": "http://www.nettenenzoon.nl",
+  "lat": 51.289706,
+  "lon": 3.84822,
+  "omschrijving": "Ons bedrijf is vanaf 1996 gevestigd in de Koegorspolder te Sluiskil ( Gem. Terneuzen, Zeeland) (NL).\n\nInmiddels zijn wij uitgegroeid tot een tamelijk omvangrijk bedrijf.\n\nDit is mede door een goed opgebouwd clienteel en omdat wij open staan voor uw wensen.\n\nUw wens komt bij ons op de eerste plaats, of u nu particulier bent of een bedrijf.\n\nWilt u directe contante betaling, of liever via de bank? U bepaalt!\n\nEnkele voordelen van samenwerking met ons:\n\n- Wij verzorgen ons eigen transport, onze chauffeurs zijn mede-eigenaren en hebben jarenlange ervaring, zodat wij zeker zijn van een veilige en verantwoord transport.\n\n- Milieutechnisch word alles netjes volgens alle geldende regels afgehandeld.\n\n- Wij bezitten o.a. OVAM , NIWO, Milieuvergunning Provincie Zeeland, RDC en RDW certificering en bevoegdheid\n\n- Gratis gebruik van onze containers\n\n- Wegingen laten wij doen bij een erkend weegbedrijf\n\n- Prijsafspraak wordt gemaakt op het moment van plaatsing van de container",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/terneuzen/gebr-netten-zn/",
+  "meta_title": "Gebr Netten & Zn 0115-471235 info@nettenenzoon.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Terneuzen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/terneuzen/gebr-netten-zn/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

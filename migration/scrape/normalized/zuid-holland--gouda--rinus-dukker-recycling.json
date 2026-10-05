@@ -1,0 +1,41 @@
+{
+  "id": 490332,
+  "slug": "rinus-dukker-recycling",
+  "provincie": "zuid-holland",
+  "plaats": "gouda",
+  "naam": "Rinus Dukker Recycling",
+  "straat": "Boelekade 133",
+  "postcode": "2806AG",
+  "plaatsnaam": "Gouda",
+  "telefoon": "0182-582867",
+  "email": null,
+  "website": "http://www.goedegebuurerecycling.nl",
+  "lat": 52.015025,
+  "lon": 4.712969,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/gouda/rinus-dukker-recycling/",
+  "meta_title": "Rinus Dukker Recycling 0182-582867",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Gouda. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/gouda/rinus-dukker-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

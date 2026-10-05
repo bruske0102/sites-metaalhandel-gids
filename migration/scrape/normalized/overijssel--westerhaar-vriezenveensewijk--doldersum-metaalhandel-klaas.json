@@ -1,0 +1,37 @@
+{
+  "id": 489815,
+  "slug": "doldersum-metaalhandel-klaas",
+  "provincie": "overijssel",
+  "plaats": "westerhaar-vriezenveensewijk",
+  "naam": "Doldersum Metaalhandel Klaas",
+  "straat": "Hoofdweg 120",
+  "postcode": "7676AH",
+  "plaatsnaam": "Westerhaar-Vriezenveensewijk",
+  "telefoon": "06-22370503",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.454186,
+  "lon": 6.620154,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/westerhaar-vriezenveensewijk/doldersum-metaalhandel-klaas/",
+  "meta_title": "Doldersum Metaalhandel Klaas 06-22370503",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Westerhaar-Vriezenveensewijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/westerhaar-vriezenveensewijk/doldersum-metaalhandel-klaas/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

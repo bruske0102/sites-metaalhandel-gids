@@ -1,0 +1,39 @@
+{
+  "id": 489615,
+  "slug": "metaalhandel-laagraven",
+  "provincie": "utrecht",
+  "plaats": "nieuwegein",
+  "naam": "Metaalhandel Laagraven",
+  "straat": "Laagraven 61",
+  "postcode": "3439LL",
+  "plaatsnaam": "Nieuwegein",
+  "telefoon": "030-2888203",
+  "email": "info@metaalhandellaagraven.nl",
+  "website": "http://www.metaalrecyclingnieuwegein.nl",
+  "lat": 52.051082,
+  "lon": 5.12231,
+  "omschrijving": "Metaalhandel Laagraven is een veelzijdige bedrijf in Nieuwegein dat zich heeft gespecialiseerd in metaalrecycling.\n\nSinds 1995 zijn wij de aangewezen metaal inkooppartner. Dit is de laatste jaren uitgegroeid tot een bloeiende, belangrijke en boeiende bedrijfstak.\n\nHet vakkundig recyclen van oud metaal voorkomt de uitputting van deze schaarse grondstof. Het helpt daarbij tegen het ontstaan van te veel afval. Bovendien bespaart recycling aanzienlijk veel energie en draagt hierdoor bij aan de vermindering van de CO2-uitstoot. Het is naast alle andere positieve elementen een duurzame bedrijfstak.\n\nWij werken in een overdekte loods en alle metalen die wij inkopen worden zichtbaar digitaal gewogen op onze brug of schaal. Daarna worden de metalen direct verwerkt in grote containers, hierdoor sparen wij het milieu en creëren voor u en onszelf een veilige en schone werkomgeving. Correctheid en klantvriendelijkheid staan bij ons hoog in het vaandel.\n\nWij beschikken over onze eigen transportmiddelen en indien gewenst kunnen wij op locatie een of meerdere containers plaatsen.\n\nOnze diensten bestaan uit de inkoop van:\n\n- IJzer & Schroot\n- Koper\n- RVS\n- Aluminium\n- Lood\n- Zink\n- Kabel\n- Overig metaalafval\n\nOnze klantenkring is zeer divers en bestaat ondermeer uit: Particulieren van klein tot groot, loodgieters, dakdekkers en elektriciens, bouw- en sloopbedrijven, metaalverwerkingsbedrijven, overheid en gemeente.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/nieuwegein/metaalhandel-laagraven/",
+  "meta_title": "Metaalhandel Laagraven 030-2888203 info@metaalhandellaagraven.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nieuwegein. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/nieuwegein/metaalhandel-laagraven/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489872,
+  "slug": "gerrits-doetinchem",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Gerrits Doetinchem",
+  "straat": "Roerstraat 7",
+  "postcode": "7005BS",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-340952",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.945834,
+  "lon": 6.299284,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/gerrits-doetinchem/",
+  "meta_title": "Gerrits Doetinchem 0314-340952",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/gerrits-doetinchem/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

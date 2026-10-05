@@ -1,0 +1,31 @@
+{
+  "id": 490005,
+  "slug": "j-d-hiemenz",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "J & D Hiemenz",
+  "straat": "Basilicumstraat 18",
+  "postcode": "2034NW",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-53519094",
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.365415,
+  "lon": 4.642064,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/haarlem/j-d-hiemenz/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "J & D Hiemenz 06-53519094",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

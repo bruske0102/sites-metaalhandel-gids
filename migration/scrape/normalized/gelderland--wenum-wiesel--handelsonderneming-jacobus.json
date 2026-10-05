@@ -1,0 +1,41 @@
+{
+  "id": 489930,
+  "slug": "handelsonderneming-jacobus",
+  "provincie": "gelderland",
+  "plaats": "wenum-wiesel",
+  "naam": "Handelsonderneming Jacobus",
+  "straat": "De Haere 161",
+  "postcode": "7345EM",
+  "plaatsnaam": "Wenum Wiesel",
+  "telefoon": "06-22902449",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.268297,
+  "lon": 5.954651,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/wenum-wiesel/handelsonderneming-jacobus/",
+  "meta_title": "Handelsonderneming Jacobus 06-22902449",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wenum Wiesel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/wenum-wiesel/handelsonderneming-jacobus/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

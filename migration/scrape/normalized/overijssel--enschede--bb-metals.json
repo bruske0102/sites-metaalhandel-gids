@@ -1,0 +1,37 @@
+{
+  "id": 626504,
+  "slug": "bb-metals",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "BB Metals",
+  "straat": "Kuipersdijk 346",
+  "postcode": "7541 WL",
+  "plaatsnaam": "Enschede",
+  "telefoon": "0629515026",
+  "email": "info@bbmetals.nl",
+  "website": "http://www.bbmetals.nl",
+  "lat": 52.2056983,
+  "lon": 6.894530000000032,
+  "omschrijving": "In- en Verkoop van Metalen en Oud ijzer.\r\nVoor meer informatie, neem contact met ons op",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/bb-metals/",
+  "meta_title": "BB Metals 0629515026 info@bbmetals.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (Overijssel).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/bb-metals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

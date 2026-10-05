@@ -1,0 +1,37 @@
+{
+  "id": 490075,
+  "slug": "kraus-metaalhandel-m",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Kraus Metaalhandel M",
+  "straat": "Vlinderstraat 12",
+  "postcode": "5912KT",
+  "plaatsnaam": "Venlo",
+  "telefoon": "06-85097465",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.360527,
+  "lon": 6.169183,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/venlo/kraus-metaalhandel-m/",
+  "meta_title": "Kraus Metaalhandel M 06-85097465",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/kraus-metaalhandel-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

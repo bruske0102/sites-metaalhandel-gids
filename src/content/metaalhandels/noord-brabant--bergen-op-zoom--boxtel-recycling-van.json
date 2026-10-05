@@ -1,0 +1,31 @@
+{
+  "id": 490141,
+  "slug": "boxtel-recycling-van",
+  "provincie": "noord-brabant",
+  "plaats": "bergen-op-zoom",
+  "naam": "Boxtel Recycling Van",
+  "straat": "Bastiaansblok 35",
+  "postcode": "4613GB",
+  "plaatsnaam": "Bergen op Zoom",
+  "telefoon": "0164-238261",
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.507653,
+  "lon": 4.281706,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/bergen-op-zoom/boxtel-recycling-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Boxtel Recycling Van 0164-238261",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bergen op Zoom. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

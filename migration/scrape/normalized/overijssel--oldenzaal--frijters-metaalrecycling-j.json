@@ -1,0 +1,38 @@
+{
+  "id": 490154,
+  "slug": "frijters-metaalrecycling-j",
+  "provincie": "overijssel",
+  "plaats": "oldenzaal",
+  "naam": "Frijters Metaalrecycling J",
+  "straat": "Huurnestraat 119",
+  "postcode": "7572 VK",
+  "plaatsnaam": "Oldenzaal",
+  "telefoon": "0651408352",
+  "email": "fryters@gmail.com",
+  "website": null,
+  "lat": 52.3160289,
+  "lon": 6.9209111,
+  "omschrijving": "Inkoop oud ijzer, metalen en kabels.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/oldenzaal/frijters-metaalrecycling-j/",
+  "meta_title": "Frijters Metaalrecycling J 0651408352 fryters@gmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldenzaal. Dagprijs handel (Overijssel).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/oldenzaal/frijters-metaalrecycling-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

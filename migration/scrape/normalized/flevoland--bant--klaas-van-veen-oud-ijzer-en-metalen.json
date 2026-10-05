@@ -1,0 +1,39 @@
+{
+  "id": 489673,
+  "slug": "klaas-van-veen-oud-ijzer-en-metalen",
+  "provincie": "flevoland",
+  "plaats": "bant",
+  "naam": "Klaas van Veen Oud IJzer en Metalen",
+  "straat": "Banterkade 19",
+  "postcode": "8314RC",
+  "plaatsnaam": "Bant",
+  "telefoon": "0527-613387",
+  "email": null,
+  "website": null,
+  "lat": 52.766188,
+  "lon": 5.760301,
+  "omschrijving": "Metaalhandel van Veen Oud IJzer en Metaalhandel is een bedrijf dat gespecialiseerd is in het in- en verkopen van alle oude metalen; ferro of non-ferro. Vanzelfsprekend is de kwaliteit van de metalen hierbij een belangrijk uitgangspunt. Kennis van zaken is dan ook een absolute vereiste.\n\nEr bestaat een grote diversiteit wat betreft de kwaliteit van metaal. Daarnaast zijn er meer dan tien verschillende kwaliteiten koper en ongeveer twintig soorten oud aluminium. Dit geldt overigens ook voor veel andere non-ferrometalen.\n\nDankzij onze jarenlange ervaring kunnen wij met vakmanschap de bruikbaarheid, bewerkelijkheid en de waarde van het metaal inschatten.\n\nVan Veen Oud IJzer en Metaalhandel is uw betrouwbare partner in het recyclen en verwerken van uw metalen. Wij kopen alle soorten metalen en metaaldragers in.\n\nHebt u metaalafval, dan regelen wij een afvalcontainer. Deze wordt naar gelang de hoeveelheid, de grootte en het gewicht bij u geleverd. De inkoop van metalen gebeurt tegen dagprijzen. Hierbij kijken wij naar de materialen die worden aangeboden, vervuiling, kwaliteit en hoeveelheid. Dit doen wij direct bij u op locatie.\n\nHet vervoer van grote hoeveelheden metaal kan lastig zijn. Om die reden biedt Van Veen Oud IJzer en Metaalhandel een ophaalservice aan. Ons wagenpark voor deze ophaalservice bestaat uit twee vrachtautos, waaronder een met een laadkraan zodat wij ook de zwaardere ladingen af kunnen voeren. Wij halen in principe alles op waar metaal aan of op zit.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/bant/klaas-van-veen-oud-ijzer-en-metalen/",
+  "meta_title": "Klaas van Veen Oud IJzer en Metalen 0527-613387",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bant. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/bant/klaas-van-veen-oud-ijzer-en-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

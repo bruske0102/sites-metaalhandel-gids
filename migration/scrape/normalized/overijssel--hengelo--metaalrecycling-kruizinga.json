@@ -1,0 +1,37 @@
+{
+  "id": 490198,
+  "slug": "metaalrecycling-kruizinga",
+  "provincie": "overijssel",
+  "plaats": "hengelo",
+  "naam": "Metaalrecycling Kruizinga",
+  "straat": "Binnenhavenstraat 57/B",
+  "postcode": "7553GH",
+  "plaatsnaam": "Hengelo ov",
+  "telefoon": "06-24189420",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.251214,
+  "lon": 6.778938,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/hengelo/metaalrecycling-kruizinga/",
+  "meta_title": "Metaalrecycling Kruizinga 06-24189420",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hengelo ov. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/hengelo/metaalrecycling-kruizinga/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

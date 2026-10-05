@@ -1,0 +1,41 @@
+{
+  "id": 489790,
+  "slug": "d-knoops",
+  "provincie": "limburg",
+  "plaats": "roermond",
+  "naam": "D. Knoops",
+  "straat": "Antillenstraat 18",
+  "postcode": "6045VJ",
+  "plaatsnaam": "Roermond",
+  "telefoon": "06-52413591",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.177942,
+  "lon": 6.008045,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/roermond/d-knoops/",
+  "meta_title": "D. Knoops 06-52413591",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roermond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/roermond/d-knoops/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

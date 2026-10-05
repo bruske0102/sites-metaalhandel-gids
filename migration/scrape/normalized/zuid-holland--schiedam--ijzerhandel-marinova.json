@@ -1,0 +1,37 @@
+{
+  "id": 489995,
+  "slug": "ijzerhandel-marinova",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "IJzerhandel Marinova",
+  "straat": "Albert Cuijpstraat 7/A",
+  "postcode": "3117WB",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "06-84461339",
+  "email": null,
+  "website": null,
+  "lat": 51.913608,
+  "lon": 4.383159,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/schiedam/ijzerhandel-marinova/",
+  "meta_title": "IJzerhandel Marinova 06-84461339",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/schiedam/ijzerhandel-marinova/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

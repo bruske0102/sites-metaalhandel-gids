@@ -1,0 +1,30 @@
+{
+  "id": 489738,
+  "slug": "anne-willems",
+  "provincie": "groningen",
+  "plaats": "den-horn",
+  "naam": "Anne Willems",
+  "straat": "Nieuwbrugsterweg 1001/A",
+  "postcode": "9832TH",
+  "plaatsnaam": "Den Horn",
+  "telefoon": "06-29268806",
+  "lat": 53.230568,
+  "lon": 6.474006,
+  "status": "gesloten",
+  "oude_url": "/groningen/den-horn/anne-willems/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Anne Willems 06-29268806",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Horn. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

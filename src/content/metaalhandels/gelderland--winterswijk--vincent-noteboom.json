@@ -1,0 +1,31 @@
+{
+  "id": 490424,
+  "slug": "vincent-noteboom",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Vincent Noteboom",
+  "straat": "Kastanjelaan 4",
+  "postcode": "7101LX",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-46241953",
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.974387,
+  "lon": 6.731563,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/vincent-noteboom/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Vincent Noteboom 06-46241953",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

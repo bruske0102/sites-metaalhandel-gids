@@ -1,0 +1,31 @@
+{
+  "id": 489855,
+  "slug": "firma-w-janssen-wanssum-recycling",
+  "provincie": "limburg",
+  "plaats": "wanssum",
+  "naam": "Firma W. Janssen Wanssum Recycling",
+  "straat": "Stayerhofweg 10",
+  "postcode": "5861EJ",
+  "plaatsnaam": "Wanssum",
+  "telefoon": "0478-510887",
+  "website": "http://www.henraath.nl",
+  "lat": 51.541405,
+  "lon": 6.083757,
+  "status": "gesloten",
+  "oude_url": "/limburg/wanssum/firma-w-janssen-wanssum-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Firma W. Janssen Wanssum Recycling 0478-510887",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wanssum. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489895,
+  "slug": "h-m-service",
+  "provincie": "overijssel",
+  "plaats": "lemelerveld",
+  "naam": "H & M Service",
+  "straat": "Strenkhaarsweg 6/C",
+  "postcode": "8152AX",
+  "plaatsnaam": "Lemelerveld",
+  "telefoon": "06-23036640",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.443778,
+  "lon": 6.333789,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/lemelerveld/h-m-service/",
+  "meta_title": "H & M Service 06-23036640",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lemelerveld. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/lemelerveld/h-m-service/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

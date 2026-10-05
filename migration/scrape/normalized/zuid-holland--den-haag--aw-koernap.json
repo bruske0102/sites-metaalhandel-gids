@@ -1,0 +1,41 @@
+{
+  "id": 489725,
+  "slug": "aw-koernap",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "A.W. Koernap",
+  "straat": "Berkenbosch Blokstraat 83",
+  "postcode": "2586HE",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "070-3229701",
+  "email": null,
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.108003,
+  "lon": 4.286067,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/aw-koernap/",
+  "meta_title": "A.W. Koernap 070-3229701",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-haag/aw-koernap/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490345,
+  "slug": "royal-euro-impex-and-commission-agent",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Royal Euro Impex and Commission Agent",
+  "straat": "Trijn Hullemanlaan 116",
+  "postcode": "1069PV",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6108311",
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.351225,
+  "lon": 4.786127,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/royal-euro-impex-and-commission-agent/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Royal Euro Impex and Commission Agent 020-6108311",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

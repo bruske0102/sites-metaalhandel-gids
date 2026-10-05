@@ -1,0 +1,41 @@
+{
+  "id": 490291,
+  "slug": "poop-de",
+  "provincie": "noord-brabant",
+  "plaats": "roosendaal",
+  "naam": "Poop De",
+  "straat": "Damastberg 15",
+  "postcode": "4708DA",
+  "plaatsnaam": "Roosendaal",
+  "telefoon": "06-26044542",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.510696,
+  "lon": 4.44187,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/roosendaal/poop-de/",
+  "meta_title": "Poop De 06-26044542",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roosendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/roosendaal/poop-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

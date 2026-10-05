@@ -1,0 +1,37 @@
+{
+  "id": 490276,
+  "slug": "oudijzerhandel-dalotes",
+  "provincie": "noord-holland",
+  "plaats": "beverwijk",
+  "naam": "Oudijzerhandel Dalotes",
+  "straat": "Eenhoornlaan 17",
+  "postcode": "1944RE",
+  "plaatsnaam": "Beverwijk",
+  "telefoon": "06-14513280",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.491322,
+  "lon": 4.657331,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/beverwijk/oudijzerhandel-dalotes/",
+  "meta_title": "Oudijzerhandel Dalotes 06-14513280",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Beverwijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/beverwijk/oudijzerhandel-dalotes/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489661,
+  "slug": "wijnand-vaten-en-metalenhandel",
+  "provincie": "flevoland",
+  "plaats": "emmeloord",
+  "naam": "Wijnand Vaten en Metalenhandel",
+  "straat": "Espelerlaan 48",
+  "postcode": "8302CJ",
+  "plaatsnaam": "Emmeloord",
+  "telefoon": "06-53802258",
+  "email": "info@wijnand-handel.nl",
+  "website": "http://www.wijnand-handel.nl",
+  "lat": 52.713414,
+  "lon": 5.749582,
+  "omschrijving": "Wijnand vaten en metaalhandel is in de Noordoostpolder een begrip sinds 1955.\nWij hebben ons gespecialiseerd tot het in- en verkopen, verwerking van vaten, metalen, pallets, IBC containers en computerrecycling.\nDit doen we met eigen personeel, eigen vervoer en waar nodig met derden.\nWij verrichten deze werkzaamheden op een snelle, milieubewuste manier en, we zijn uiteraard ook in het bezit van de nodige milieuvergunningen en vervoerspapieren. (VROM / VIHB)\nWij zijn een no nonsense bedrijf waar uw wensen gerespecteerd worden.\nU staat in direct contact met Dhr. W. Wijnand of Dhr. M.Wijnand",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/emmeloord/wijnand-vaten-en-metalenhandel/",
+  "meta_title": "Wijnand Vaten en Metalenhandel 06-53802258 info@wijnand-handel.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmeloord. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/flevoland/emmeloord/wijnand-vaten-en-metalenhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489946,
+  "slug": "handelsonderneming-van-der-ham",
+  "provincie": "noord-holland",
+  "plaats": "andijk",
+  "naam": "Handelsonderneming Van der Ham",
+  "straat": "Notarisappel 15",
+  "postcode": "1619KC",
+  "plaatsnaam": "Andijk",
+  "telefoon": "0228-755691",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.746718,
+  "lon": 5.21019,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/andijk/handelsonderneming-van-der-ham/",
+  "meta_title": "Handelsonderneming Van der Ham 0228-755691",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Andijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/andijk/handelsonderneming-van-der-ham/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

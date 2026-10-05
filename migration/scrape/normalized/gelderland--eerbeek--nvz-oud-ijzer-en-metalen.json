@@ -1,0 +1,37 @@
+{
+  "id": 490242,
+  "slug": "nvz-oud-ijzer-en-metalen",
+  "provincie": "gelderland",
+  "plaats": "eerbeek",
+  "naam": "Nvz OUD Ijzer en Metalen",
+  "straat": "Haydnstraat 5",
+  "postcode": "6961AW",
+  "plaatsnaam": "Eerbeek",
+  "telefoon": "06-13332890",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.109364,
+  "lon": 6.05686,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/eerbeek/nvz-oud-ijzer-en-metalen/",
+  "meta_title": "Nvz OUD Ijzer en Metalen 06-13332890",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Eerbeek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/eerbeek/nvz-oud-ijzer-en-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

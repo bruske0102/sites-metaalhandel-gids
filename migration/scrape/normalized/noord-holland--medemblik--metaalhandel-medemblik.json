@@ -1,0 +1,37 @@
+{
+  "id": 490183,
+  "slug": "metaalhandel-medemblik",
+  "provincie": "noord-holland",
+  "plaats": "medemblik",
+  "naam": "Metaalhandel Medemblik",
+  "straat": "Laak 17",
+  "postcode": "1671MP",
+  "plaatsnaam": "Medemblik",
+  "telefoon": "06-20484835",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.762227,
+  "lon": 5.110113,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/medemblik/metaalhandel-medemblik/",
+  "meta_title": "Metaalhandel Medemblik 06-20484835",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Medemblik. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/medemblik/metaalhandel-medemblik/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

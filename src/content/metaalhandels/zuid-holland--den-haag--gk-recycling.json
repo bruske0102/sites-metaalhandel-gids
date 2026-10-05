@@ -1,0 +1,31 @@
+{
+  "id": 489869,
+  "slug": "gk-recycling",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "G&K Recycling",
+  "straat": "Joris van der Haagenstr 46",
+  "postcode": "2525TR",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-51418542",
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.063329,
+  "lon": 4.30646,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-haag/gk-recycling/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "G&K Recycling 06-51418542",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

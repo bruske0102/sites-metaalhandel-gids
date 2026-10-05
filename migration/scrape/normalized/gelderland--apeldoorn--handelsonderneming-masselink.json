@@ -1,0 +1,41 @@
+{
+  "id": 489935,
+  "slug": "handelsonderneming-masselink",
+  "provincie": "gelderland",
+  "plaats": "apeldoorn",
+  "naam": "Handelsonderneming Masselink",
+  "straat": "De Bovenkruier 1",
+  "postcode": "7323AJ",
+  "plaatsnaam": "Apeldoorn",
+  "telefoon": "06-23253171",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.234208,
+  "lon": 5.986934,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/apeldoorn/handelsonderneming-masselink/",
+  "meta_title": "Handelsonderneming Masselink 06-23253171",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Apeldoorn. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/apeldoorn/handelsonderneming-masselink/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

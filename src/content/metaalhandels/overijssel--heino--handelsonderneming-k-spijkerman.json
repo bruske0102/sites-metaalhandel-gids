@@ -1,0 +1,31 @@
+{
+  "id": 489932,
+  "slug": "handelsonderneming-k-spijkerman",
+  "provincie": "overijssel",
+  "plaats": "heino",
+  "naam": "Handelsonderneming K Spijkerman",
+  "straat": "Klaproos 7",
+  "postcode": "8141DA",
+  "plaatsnaam": "Heino",
+  "telefoon": "06-81580475",
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.432457,
+  "lon": 6.238583,
+  "status": "gesloten",
+  "oude_url": "/overijssel/heino/handelsonderneming-k-spijkerman/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Handelsonderneming K Spijkerman 06-81580475",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heino. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

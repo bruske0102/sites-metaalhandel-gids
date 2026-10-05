@@ -1,0 +1,37 @@
+{
+  "id": 490143,
+  "slug": "bremer-metaalhandel",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Bremer Metaalhandel",
+  "straat": "Ida Gerhardtsingel 134",
+  "postcode": "7207CR",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "0575-520180",
+  "email": null,
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.128535,
+  "lon": 6.225581,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/bremer-metaalhandel/",
+  "meta_title": "Bremer Metaalhandel 0575-520180",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/zutphen/bremer-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

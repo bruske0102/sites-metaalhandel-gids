@@ -1,0 +1,41 @@
+{
+  "id": 489751,
+  "slug": "baljan",
+  "provincie": "limburg",
+  "plaats": "spaubeek",
+  "naam": "Baljan",
+  "straat": "Looiwinkelstraat 51",
+  "postcode": "6176EB",
+  "plaatsnaam": "Spaubeek",
+  "telefoon": "06-10394840",
+  "email": null,
+  "website": null,
+  "lat": 50.942875,
+  "lon": 5.831104,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/spaubeek/baljan/",
+  "meta_title": "Baljan 06-10394840",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Spaubeek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/spaubeek/baljan/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

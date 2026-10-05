@@ -1,0 +1,37 @@
+{
+  "id": 489814,
+  "slug": "dirk-battels-metaal-handel",
+  "provincie": "overijssel",
+  "plaats": "raalte",
+  "naam": "Dirk Battels Metaal Handel",
+  "straat": "Wolthaarsdijk WZ 3/B",
+  "postcode": "8102ST",
+  "plaatsnaam": "Raalte",
+  "telefoon": "06-41026221",
+  "email": null,
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.399678,
+  "lon": 6.294318,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/raalte/dirk-battels-metaal-handel/",
+  "meta_title": "Dirk Battels Metaal Handel 06-41026221",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Raalte. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/raalte/dirk-battels-metaal-handel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

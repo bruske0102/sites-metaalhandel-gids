@@ -1,0 +1,37 @@
+{
+  "id": 489912,
+  "slug": "hamstra-schroot-vollenhove",
+  "provincie": "overijssel",
+  "plaats": "vollenhove",
+  "naam": "Hamstra Schroot Vollenhove",
+  "straat": "De Hagen 4",
+  "postcode": "8325DB",
+  "plaatsnaam": "Vollenhove",
+  "telefoon": "0527-243880",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.681833,
+  "lon": 5.967632,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/vollenhove/hamstra-schroot-vollenhove/",
+  "meta_title": "Hamstra Schroot Vollenhove 0527-243880",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vollenhove. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/vollenhove/hamstra-schroot-vollenhove/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490207,
+  "slug": "metaalhandel-hendrikx",
+  "provincie": "noord-brabant",
+  "plaats": "helmond",
+  "naam": "Metaalhandel Hendrikx",
+  "straat": "Bartholomeus vd Helststr 11",
+  "postcode": "5702CR",
+  "plaatsnaam": "Helmond",
+  "telefoon": "0492-555370",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.492824,
+  "lon": 5.676211,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/helmond/metaalhandel-hendrikx/",
+  "meta_title": "Metaalhandel Hendrikx 0492-555370",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Helmond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/helmond/metaalhandel-hendrikx/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

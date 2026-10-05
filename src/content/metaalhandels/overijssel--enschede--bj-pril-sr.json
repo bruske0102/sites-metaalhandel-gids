@@ -1,0 +1,31 @@
+{
+  "id": 489748,
+  "slug": "bj-pril-sr",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "B.J. Pril sr.",
+  "straat": "Koopmanstraat 9",
+  "postcode": "7532SB",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4305607",
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.221416,
+  "lon": 6.936211,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/bj-pril-sr/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "B.J. Pril sr. 053-4305607",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

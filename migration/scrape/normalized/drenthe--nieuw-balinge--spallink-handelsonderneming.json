@@ -1,0 +1,41 @@
+{
+  "id": 490375,
+  "slug": "spallink-handelsonderneming",
+  "provincie": "drenthe",
+  "plaats": "nieuw-balinge",
+  "naam": "Spallink Handelsonderneming",
+  "straat": "Lijsterstraat 14",
+  "postcode": "7938PK",
+  "plaatsnaam": "Nieuw-Balinge",
+  "telefoon": "06-55187927",
+  "email": null,
+  "website": null,
+  "lat": 52.768959,
+  "lon": 6.604894,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/nieuw-balinge/spallink-handelsonderneming/",
+  "meta_title": "Spallink Handelsonderneming 06-55187927",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nieuw-Balinge. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/nieuw-balinge/spallink-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

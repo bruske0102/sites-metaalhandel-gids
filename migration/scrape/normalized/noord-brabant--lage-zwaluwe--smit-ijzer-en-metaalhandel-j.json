@@ -1,0 +1,37 @@
+{
+  "id": 490368,
+  "slug": "smit-ijzer-en-metaalhandel-j",
+  "provincie": "noord-brabant",
+  "plaats": "lage-zwaluwe",
+  "naam": "Smit IJzer- en Metaalhandel J",
+  "straat": "Abraham Kuijperstraat 30",
+  "postcode": "4926BM",
+  "plaatsnaam": "Lage Zwaluwe",
+  "telefoon": "0168-482783",
+  "email": null,
+  "website": "http://www.hks.nl",
+  "lat": 51.709145,
+  "lon": 4.702503,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/lage-zwaluwe/smit-ijzer-en-metaalhandel-j/",
+  "meta_title": "Smit IJzer- en Metaalhandel J 0168-482783",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lage Zwaluwe. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/lage-zwaluwe/smit-ijzer-en-metaalhandel-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

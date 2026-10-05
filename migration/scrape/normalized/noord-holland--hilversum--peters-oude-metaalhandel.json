@@ -1,0 +1,37 @@
+{
+  "id": 490286,
+  "slug": "peters-oude-metaalhandel",
+  "provincie": "noord-holland",
+  "plaats": "hilversum",
+  "naam": "Peter's Oude Metaalhandel",
+  "straat": "Loosdrechtse Bos 24",
+  "postcode": "1213RJ",
+  "plaatsnaam": "Hilversum",
+  "telefoon": "06-54644778",
+  "email": null,
+  "website": "http://www.hoffland.nl",
+  "lat": 52.204489,
+  "lon": 5.147497,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/hilversum/peters-oude-metaalhandel/",
+  "meta_title": "Peter's Oude Metaalhandel 06-54644778",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hilversum. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/hilversum/peters-oude-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

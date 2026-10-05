@@ -1,0 +1,37 @@
+{
+  "id": 490142,
+  "slug": "brandt-oud-ijzer-en-metaalhandel-h",
+  "provincie": "zuid-holland",
+  "plaats": "leiden",
+  "naam": "Brandt Oud IJzer en Metaalhandel H",
+  "straat": "Os en Paardenlaan 38",
+  "postcode": "2316JK",
+  "plaatsnaam": "Leiden",
+  "telefoon": "06-38515540",
+  "email": null,
+  "website": "http://www.oudmetaalhandel.nl",
+  "lat": 52.165202,
+  "lon": 4.504697,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/leiden/brandt-oud-ijzer-en-metaalhandel-h/",
+  "meta_title": "Brandt Oud IJzer en Metaalhandel H 06-38515540",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leiden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/leiden/brandt-oud-ijzer-en-metaalhandel-h/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

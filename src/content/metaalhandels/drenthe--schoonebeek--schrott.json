@@ -1,0 +1,30 @@
+{
+  "id": 490359,
+  "slug": "schrott",
+  "provincie": "drenthe",
+  "plaats": "schoonebeek",
+  "naam": "Schrott",
+  "straat": "Kooikerlaan 32",
+  "postcode": "7761AX",
+  "plaatsnaam": "Schoonebeek",
+  "telefoon": "06-17190515",
+  "lat": 52.659201,
+  "lon": 6.887153,
+  "status": "gesloten",
+  "oude_url": "/drenthe/schoonebeek/schrott/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Schrott 06-17190515",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schoonebeek. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

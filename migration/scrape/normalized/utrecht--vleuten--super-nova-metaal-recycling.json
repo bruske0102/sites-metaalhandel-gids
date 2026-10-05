@@ -1,0 +1,37 @@
+{
+  "id": 490388,
+  "slug": "super-nova-metaal-recycling",
+  "provincie": "utrecht",
+  "plaats": "vleuten",
+  "naam": "Super Nova Metaal Recycling",
+  "straat": "Bokkeduinen 14",
+  "postcode": "3452JN",
+  "plaatsnaam": "Vleuten",
+  "telefoon": "06-23776404",
+  "email": null,
+  "website": "http://www.prometaal.nl",
+  "lat": 52.097331,
+  "lon": 5.011576,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/vleuten/super-nova-metaal-recycling/",
+  "meta_title": "Super Nova Metaal Recycling 06-23776404",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vleuten. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/vleuten/super-nova-metaal-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

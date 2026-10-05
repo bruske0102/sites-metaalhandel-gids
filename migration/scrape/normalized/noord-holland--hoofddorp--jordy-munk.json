@@ -1,0 +1,41 @@
+{
+  "id": 490044,
+  "slug": "jordy-munk",
+  "provincie": "noord-holland",
+  "plaats": "hoofddorp",
+  "naam": "Jordy Munk",
+  "straat": "Taniaburg 11",
+  "postcode": "2135BV",
+  "plaatsnaam": "Hoofddorp",
+  "telefoon": "06-85650769",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.30268,
+  "lon": 4.656531,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/hoofddorp/jordy-munk/",
+  "meta_title": "Jordy Munk 06-85650769",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoofddorp. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/hoofddorp/jordy-munk/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 489832,
+  "slug": "enden-c-van-den",
+  "provincie": "noord-brabant",
+  "plaats": "roosendaal",
+  "naam": "Enden C van den",
+  "straat": "Markt 94",
+  "postcode": "4701PJ",
+  "plaatsnaam": "Roosendaal",
+  "telefoon": "06-20730000",
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.533581,
+  "lon": 4.452838,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/roosendaal/enden-c-van-den/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Enden C van den 06-20730000",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roosendaal. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

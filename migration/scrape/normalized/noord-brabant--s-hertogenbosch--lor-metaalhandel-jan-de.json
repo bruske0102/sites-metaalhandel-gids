@@ -1,0 +1,37 @@
+{
+  "id": 490094,
+  "slug": "lor-metaalhandel-jan-de",
+  "provincie": "noord-brabant",
+  "plaats": "s-hertogenbosch",
+  "naam": "Lor Metaalhandel Jan de",
+  "straat": "Maastrichtseweg 77",
+  "postcode": "5215AE",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6138106",
+  "email": null,
+  "website": null,
+  "lat": 51.687401,
+  "lon": 5.326667,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/s-hertogenbosch/lor-metaalhandel-jan-de/",
+  "meta_title": "Lor Metaalhandel Jan de 073-6138106",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bosch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/s-hertogenbosch/lor-metaalhandel-jan-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490105,
+  "slug": "m-pereboom",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "M. Pereboom",
+  "straat": "De Kring 49",
+  "postcode": "9727AW",
+  "plaatsnaam": "Groningen",
+  "telefoon": "06-27024376",
+  "email": null,
+  "website": null,
+  "lat": 53.20051,
+  "lon": 6.522398,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/groningen-gemeente/m-pereboom/",
+  "meta_title": "M. Pereboom 06-27024376",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Groningen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/groningen/groningen-gemeente/m-pereboom/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

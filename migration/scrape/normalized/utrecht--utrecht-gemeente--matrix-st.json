@@ -1,0 +1,37 @@
+{
+  "id": 490120,
+  "slug": "matrix-st",
+  "provincie": "utrecht",
+  "plaats": "utrecht-gemeente",
+  "naam": "Matrix-St",
+  "straat": "Oudegracht 35",
+  "postcode": "3511AC",
+  "plaatsnaam": "Utrecht",
+  "telefoon": "030-2687193",
+  "email": null,
+  "website": "http://www.metaalrecyclingnieuwegein.nl",
+  "lat": 52.095299,
+  "lon": 5.116298,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/utrecht-gemeente/matrix-st/",
+  "meta_title": "Matrix-St 030-2687193",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Utrecht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/utrecht-gemeente/matrix-st/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

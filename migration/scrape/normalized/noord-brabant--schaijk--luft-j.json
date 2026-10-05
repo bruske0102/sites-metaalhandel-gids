@@ -1,0 +1,41 @@
+{
+  "id": 490099,
+  "slug": "luft-j",
+  "provincie": "noord-brabant",
+  "plaats": "schaijk",
+  "naam": "Luft J",
+  "straat": "'t Oliemeulen 6",
+  "postcode": "5374HX",
+  "plaatsnaam": "Schaijk",
+  "telefoon": "0486-463403",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.750634,
+  "lon": 5.637486,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/schaijk/luft-j/",
+  "meta_title": "Luft J 0486-463403",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schaijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/schaijk/luft-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

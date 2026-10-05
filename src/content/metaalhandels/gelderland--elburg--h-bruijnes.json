@@ -1,0 +1,30 @@
+{
+  "id": 489896,
+  "slug": "h-bruijnes",
+  "provincie": "gelderland",
+  "plaats": "elburg",
+  "naam": "H. Bruijnes",
+  "straat": "Hellenbeekstraat 44",
+  "postcode": "8081HX",
+  "plaatsnaam": "Elburg",
+  "telefoon": "0525-683579",
+  "lat": 52.450026,
+  "lon": 5.85023,
+  "status": "gesloten",
+  "oude_url": "/gelderland/elburg/h-bruijnes/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "H. Bruijnes 0525-683579",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Elburg. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

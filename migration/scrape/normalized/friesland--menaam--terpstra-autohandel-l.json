@@ -1,0 +1,41 @@
+{
+  "id": 489647,
+  "slug": "terpstra-autohandel-l",
+  "provincie": "friesland",
+  "plaats": "menaam",
+  "naam": "Terpstra Autohandel L",
+  "straat": "Bitgumerdyk 15",
+  "postcode": "9036VS",
+  "plaatsnaam": "Menaam",
+  "telefoon": "0518-452234",
+  "email": null,
+  "website": null,
+  "lat": 53.219608,
+  "lon": 5.663723,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/menaam/terpstra-autohandel-l/",
+  "meta_title": "Terpstra Autohandel L 0518-452234",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Menaam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/menaam/terpstra-autohandel-l/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

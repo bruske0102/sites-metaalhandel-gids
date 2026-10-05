@@ -1,0 +1,37 @@
+{
+  "id": 489986,
+  "slug": "ijzer-en-metaalhandel-linders",
+  "provincie": "overijssel",
+  "plaats": "oldenzaal",
+  "naam": "IJzer- en Metaalhandel Linders",
+  "straat": "Kleibultweg 100",
+  "postcode": "7575BX",
+  "plaatsnaam": "Oldenzaal",
+  "telefoon": "0541-521518",
+  "email": null,
+  "website": null,
+  "lat": 52.29968,
+  "lon": 6.915891,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/oldenzaal/ijzer-en-metaalhandel-linders/",
+  "meta_title": "IJzer- en Metaalhandel Linders 0541-521518",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldenzaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/oldenzaal/ijzer-en-metaalhandel-linders/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

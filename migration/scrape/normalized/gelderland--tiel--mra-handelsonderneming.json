@@ -1,0 +1,37 @@
+{
+  "id": 490223,
+  "slug": "mra-handelsonderneming",
+  "provincie": "gelderland",
+  "plaats": "tiel",
+  "naam": "MRA Handelsonderneming",
+  "straat": "Latensteinse Rondweg 29",
+  "postcode": "4005EH",
+  "plaatsnaam": "Tiel",
+  "telefoon": "06-41433087",
+  "email": null,
+  "website": "http://www.oudmetaalhandelpfeifer.nl",
+  "lat": 51.896369,
+  "lon": 5.453118,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/tiel/mra-handelsonderneming/",
+  "meta_title": "MRA Handelsonderneming 06-41433087",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tiel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/tiel/mra-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

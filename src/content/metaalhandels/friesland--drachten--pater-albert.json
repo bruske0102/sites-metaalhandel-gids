@@ -1,0 +1,31 @@
+{
+  "id": 490283,
+  "slug": "pater-albert",
+  "provincie": "friesland",
+  "plaats": "drachten",
+  "naam": "Pater Albert",
+  "straat": "Hagewyk 61",
+  "postcode": "9202AJ",
+  "plaatsnaam": "Drachten",
+  "telefoon": "0512-543712",
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.115495,
+  "lon": 6.114883,
+  "status": "gesloten",
+  "oude_url": "/friesland/drachten/pater-albert/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Pater Albert 0512-543712",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Drachten. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

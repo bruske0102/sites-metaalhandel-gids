@@ -1,0 +1,37 @@
+{
+  "id": 489745,
+  "slug": "b-hofman-metaalhandel",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "B. Hofman metaalhandel",
+  "straat": "Dahliastraat 37",
+  "postcode": "7102KA",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-53543055",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.965453,
+  "lon": 6.702845,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/winterswijk/b-hofman-metaalhandel/",
+  "meta_title": "B. Hofman metaalhandel 06-53543055",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/b-hofman-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

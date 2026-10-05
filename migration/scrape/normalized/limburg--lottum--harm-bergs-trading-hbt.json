@@ -1,0 +1,41 @@
+{
+  "id": 489954,
+  "slug": "harm-bergs-trading-hbt",
+  "provincie": "limburg",
+  "plaats": "lottum",
+  "naam": "Harm Bergs Trading (HBT)",
+  "straat": "Houthuizerweg 14",
+  "postcode": "5973RG",
+  "plaatsnaam": "Lottum",
+  "telefoon": "06-11744681",
+  "email": null,
+  "website": "http://www.henraath.nl",
+  "lat": 51.444111,
+  "lon": 6.139864,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/lottum/harm-bergs-trading-hbt/",
+  "meta_title": "Harm Bergs Trading (HBT) 06-11744681",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Lottum. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/lottum/harm-bergs-trading-hbt/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

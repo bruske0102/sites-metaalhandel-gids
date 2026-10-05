@@ -1,0 +1,41 @@
+{
+  "id": 490045,
+  "slug": "jowa-recycling-bv",
+  "provincie": "noord-holland",
+  "plaats": "zaandam",
+  "naam": "Jowa Recycling BV",
+  "straat": "Houthavenkade 3",
+  "postcode": "1506PC",
+  "plaatsnaam": "Zaandam",
+  "telefoon": "075-6163231",
+  "email": null,
+  "website": "http://www.deroeck.nl",
+  "lat": 52.435579,
+  "lon": 4.82151,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/zaandam/jowa-recycling-bv/",
+  "meta_title": "Jowa Recycling BV 075-6163231",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zaandam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/zaandam/jowa-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

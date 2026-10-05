@@ -1,0 +1,31 @@
+{
+  "id": 489827,
+  "slug": "evl-1",
+  "provincie": "noord-brabant",
+  "plaats": "budel",
+  "naam": "E.v.L.",
+  "straat": "Fabrieksstraat 7",
+  "postcode": "6021 RB",
+  "plaatsnaam": "Budel",
+  "telefoon": "06-23625572",
+  "lat": 51.2649607,
+  "lon": 5.577602500000012,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/budel/evl-1/",
+  "email": "edieenmonique@gmail.com",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "E.v.L. 06-23625572 edieenmonique@gmail.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Budel. Dagprijs handel (Noord-Brabant).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

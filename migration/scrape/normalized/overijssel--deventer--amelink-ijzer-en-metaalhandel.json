@@ -1,0 +1,38 @@
+{
+  "id": 489625,
+  "slug": "amelink-ijzer-en-metaalhandel",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Amelink IJzer- en Metaalhandel",
+  "straat": "Tielstraat 12",
+  "postcode": "7418CS",
+  "plaatsnaam": "Deventer",
+  "telefoon": "0570-621723",
+  "email": "amelink@planet.nl",
+  "website": null,
+  "lat": 52.249741,
+  "lon": 6.185513,
+  "omschrijving": "Inkoop van oud ijzer en metalen.\nWij demonteren eventueel machines.\n\nTevens plaatsen wij gratis containers voor het afvoeren van uw metaal.\nWe beschikken over een weegbrug van max 50 ton.\nWij betalen de hoogste dagprijs.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/deventer/amelink-ijzer-en-metaalhandel/",
+  "meta_title": "Amelink IJzer- en Metaalhandel 0570-621723 amelink@planet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Deventer. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/deventer/amelink-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 489659,
+  "slug": "haan-zn-oud-metaal-de",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Haan & Zn Oud Metaal De",
+  "straat": "Van Oosterwijk Bruynstr 5",
+  "postcode": "2523XS",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "070-3961357",
+  "email": "info@oudmetaaldenhaag.nl",
+  "website": "http://www.oudmetaaldenhaag.nl",
+  "lat": 52.056493,
+  "lon": 4.313843,
+  "omschrijving": "De Haan&Zn B.V. is een familie bedrijf dat is opgericht in 1938. Het bedrijf gaat van vader op zoon.\nEn is inmiddels in handen van de 3de en 4de generatie.\nDoor de jaren lange ervaring, kunnen wij een optimale service bieden.\n\nDe activiteiten van De Haan bestaan uit in – en verkoop van nonferro-metalen, zoals aluminium, koper, zink, lood, roestvrijstaal en kabels.\n\nVan ijzer worden wij niet echt wijzer!\n\nBAKKEN SERVICE\nBij regelmatige afvoer kunnen wij bakken beschikbaar stellen welke door ons worden geplaats.\nEr is een ruilsysteem mogelijk, zodat u steeds beschikt over de mogelijkheid uw metalen in één of meerder bakken op te slaan.\nDe bakken worden op afroep omgeruild, binnen twee werkdagen.\n\nCONTAINER SERVICE\nWij beschikken over de mogelijkheid om containers te plaatsen. Zowel open als gesloten containers.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/haan-zn-oud-metaal-de/",
+  "meta_title": "Haan & Zn Oud Metaal De 070-3961357 info@oudmetaaldenhaag.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Haag. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-haag/haan-zn-oud-metaal-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

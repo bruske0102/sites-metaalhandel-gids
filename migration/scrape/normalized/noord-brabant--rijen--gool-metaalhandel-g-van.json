@@ -1,0 +1,37 @@
+{
+  "id": 489639,
+  "slug": "gool-metaalhandel-g-van",
+  "provincie": "noord-brabant",
+  "plaats": "rijen",
+  "naam": "Gool Metaalhandel G van",
+  "straat": "Kempenbaan 11",
+  "postcode": "5121DM",
+  "plaatsnaam": "Rijen",
+  "telefoon": "0161-293331",
+  "email": null,
+  "website": "http://www.metaalhandelgvangool.nl",
+  "lat": 51.580657,
+  "lon": 4.939567,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/rijen/gool-metaalhandel-g-van/",
+  "meta_title": "Gool Metaalhandel G van 0161-293331",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/rijen/gool-metaalhandel-g-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

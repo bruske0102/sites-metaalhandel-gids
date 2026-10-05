@@ -1,0 +1,30 @@
+{
+  "id": 490371,
+  "slug": "sneijers-handelsonderneming",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Sneijers Handelsonderneming",
+  "straat": "Petronella Moensstraat 22",
+  "postcode": "4822VE",
+  "plaatsnaam": "Breda",
+  "telefoon": "06-17810218",
+  "lat": 51.609886,
+  "lon": 4.72827,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/breda/sneijers-handelsonderneming/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Sneijers Handelsonderneming 06-17810218",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Breda. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

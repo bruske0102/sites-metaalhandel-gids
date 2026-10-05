@@ -1,0 +1,37 @@
+{
+  "id": 489977,
+  "slug": "hofman-oud-ijzer-en-metalen-f",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Hofman Oud IJzer en Metalen F",
+  "straat": "Dahliastraat 28",
+  "postcode": "7102KB",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "06-30072433",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.964776,
+  "lon": 6.703102,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/winterswijk/hofman-oud-ijzer-en-metalen-f/",
+  "meta_title": "Hofman Oud IJzer en Metalen F 06-30072433",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/hofman-oud-ijzer-en-metalen-f/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

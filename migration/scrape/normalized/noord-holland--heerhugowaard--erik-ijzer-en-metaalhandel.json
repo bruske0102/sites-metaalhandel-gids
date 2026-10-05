@@ -1,0 +1,37 @@
+{
+  "id": 489835,
+  "slug": "erik-ijzer-en-metaalhandel",
+  "provincie": "noord-holland",
+  "plaats": "heerhugowaard",
+  "naam": "Erik IJzer- en Metaalhandel",
+  "straat": "Van Veenweg 110",
+  "postcode": "1701HJ",
+  "plaatsnaam": "Heerhugowaard",
+  "telefoon": "06-54367626",
+  "email": null,
+  "website": null,
+  "lat": 52.667829,
+  "lon": 4.858187,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heerhugowaard/erik-ijzer-en-metaalhandel/",
+  "meta_title": "Erik IJzer- en Metaalhandel 06-54367626",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heerhugowaard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/heerhugowaard/erik-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

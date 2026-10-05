@@ -1,0 +1,41 @@
+{
+  "id": 490361,
+  "slug": "second-metaals",
+  "provincie": "noord-holland",
+  "plaats": "krommenie",
+  "naam": "Second Metaals",
+  "straat": "Mercuriusstraat 5/5A",
+  "postcode": "1561PM",
+  "plaatsnaam": "Krommenie",
+  "telefoon": "06-17972436",
+  "email": null,
+  "website": "http://www.deroeck.nl",
+  "lat": 52.504405,
+  "lon": 4.774471,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/krommenie/second-metaals/",
+  "meta_title": "Second Metaals 06-17972436",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Krommenie. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/krommenie/second-metaals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

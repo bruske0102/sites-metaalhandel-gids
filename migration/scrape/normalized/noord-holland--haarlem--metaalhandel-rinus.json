@@ -1,0 +1,37 @@
+{
+  "id": 490188,
+  "slug": "metaalhandel-rinus",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Metaalhandel Rinus",
+  "straat": "Van der Aartweg 13",
+  "postcode": "2026ZM",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-11427572",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.42178,
+  "lon": 4.652464,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/metaalhandel-rinus/",
+  "meta_title": "Metaalhandel Rinus 06-11427572",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/metaalhandel-rinus/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

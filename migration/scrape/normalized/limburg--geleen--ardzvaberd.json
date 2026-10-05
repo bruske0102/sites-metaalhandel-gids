@@ -1,0 +1,41 @@
+{
+  "id": 489739,
+  "slug": "ardzvaberd",
+  "provincie": "limburg",
+  "plaats": "geleen",
+  "naam": "Ardzvaberd",
+  "straat": "Ketelslagersdreef 56",
+  "postcode": "6162JW",
+  "plaatsnaam": "Geleen",
+  "telefoon": "06-84634930",
+  "email": null,
+  "website": null,
+  "lat": 50.977425,
+  "lon": 5.832091,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/geleen/ardzvaberd/",
+  "meta_title": "Ardzvaberd 06-84634930",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Geleen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/geleen/ardzvaberd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

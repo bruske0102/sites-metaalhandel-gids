@@ -1,0 +1,37 @@
+{
+  "id": 490009,
+  "slug": "j-schaefer-oud-ijzer-en-metaal",
+  "provincie": "limburg",
+  "plaats": "roermond",
+  "naam": "J. Schaefer Oud IJzer en Metaal",
+  "straat": "Molenakker 15",
+  "postcode": "6042MA",
+  "plaatsnaam": "Roermond",
+  "telefoon": "06-51816407",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.193597,
+  "lon": 6.046282,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/roermond/j-schaefer-oud-ijzer-en-metaal/",
+  "meta_title": "J. Schaefer Oud IJzer en Metaal 06-51816407",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roermond. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/roermond/j-schaefer-oud-ijzer-en-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

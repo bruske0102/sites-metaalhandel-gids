@@ -1,0 +1,31 @@
+{
+  "id": 490456,
+  "slug": "witte-vof-paul",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Witte VOF Paul",
+  "straat": "Joan Muyskenweg 25/D",
+  "postcode": "1096CJ",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "06-54930479",
+  "website": "http://www.paulwitte.nl",
+  "lat": 52.331413,
+  "lon": 4.914164,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/witte-vof-paul/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Witte VOF Paul 06-54930479",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

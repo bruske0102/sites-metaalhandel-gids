@@ -1,0 +1,37 @@
+{
+  "id": 490464,
+  "slug": "wolters-recycling-w",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "Wolters Recycling W",
+  "straat": "Cascadestraat 6",
+  "postcode": "8043PH",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "06-27317666",
+  "email": null,
+  "website": "http://www.schroothandelhamstra.nl",
+  "lat": 52.523537,
+  "lon": 6.06626,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/wolters-recycling-w/",
+  "meta_title": "Wolters Recycling W 06-27317666",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwolle. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwolle/wolters-recycling-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490430,
+  "slug": "vos-c-j-de",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "Vos C J de",
+  "straat": "Oude Sluis 9",
+  "postcode": "3111PK",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "010-4269772",
+  "website": "http://www.vanleeuwengroep.com",
+  "lat": 51.918204,
+  "lon": 4.396198,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/schiedam/vos-c-j-de/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Vos C J de 010-4269772",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489947,
+  "slug": "handelsonderneming-van-jaarsveld",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Handelsonderneming Van Jaarsveld",
+  "straat": "Airbornestraat 78",
+  "postcode": "7002EX",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "06-45288545",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.973658,
+  "lon": 6.321594,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/doetinchem/handelsonderneming-van-jaarsveld/",
+  "meta_title": "Handelsonderneming Van Jaarsveld 06-45288545",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/handelsonderneming-van-jaarsveld/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

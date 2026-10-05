@@ -1,0 +1,37 @@
+{
+  "id": 490346,
+  "slug": "ruud-schroot",
+  "provincie": "noord-holland",
+  "plaats": "zaandijk",
+  "naam": "Ruud Schroot",
+  "straat": "Prunuslaan 24",
+  "postcode": "1544PP",
+  "plaatsnaam": "Zaandijk",
+  "telefoon": "075-6215068",
+  "email": null,
+  "website": "http://www.deroeck.nl",
+  "lat": 52.474544,
+  "lon": 4.807486,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/zaandijk/ruud-schroot/",
+  "meta_title": "Ruud Schroot 075-6215068",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zaandijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/zaandijk/ruud-schroot/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

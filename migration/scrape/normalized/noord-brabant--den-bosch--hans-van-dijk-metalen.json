@@ -1,0 +1,37 @@
+{
+  "id": 489952,
+  "slug": "hans-van-dijk-metalen",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Hans van Dijk Metalen",
+  "straat": "Sint Teunislaan 72/D",
+  "postcode": "5231BR",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-21562399",
+  "email": null,
+  "website": null,
+  "lat": 51.711626,
+  "lon": 5.313946,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/hans-van-dijk-metalen/",
+  "meta_title": "Hans van Dijk Metalen 06-21562399",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bosch. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/den-bosch/hans-van-dijk-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

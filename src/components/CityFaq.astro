@@ -1,0 +1,61 @@
+---
+import type { City, Listing } from "../lib/model";
+import { kenmerkCount } from "../lib/model";
+import { listingCount } from "../lib/nl-count";
+
+interface Props { city: City; listings: Listing[] }
+const { city, listings } = Astro.props;
+const n = listings.length || city.listings;
+const ophalenN = kenmerkCount(listings, /ophalen/i);
+const inkoopN = kenmerkCount(listings, /inkoop/i);
+const ferroN = kenmerkCount(listings, /ferro|oud-ijzer|oud ijzer/i);
+const nonFerroN = kenmerkCount(listings, /non-ferro/i);
+
+type Faq = { q: string; a: string };
+const faqs: Faq[] = [
+  {
+    q: `Waar vind ik een metaalhandel in ${city.naam}?`,
+    a: `Op deze pagina ${n === 1 ? "staat" : "staan"} ${listingCount(n)} in ${city.naam} met adres en telefoon. Bel voor openingstijden en dagprijs.`,
+  },
+  {
+    q: `Wat krijg ik voor oud ijzer in ${city.naam}?`,
+    a: `Schrootprijzen wisselen dagelijks per soort metaal. Bel voor de actuele prijs en of er een minimumgewicht geldt.`,
+  },
+];
+
+if (ophalenN > 0) {
+  faqs.push({
+    q: `Halen ze oud ijzer op in ${city.naam}?`,
+    a: `Ja — ${ophalenN} vermelding${ophalenN === 1 ? "" : "en"} noemt ophalen. Vraag naar kosten, regio en wat ze aannemen.`,
+  });
+}
+if (inkoopN > 0) {
+  faqs.push({
+    q: `Kan ik metaal inleveren / verkopen in ${city.naam}?`,
+    a: `${inkoopN} vermelding${inkoopN === 1 ? "" : "en"} noemt inkoop. Neem legitimatie mee; regels verschillen per handel.`,
+  });
+}
+if (ferroN > 0) {
+  faqs.push({
+    q: `Nemen ze ferro / oud ijzer aan in ${city.naam}?`,
+    a: `${ferroN} vermelding${ferroN === 1 ? "" : "en"} noemt oud ijzer of ferro. Vraag wat ze wel en niet aannemen.`,
+  });
+}
+if (nonFerroN > 0) {
+  faqs.push({
+    q: `Ook non-ferro (koper, aluminium) in ${city.naam}?`,
+    a: `${nonFerroN} vermelding${nonFerroN === 1 ? "" : "en"} noemt non-ferro. Prijzen liggen vaak hoger — bel voor de dagkoers.`,
+  });
+}
+---
+<section class="section" aria-labelledby="faq">
+  <h2 id="faq">Veelgestelde vragen over metaalhandel in {city.naam}</h2>
+  <div class="stack">
+    {faqs.map((f) => (
+      <article class="faq-item">
+        <h3>{f.q}</h3>
+        <p>{f.a}</p>
+      </article>
+    ))}
+  </div>
+</section>

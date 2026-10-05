@@ -1,0 +1,37 @@
+{
+  "id": 489901,
+  "slug": "h-swinkels-metaal",
+  "provincie": "limburg",
+  "plaats": "sittard",
+  "naam": "H. Swinkels Metaal",
+  "straat": "Oudeweg 175",
+  "postcode": "6136VX",
+  "plaatsnaam": "Sittard",
+  "telefoon": "06-14435022",
+  "email": null,
+  "website": null,
+  "lat": 51.005609,
+  "lon": 5.882171,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/sittard/h-swinkels-metaal/",
+  "meta_title": "H. Swinkels Metaal 06-14435022",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Sittard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/sittard/h-swinkels-metaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

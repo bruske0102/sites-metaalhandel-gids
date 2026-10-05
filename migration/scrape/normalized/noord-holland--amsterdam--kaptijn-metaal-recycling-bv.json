@@ -1,0 +1,37 @@
+{
+  "id": 490053,
+  "slug": "kaptijn-metaal-recycling-bv",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Kaptijn Metaal Recycling BV",
+  "straat": "Zeeburgerpad 112/114",
+  "postcode": "1019AE",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6682817",
+  "email": null,
+  "website": "http://www.kapteijn-oudmetaal.nl",
+  "lat": 52.3670619,
+  "lon": 4.9485136,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/kaptijn-metaal-recycling-bv/",
+  "meta_title": "Kaptijn Metaal Recycling BV 020-6682817",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/amsterdam/kaptijn-metaal-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

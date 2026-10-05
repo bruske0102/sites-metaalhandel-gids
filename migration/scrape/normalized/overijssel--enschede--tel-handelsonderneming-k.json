@@ -1,0 +1,41 @@
+{
+  "id": 490397,
+  "slug": "tel-handelsonderneming-k",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Tel Handelsonderneming K",
+  "straat": "Bremstraat 33",
+  "postcode": "7531CG",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-24438220",
+  "email": null,
+  "website": "http://www.den-oudsten.nl",
+  "lat": 52.226555,
+  "lon": 6.915062,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/tel-handelsonderneming-k/",
+  "meta_title": "Tel Handelsonderneming K 06-24438220",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/enschede/tel-handelsonderneming-k/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

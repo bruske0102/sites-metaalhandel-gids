@@ -1,0 +1,31 @@
+{
+  "id": 490097,
+  "slug": "lubako",
+  "provincie": "gelderland",
+  "plaats": "barneveld",
+  "naam": "LUBAKO",
+  "straat": "Voltastraat 16/D",
+  "postcode": "3771RZ",
+  "plaatsnaam": "Barneveld",
+  "telefoon": "06-39491204",
+  "website": "http://www.bijkerk-recycling.nl",
+  "lat": 52.13545,
+  "lon": 5.599825,
+  "status": "gesloten",
+  "oude_url": "/gelderland/barneveld/lubako/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "LUBAKO 06-39491204",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Barneveld. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

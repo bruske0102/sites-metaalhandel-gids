@@ -1,0 +1,41 @@
+{
+  "id": 490429,
+  "slug": "vof-vd-tillart-vd-zande",
+  "provincie": "noord-brabant",
+  "plaats": "berlicum",
+  "naam": "VOF v.d. Tillart v.d. Zande",
+  "straat": "Hasseltsedijk 31",
+  "postcode": "5258SK",
+  "plaatsnaam": "Berlicum nb",
+  "telefoon": "073-5031815",
+  "email": null,
+  "website": null,
+  "lat": 51.689555,
+  "lon": 5.376601,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/berlicum/vof-vd-tillart-vd-zande/",
+  "meta_title": "VOF v.d. Tillart v.d. Zande 073-5031815",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Berlicum nb. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/berlicum/vof-vd-tillart-vd-zande/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

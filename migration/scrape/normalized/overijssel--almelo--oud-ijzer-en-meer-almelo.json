@@ -1,0 +1,37 @@
+{
+  "id": 490259,
+  "slug": "oud-ijzer-en-meer-almelo",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Oud IJzer en Meer Almelo",
+  "straat": "Rietstraat 76",
+  "postcode": "7601XN",
+  "plaatsnaam": "Almelo",
+  "telefoon": "06-10100457",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.347046,
+  "lon": 6.669015,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/almelo/oud-ijzer-en-meer-almelo/",
+  "meta_title": "Oud IJzer en Meer Almelo 06-10100457",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/almelo/oud-ijzer-en-meer-almelo/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

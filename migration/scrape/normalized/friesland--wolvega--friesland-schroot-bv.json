@@ -1,0 +1,37 @@
+{
+  "id": 490153,
+  "slug": "friesland-schroot-bv",
+  "provincie": "friesland",
+  "plaats": "wolvega",
+  "naam": "Friesland Schroot BV",
+  "straat": "Schuttevaerstraat 30",
+  "postcode": "8471ZZ",
+  "plaatsnaam": "Wolvega",
+  "telefoon": "0561-612202",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 52.885393,
+  "lon": 5.98806,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/wolvega/friesland-schroot-bv/",
+  "meta_title": "Friesland Schroot BV 0561-612202",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Wolvega. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/wolvega/friesland-schroot-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

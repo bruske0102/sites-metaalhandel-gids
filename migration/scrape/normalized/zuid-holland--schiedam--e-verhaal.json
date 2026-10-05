@@ -1,0 +1,41 @@
+{
+  "id": 489825,
+  "slug": "e-verhaal",
+  "provincie": "zuid-holland",
+  "plaats": "schiedam",
+  "naam": "E. Verhaal",
+  "straat": "Volkerakstraat 15",
+  "postcode": "3114WE",
+  "plaatsnaam": "Schiedam",
+  "telefoon": "010-4264451",
+  "email": null,
+  "website": null,
+  "lat": 51.907639,
+  "lon": 4.405426,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/schiedam/e-verhaal/",
+  "meta_title": "E. Verhaal 010-4264451",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schiedam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/schiedam/e-verhaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

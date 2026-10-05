@@ -1,0 +1,30 @@
+{
+  "id": 489833,
+  "slug": "eric-dozeman",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Eric Dozeman",
+  "straat": "R. Bouwmanstraat 2",
+  "postcode": "7815CV",
+  "plaatsnaam": "Emmen",
+  "telefoon": "06-11278492",
+  "lat": 52.802024,
+  "lon": 6.890607,
+  "status": "gesloten",
+  "oude_url": "/drenthe/emmen/eric-dozeman/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Eric Dozeman 06-11278492",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Emmen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

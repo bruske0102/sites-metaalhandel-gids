@@ -1,0 +1,41 @@
+{
+  "id": 489941,
+  "slug": "handelsonderneming-r-qaddouri",
+  "provincie": "utrecht",
+  "plaats": "rhenen",
+  "naam": "Handelsonderneming R. Qaddouri",
+  "straat": "De Spijnderstoren 1",
+  "postcode": "3912AW",
+  "plaatsnaam": "Rhenen",
+  "telefoon": "0317-619103",
+  "email": null,
+  "website": "http://www.tijoreuvers.nl",
+  "lat": 51.967124,
+  "lon": 5.565908,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/rhenen/handelsonderneming-r-qaddouri/",
+  "meta_title": "Handelsonderneming R. Qaddouri 0317-619103",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rhenen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/rhenen/handelsonderneming-r-qaddouri/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

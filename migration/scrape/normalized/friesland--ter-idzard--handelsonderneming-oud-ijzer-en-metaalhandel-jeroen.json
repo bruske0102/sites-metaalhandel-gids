@@ -1,0 +1,37 @@
+{
+  "id": 489939,
+  "slug": "handelsonderneming-oud-ijzer-en-metaalhandel-jeroen",
+  "provincie": "friesland",
+  "plaats": "ter-idzard",
+  "naam": "Handelsonderneming Oud IJzer en Metaalhandel Jeroen",
+  "straat": "Idzardaweg 41",
+  "postcode": "8476EN",
+  "plaatsnaam": "Ter Idzard",
+  "telefoon": "06-21421176",
+  "email": null,
+  "website": "http://www.firmadijksma.nl",
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/ter-idzard/handelsonderneming-oud-ijzer-en-metaalhandel-jeroen/",
+  "meta_title": "Handelsonderneming Oud IJzer en Metaalhandel Jeroen 06-21421176",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ter Idzard. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/ter-idzard/handelsonderneming-oud-ijzer-en-metaalhandel-jeroen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  }
+}

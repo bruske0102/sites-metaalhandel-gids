@@ -1,0 +1,41 @@
+{
+  "id": 489663,
+  "slug": "heg-zn-h-vd",
+  "provincie": "gelderland",
+  "plaats": "nijkerkerveen",
+  "naam": "Heg & Zn H vd",
+  "straat": "Schoolstraat 62",
+  "postcode": "3864MJ",
+  "plaatsnaam": "Nijkerkerveen",
+  "telefoon": "033-2571745",
+  "email": null,
+  "website": null,
+  "lat": 52.187925,
+  "lon": 5.479565,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/nijkerkerveen/heg-zn-h-vd/",
+  "meta_title": "Heg & Zn H vd 033-2571745",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijkerkerveen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijkerkerveen/heg-zn-h-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489721,
+  "slug": "a-schellings-bv",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "A. Schellings BV",
+  "straat": "Hart van Brabantlaan 467",
+  "postcode": "5038LG",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "013-5436373",
+  "email": null,
+  "website": "http://www.verhagenmetaalrecycling.nl",
+  "lat": 51.560449,
+  "lon": 5.068069,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/tilburg/a-schellings-bv/",
+  "meta_title": "A. Schellings BV 013-5436373",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tilburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/tilburg/a-schellings-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

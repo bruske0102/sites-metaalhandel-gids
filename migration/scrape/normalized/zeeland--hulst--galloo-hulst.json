@@ -1,0 +1,38 @@
+{
+  "id": 489616,
+  "slug": "galloo-hulst",
+  "provincie": "zeeland",
+  "plaats": "hulst",
+  "naam": "Galloo Hulst",
+  "straat": "Afrikaweg 10",
+  "postcode": "4561PA",
+  "plaatsnaam": "Hulst",
+  "telefoon": "0114-320617",
+  "email": "srh@galloo.com",
+  "website": "http://www.galloo.com",
+  "lat": 51.271802,
+  "lon": 4.037528,
+  "omschrijving": "Schroot Recycling Hulst maakt deel uit van de group Galloo Recycling die elk jaar opnieuw meer dan 1 miljoen ton staal, 60.000 ton metalen, 20.000 ton kunststoffen van de afvalberg houdt. Met die enorme verwerkingscapaciteit is het een van de belangrijkste recyclage-bedrijven in Europa. Door continue te investern in ieuwe technologieën streeft de group ernaar 100% te recyclen.\n\nDe optmale verwerking van schroot voor de staalindustrie; -- Aankoop aan particuliere, zelfstandigen, overheid en bedrijven\n- CASH BETALING !!!!\n- Eigen containerdienst\n- Sloopprojecten\n- Aankoop non-ferro materialen\n\ngiving the earth its second nature",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/hulst/galloo-hulst/",
+  "meta_title": "Galloo Hulst 0114-320617 srh@galloo.com",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hulst. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zeeland/hulst/galloo-hulst/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 489609,
+  "slug": "geelhoed-metaalhandel-bv",
+  "provincie": "zuid-holland",
+  "plaats": "nootdorp",
+  "naam": "Geelhoed Metaalhandel BV",
+  "straat": "Ambachtshof 2",
+  "postcode": "2632BB",
+  "plaatsnaam": "Nootdorp",
+  "telefoon": "015-2730570",
+  "email": "info@oudmetaalhandel.nl",
+  "website": "http://www.oudmetaalhandel.nl",
+  "lat": 52.050705,
+  "lon": 4.411081,
+  "omschrijving": "- Wij wegen uw metalen correct en betalen hoge prijzen voor soorten als nieuw en oud koper, aluminium, zink, oud ijzer, schroot, roestvrij staal, zink, lood, pvc kabel, accu's, etc. Bel ons voor actuele prijzen, of bezoek onze website voor meer informatie over ons bedrijf.\n\n- Geelhoed Metaalhandel is via de A12 snel en gemakkelijk bereikbaar vanuit Den Haag, Westland, Rijswijk, Delft, Zoetermeer, Leiden, Alphen aan den Rijn, Gouda, Rotterdam en Utrecht.\n\n- Geelhoed Metaalhandel is al bijna 60 jaar gespecialiseerd in inkoop en verwerking van oude metalen. U kunt terecht met uw aluminium, koper, lood, zink, roestvrijstaal, maar ook met ijzer (m.u.v. autowrakken, witgoed, brandblussers en gasflessen), koper- en aluminium kabel, loodaccus en edelmetaal kunt u terecht. Geelhoed onderscheidt zich door concurrerende prijzen en snelle, klantgerichte service.\n\n- Geelhoed Metaalhandel stelt containers ter beschikking in diverse soorten en maten zodat uw ferro en nonferro metalen op een efficiënte en milieuverantwoorde wijze worden afgevoerd. Bij regelmatige afvoer is een ruilsysteem mogelijk, zodat u steeds beschikt over de mogelijkheid uw metalen in één of meer containers op te slaan. Geelhoed kan desgewenst zorg dragen voor alle administratieve verplichtingen.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen",
+      "inkoop"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/nootdorp/geelhoed-metaalhandel-bv/",
+  "meta_title": "Geelhoed Metaalhandel BV 015-2730570 info@oudmetaalhandel.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nootdorp. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/nootdorp/geelhoed-metaalhandel-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

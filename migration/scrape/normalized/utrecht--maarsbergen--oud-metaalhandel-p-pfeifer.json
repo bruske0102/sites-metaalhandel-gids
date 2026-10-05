@@ -1,0 +1,37 @@
+{
+  "id": 489689,
+  "slug": "oud-metaalhandel-p-pfeifer",
+  "provincie": "utrecht",
+  "plaats": "maarsbergen",
+  "naam": "Oud Metaalhandel P Pfeifer",
+  "straat": "Griftdijk 1/B",
+  "postcode": "3953ML",
+  "plaatsnaam": "Maarsbergen",
+  "telefoon": "0343-431693",
+  "email": null,
+  "website": "http://www.oudmetaalhandelpfeifer.nl",
+  "lat": 52.063707,
+  "lon": 5.417652,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/maarsbergen/oud-metaalhandel-p-pfeifer/",
+  "meta_title": "Oud Metaalhandel P Pfeifer 0343-431693",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maarsbergen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/utrecht/maarsbergen/oud-metaalhandel-p-pfeifer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

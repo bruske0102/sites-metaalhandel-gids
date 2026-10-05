@@ -1,0 +1,41 @@
+{
+  "id": 489885,
+  "slug": "globe-recycling-bv",
+  "provincie": "gelderland",
+  "plaats": "hoenderloo",
+  "naam": "Globe Recycling BV",
+  "straat": "Weikamperweg 96",
+  "postcode": "7351TG",
+  "plaatsnaam": "Hoenderloo",
+  "telefoon": "055-3780818",
+  "email": null,
+  "website": "http://www.gschrijverbv.nl",
+  "lat": 52.133158,
+  "lon": 5.885922,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/hoenderloo/globe-recycling-bv/",
+  "meta_title": "Globe Recycling BV 055-3780818",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoenderloo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/hoenderloo/globe-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490321,
+  "slug": "remmers-oudijzerhandel-m",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Remmers Oudijzerhandel M",
+  "straat": "Alde Caerteruwe 17",
+  "postcode": "6218ER",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "06-15607560",
+  "email": null,
+  "website": "http://www.ecore.com",
+  "lat": 50.868472,
+  "lon": 5.657346,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/remmers-oudijzerhandel-m/",
+  "meta_title": "Remmers Oudijzerhandel M 06-15607560",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/remmers-oudijzerhandel-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

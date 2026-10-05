@@ -1,0 +1,31 @@
+{
+  "id": 489756,
+  "slug": "bel-h",
+  "provincie": "overijssel",
+  "plaats": "ommen",
+  "naam": "Bel H",
+  "straat": "Rotbrinksweg 6",
+  "postcode": "7731TC",
+  "plaatsnaam": "Ommen",
+  "telefoon": "06-15590482",
+  "website": "http://www.antoonhinderiks.nl",
+  "lat": 52.52904,
+  "lon": 6.420695,
+  "status": "gesloten",
+  "oude_url": "/overijssel/ommen/bel-h/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Bel H 06-15590482",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ommen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

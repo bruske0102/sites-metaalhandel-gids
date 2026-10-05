@@ -1,0 +1,30 @@
+{
+  "id": 489699,
+  "slug": "vd-venne-zn-fa-chris",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "Vd Venne & Zn Fa Chris",
+  "straat": "Suffolkweg Zuid 39",
+  "postcode": "6002RX",
+  "plaatsnaam": "Weert",
+  "telefoon": "0495-533177",
+  "lat": 51.251473,
+  "lon": 5.684397,
+  "status": "gesloten",
+  "oude_url": "/limburg/weert/vd-venne-zn-fa-chris/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Vd Venne & Zn Fa Chris 0495-533177",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

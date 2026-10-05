@@ -1,0 +1,37 @@
+{
+  "id": 489992,
+  "slug": "ijzerdraad-schroothandel",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "IJzerdraad Schroothandel",
+  "straat": "Jan Sluyterslaan 12",
+  "postcode": "2033TM",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-48109637",
+  "email": null,
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.377346,
+  "lon": 4.664333,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/ijzerdraad-schroothandel/",
+  "meta_title": "IJzerdraad Schroothandel 06-48109637",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Haarlem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/haarlem/ijzerdraad-schroothandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

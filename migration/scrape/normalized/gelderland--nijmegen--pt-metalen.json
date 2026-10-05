@@ -1,0 +1,37 @@
+{
+  "id": 490312,
+  "slug": "pt-metalen",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "PT Metalen",
+  "straat": "Tolhuis 7565",
+  "postcode": "6537SK",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "024-3447487",
+  "email": null,
+  "website": "http://www.jansenrecycling.nl",
+  "lat": 51.819428,
+  "lon": 5.785081,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijmegen/pt-metalen/",
+  "meta_title": "PT Metalen 024-3447487",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nijmegen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/nijmegen/pt-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

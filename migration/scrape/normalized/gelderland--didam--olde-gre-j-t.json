@@ -1,0 +1,37 @@
+{
+  "id": 490246,
+  "slug": "olde-gre-j-t",
+  "provincie": "gelderland",
+  "plaats": "didam",
+  "naam": "Olde GRE-J 't",
+  "straat": "Smallestraat 37",
+  "postcode": "6942HA",
+  "plaatsnaam": "Didam",
+  "telefoon": "06-33846021",
+  "email": null,
+  "website": "http://www.bakkermetaalrecycling.nl",
+  "lat": 51.931045,
+  "lon": 6.157754,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/didam/olde-gre-j-t/",
+  "meta_title": "Olde GRE-J 't 06-33846021",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Didam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/didam/olde-gre-j-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

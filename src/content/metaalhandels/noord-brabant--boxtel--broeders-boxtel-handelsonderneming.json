@@ -1,0 +1,31 @@
+{
+  "id": 489769,
+  "slug": "broeders-boxtel-handelsonderneming",
+  "provincie": "noord-brabant",
+  "plaats": "boxtel",
+  "naam": "Broeders Boxtel Handelsonderneming",
+  "straat": "De Renbaan 1",
+  "postcode": "5282HJ",
+  "plaatsnaam": "Boxtel",
+  "telefoon": "0411-683692",
+  "website": "http://www.broedersboxtel.nl",
+  "lat": 51.594315,
+  "lon": 5.297409,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/boxtel/broeders-boxtel-handelsonderneming/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Broeders Boxtel Handelsonderneming 0411-683692",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Boxtel. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

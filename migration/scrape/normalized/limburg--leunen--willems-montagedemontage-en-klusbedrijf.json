@@ -1,0 +1,41 @@
+{
+  "id": 490453,
+  "slug": "willems-montagedemontage-en-klusbedrijf",
+  "provincie": "limburg",
+  "plaats": "leunen",
+  "naam": "Willems Montage/Demontage en Klusbedrijf",
+  "straat": "Laagriebroekseweg 22",
+  "postcode": "5809ET",
+  "plaatsnaam": "Leunen",
+  "telefoon": "0478-581820",
+  "email": null,
+  "website": "http://www.henraath.nl",
+  "lat": 51.505178,
+  "lon": 5.995571,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/leunen/willems-montagedemontage-en-klusbedrijf/",
+  "meta_title": "Willems Montage/Demontage en Klusbedrijf 0478-581820",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leunen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/leunen/willems-montagedemontage-en-klusbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489887,
+  "slug": "graaf-metaal-recycling-j-w-de",
+  "provincie": "noord-holland",
+  "plaats": "purmerend",
+  "naam": "Graaf Metaal Recycling J W de",
+  "straat": "Amperestraat 1",
+  "postcode": "1446TP",
+  "plaatsnaam": "Purmerend",
+  "telefoon": "0299-476014",
+  "email": null,
+  "website": "http://www.deroeck.nl",
+  "lat": 52.516594,
+  "lon": 4.992959,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/purmerend/graaf-metaal-recycling-j-w-de/",
+  "meta_title": "Graaf Metaal Recycling J W de 0299-476014",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Purmerend. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/purmerend/graaf-metaal-recycling-j-w-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

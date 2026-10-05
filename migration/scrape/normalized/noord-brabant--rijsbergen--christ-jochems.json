@@ -1,0 +1,41 @@
+{
+  "id": 489781,
+  "slug": "christ-jochems",
+  "provincie": "noord-brabant",
+  "plaats": "rijsbergen",
+  "naam": "Christ Jochems",
+  "straat": "Bergakker 10",
+  "postcode": "4891NE",
+  "plaatsnaam": "Rijsbergen",
+  "telefoon": "06-22705456",
+  "email": null,
+  "website": "http://www.stolwerkmetaal.nl",
+  "lat": 51.51563,
+  "lon": 4.689614,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/rijsbergen/christ-jochems/",
+  "meta_title": "Christ Jochems 06-22705456",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijsbergen. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/rijsbergen/christ-jochems/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 490039,
+  "slug": "joka-ruurlo",
+  "provincie": "gelderland",
+  "plaats": "ruurlo",
+  "naam": "Joka Ruurlo",
+  "straat": "Ventersteeg 1",
+  "postcode": "7261RP",
+  "plaatsnaam": "Ruurlo",
+  "telefoon": "06-53105086",
+  "email": null,
+  "website": "http://www.heinhuis.nl",
+  "lat": 52.079292,
+  "lon": 6.459856,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/ruurlo/joka-ruurlo/",
+  "meta_title": "Joka Ruurlo 06-53105086",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ruurlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/ruurlo/joka-ruurlo/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

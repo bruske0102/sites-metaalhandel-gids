@@ -1,0 +1,41 @@
+{
+  "id": 490284,
+  "slug": "pelt-recycling-van",
+  "provincie": "zuid-holland",
+  "plaats": "ridderkerk",
+  "naam": "Pelt Recycling Van",
+  "straat": "Klompenmakerstraat 10",
+  "postcode": "2984BB",
+  "plaatsnaam": "Ridderkerk",
+  "telefoon": "085-4894330",
+  "email": null,
+  "website": "http://www.vanpeltrecycling.nl",
+  "lat": 51.879171,
+  "lon": 4.616291,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/ridderkerk/pelt-recycling-van/",
+  "meta_title": "Pelt Recycling Van 085-4894330",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ridderkerk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/ridderkerk/pelt-recycling-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

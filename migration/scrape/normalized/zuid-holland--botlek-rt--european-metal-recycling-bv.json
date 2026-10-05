@@ -1,0 +1,41 @@
+{
+  "id": 489845,
+  "slug": "european-metal-recycling-bv",
+  "provincie": "zuid-holland",
+  "plaats": "botlek-rt",
+  "naam": "European Metal Recycling BV",
+  "straat": "Quebecstraat 3",
+  "postcode": "3197KL",
+  "plaatsnaam": "Botlek rt",
+  "telefoon": "0181-291212",
+  "email": null,
+  "website": "http://www.vhmetals-ontruimingen.nl",
+  "lat": 51.892794,
+  "lon": 4.277756,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/botlek-rt/european-metal-recycling-bv/",
+  "meta_title": "European Metal Recycling BV 0181-291212",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Botlek rt. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/botlek-rt/european-metal-recycling-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 490252,
+  "slug": "oosterom-handel-in-metaal-w",
+  "provincie": "zuid-holland",
+  "plaats": "nieuwland",
+  "naam": "Oosterom Handel in Metaal W",
+  "straat": "Breezijde 23",
+  "postcode": "4243JN",
+  "plaatsnaam": "Nieuwland",
+  "telefoon": "0183-351205",
+  "email": null,
+  "website": "http://www.derooijrecycling.nl",
+  "lat": 51.894373,
+  "lon": 5.013475,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/nieuwland/oosterom-handel-in-metaal-w/",
+  "meta_title": "Oosterom Handel in Metaal W 0183-351205",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nieuwland. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/nieuwland/oosterom-handel-in-metaal-w/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

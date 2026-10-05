@@ -1,0 +1,41 @@
+{
+  "id": 489964,
+  "slug": "hendriks-vof-gebr",
+  "provincie": "drenthe",
+  "plaats": "coevorden",
+  "naam": "Hendriks VOF Gebr",
+  "straat": "Data 18",
+  "postcode": "7741MG",
+  "plaatsnaam": "Coevorden",
+  "telefoon": "0524-524055",
+  "email": null,
+  "website": null,
+  "lat": 52.662776,
+  "lon": 6.729451,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/coevorden/hendriks-vof-gebr/",
+  "meta_title": "Hendriks VOF Gebr 0524-524055",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Coevorden. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/coevorden/hendriks-vof-gebr/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

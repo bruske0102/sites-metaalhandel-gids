@@ -1,0 +1,41 @@
+{
+  "id": 490313,
+  "slug": "puffelen-j-w-van",
+  "provincie": "zuid-holland",
+  "plaats": "rijswijk",
+  "naam": "Puffelen J W van",
+  "straat": "Broekmolenweg 23",
+  "postcode": "2289BE",
+  "plaatsnaam": "Rijswijk zh",
+  "telefoon": "070-3989002",
+  "email": null,
+  "website": "http://www.vanpuffelenrijswijk.nl",
+  "lat": 52.02536,
+  "lon": 4.349371,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rijswijk/puffelen-j-w-van/",
+  "meta_title": "Puffelen J W van 070-3989002",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rijswijk zh. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rijswijk/puffelen-j-w-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

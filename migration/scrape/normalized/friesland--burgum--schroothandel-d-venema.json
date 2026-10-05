@@ -1,0 +1,37 @@
+{
+  "id": 490357,
+  "slug": "schroothandel-d-venema",
+  "provincie": "friesland",
+  "plaats": "burgum",
+  "naam": "Schroothandel D Venema",
+  "straat": "Hannelswei 3",
+  "postcode": "9251MR",
+  "plaatsnaam": "Burgum",
+  "telefoon": "0511-462428",
+  "email": null,
+  "website": "http://www.firmadijksma.nl",
+  "lat": 53.203071,
+  "lon": 5.983341,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/burgum/schroothandel-d-venema/",
+  "meta_title": "Schroothandel D Venema 0511-462428",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Burgum. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/burgum/schroothandel-d-venema/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

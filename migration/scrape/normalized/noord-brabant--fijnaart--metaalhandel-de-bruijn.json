@@ -1,0 +1,37 @@
+{
+  "id": 490186,
+  "slug": "metaalhandel-de-bruijn",
+  "provincie": "noord-brabant",
+  "plaats": "fijnaart",
+  "naam": "Metaalhandel De Bruijn",
+  "straat": "Prinses Beatrixstraat 11",
+  "postcode": "4793CV",
+  "plaatsnaam": "Fijnaart",
+  "telefoon": "06-49026703",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.637227,
+  "lon": 4.46441,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/fijnaart/metaalhandel-de-bruijn/",
+  "meta_title": "Metaalhandel De Bruijn 06-49026703",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Fijnaart. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/fijnaart/metaalhandel-de-bruijn/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

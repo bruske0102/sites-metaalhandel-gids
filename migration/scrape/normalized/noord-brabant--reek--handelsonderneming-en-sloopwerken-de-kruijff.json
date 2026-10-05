@@ -1,0 +1,41 @@
+{
+  "id": 489920,
+  "slug": "handelsonderneming-en-sloopwerken-de-kruijff",
+  "provincie": "noord-brabant",
+  "plaats": "reek",
+  "naam": "Handelsonderneming en Sloopwerken De Kruijff",
+  "straat": "Soeterstraat 13",
+  "postcode": "5375BG",
+  "plaatsnaam": "Reek",
+  "telefoon": "0487-573388",
+  "email": null,
+  "website": "http://www.hdek.nl",
+  "lat": 51.74548,
+  "lon": 5.68527,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/reek/handelsonderneming-en-sloopwerken-de-kruijff/",
+  "meta_title": "Handelsonderneming en Sloopwerken De Kruijff 0487-573388",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Reek. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/reek/handelsonderneming-en-sloopwerken-de-kruijff/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

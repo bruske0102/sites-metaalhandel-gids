@@ -1,0 +1,38 @@
+{
+  "id": 489649,
+  "slug": "franssen-metaalhandel-j",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Franssen Metaalhandel J",
+  "straat": "Oofthegge 6",
+  "postcode": "6225KD",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "06-51258141",
+  "email": null,
+  "website": "http://www.franssenmetaalrecycling.nl",
+  "lat": 50.860633,
+  "lon": 5.737914,
+  "omschrijving": "Bent u op zoek naar een betrouwbare afnemer van uw oud ijzer en metalen, met gunstige prijzen en snelle, klantgerichte service, dan is J. Franssen MetaalRecycling hét adres.\nDe activiteiten van J. Franssen MetaalRecycling bestaan uit in- en verkoop van ferro- en non-ferrometalen, zoals ijzer, aluminium, koper, zink, lood, draaisels en roestvrijstaal, maar ook kabels en elektromotoren en nog veel meer.\n\nDaarnaast bieden wij onze klanten de mogelijkheid om gebruik te maken van onze containerservice.\nVoor het vervoer en opslaan van het schroot en de metalen gebruiken wij containers in diverse soorten en maten.\n\nTevens beschikken wij ook over accubakken,kleine containers en andere bakken.\nWij plaatsen containers door heel Nederland,maar ook in Belgie en Duitsland.\n\nAlle in & verkoop vindt plaats tegen de geldende marktprijzen, of aan de hand van de afgesloten contracten.\nBetalingen worden in overeenstemming met de wensen van de klant gedaan.\n\nUw metalen en oud ijzer worden op een efficiënte en milieuverantwoorde wijze afgevoerd.\n\nTevens verrichten wij ook sloopwerkzaamheden zoals het vrijmaken van ijzer & metalen uit bedrijfshallen en bedrijfsterreinen voor allerlei groot- en kleinschalige sloopwerkzaamheden.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "non-ferro",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/franssen-metaalhandel-j/",
+  "meta_title": "Franssen Metaalhandel J 06-51258141",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Maastricht. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/maastricht/franssen-metaalhandel-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

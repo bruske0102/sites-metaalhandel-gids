@@ -1,0 +1,30 @@
+{
+  "id": 489870,
+  "slug": "gerrit-hofmeijer-doornspijk",
+  "provincie": "gelderland",
+  "plaats": "doornspijk",
+  "naam": "Gerrit Hofmeijer Doornspijk",
+  "straat": "Veldweg 38",
+  "postcode": "8085AW",
+  "plaatsnaam": "Doornspijk",
+  "telefoon": "0525-662135",
+  "lat": 52.421143,
+  "lon": 5.813368,
+  "status": "gesloten",
+  "oude_url": "/gelderland/doornspijk/gerrit-hofmeijer-doornspijk/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Gerrit Hofmeijer Doornspijk 0525-662135",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doornspijk. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

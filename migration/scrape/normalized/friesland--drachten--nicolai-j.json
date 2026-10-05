@@ -1,0 +1,41 @@
+{
+  "id": 489688,
+  "slug": "nicolai-j",
+  "provincie": "friesland",
+  "plaats": "drachten",
+  "naam": "Nicolai J",
+  "straat": "Janssenlaan 18",
+  "postcode": "9207JD",
+  "plaatsnaam": "Drachten",
+  "telefoon": "0512-514617",
+  "email": null,
+  "website": null,
+  "lat": 53.11469,
+  "lon": 6.140394,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/drachten/nicolai-j/",
+  "meta_title": "Nicolai J 0512-514617",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Drachten. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/drachten/nicolai-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

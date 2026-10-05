@@ -1,0 +1,37 @@
+{
+  "id": 490030,
+  "slug": "jgr-entertainment-metals",
+  "provincie": "overijssel",
+  "plaats": "oldenzaal",
+  "naam": "JGR Entertainment & Metals",
+  "straat": "Het Nardusboer 67",
+  "postcode": "7576WN",
+  "plaatsnaam": "Oldenzaal",
+  "telefoon": "06-30180594",
+  "email": null,
+  "website": null,
+  "lat": 52.317031,
+  "lon": 6.897493,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/oldenzaal/jgr-entertainment-metals/",
+  "meta_title": "JGR Entertainment & Metals 06-30180594",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldenzaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/oldenzaal/jgr-entertainment-metals/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 489956,
+  "slug": "haverhoek-kabel-en-metaalrecycling-t",
+  "provincie": "overijssel",
+  "plaats": "oldenzaal",
+  "naam": "Haverhoek Kabel en Metaalrecycling T",
+  "straat": "Huurnestraat 79",
+  "postcode": "7572VL",
+  "plaatsnaam": "Oldenzaal",
+  "telefoon": "06-13248560",
+  "email": null,
+  "website": null,
+  "lat": 52.314695,
+  "lon": 6.92116,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/oldenzaal/haverhoek-kabel-en-metaalrecycling-t/",
+  "meta_title": "Haverhoek Kabel en Metaalrecycling T 06-13248560",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oldenzaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/oldenzaal/haverhoek-kabel-en-metaalrecycling-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

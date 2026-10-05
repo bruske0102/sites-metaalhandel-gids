@@ -1,0 +1,41 @@
+{
+  "id": 490301,
+  "slug": "recycling-roose",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Recycling Roose",
+  "straat": "Sloot 89",
+  "postcode": "5912ET",
+  "plaatsnaam": "Venlo",
+  "telefoon": "06-53835076",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.360445,
+  "lon": 6.168019,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/venlo/recycling-roose/",
+  "meta_title": "Recycling Roose 06-53835076",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/recycling-roose/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

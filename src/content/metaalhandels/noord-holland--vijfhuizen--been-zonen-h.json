@@ -1,0 +1,32 @@
+{
+  "id": 489755,
+  "slug": "been-zonen-h",
+  "provincie": "noord-holland",
+  "plaats": "vijfhuizen",
+  "naam": "Been & Zonen H",
+  "straat": "Vijfhuizerdijk 248/A",
+  "postcode": "2141BL",
+  "plaatsnaam": "Vijfhuizen nh",
+  "telefoon": "06-53705832",
+  "website": "http://www.treffers-haarlem.nl",
+  "lat": 52.37829,
+  "lon": 4.685364,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/vijfhuizen/been-zonen-h/",
+  "email": "basbeen@planet.nl",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Been & Zonen H 06-53705832 basbeen@planet.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Vijfhuizen nh. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2170516,
+  "slug": "cohen-bv-sinds-1868",
+  "provincie": "friesland",
+  "plaats": "leeuwarden",
+  "naam": "Cohen BV sinds 1868",
+  "straat": "Greunsweg 8",
+  "postcode": "8937 AN",
+  "plaatsnaam": "Leeuwarden",
+  "telefoon": "0582123016",
+  "lat": 53.1964852,
+  "lon": 5.823383,
+  "status": "gesloten",
+  "oude_url": "/friesland/leeuwarden/cohen-bv-sinds-1868/",
+  "email": "cohen@live.nl",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Cohen BV sinds 1868 0582123016 cohen@live.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Leeuwarden. Dagprijs handel (Friesland).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

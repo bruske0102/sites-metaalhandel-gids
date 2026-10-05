@@ -1,0 +1,41 @@
+{
+  "id": 490150,
+  "slug": "frans-gerrits-handelsonderneming",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Frans Gerrits Handelsonderneming",
+  "straat": "Laan van Hilbelink 3",
+  "postcode": "7101WG",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-531683",
+  "email": null,
+  "website": "http://www.terhorstgroep.nl",
+  "lat": 51.970222,
+  "lon": 6.723928,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/winterswijk/frans-gerrits-handelsonderneming/",
+  "meta_title": "Frans Gerrits Handelsonderneming 0543-531683",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Winterswijk. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/winterswijk/frans-gerrits-handelsonderneming/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489823,
+  "slug": "duyts-handelsonderneming-g",
+  "provincie": "gelderland",
+  "plaats": "kerkdriel",
+  "naam": "Duyts Handelsonderneming G",
+  "straat": "Nijverheidsstraat 18",
+  "postcode": "5331PT",
+  "plaatsnaam": "Kerkdriel",
+  "telefoon": "0418-633181",
+  "lat": 51.772448,
+  "lon": 5.323236,
+  "status": "gesloten",
+  "oude_url": "/gelderland/kerkdriel/duyts-handelsonderneming-g/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Duyts Handelsonderneming G 0418-633181",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Kerkdriel. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

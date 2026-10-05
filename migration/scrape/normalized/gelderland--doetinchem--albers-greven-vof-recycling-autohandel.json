@@ -1,0 +1,41 @@
+{
+  "id": 489729,
+  "slug": "albers-greven-vof-recycling-autohandel",
+  "provincie": "gelderland",
+  "plaats": "doetinchem",
+  "naam": "Albers & Greven VOF Recycling & Autohandel",
+  "straat": "Zaagmolenpad 47",
+  "postcode": "7008AG",
+  "plaatsnaam": "Doetinchem",
+  "telefoon": "0314-646757",
+  "email": "admin@albersgrevenrecycling.nl",
+  "website": "http://www.albersgrevenrecycling.nl",
+  "lat": 51.970262,
+  "lon": 6.27149,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/doetinchem/albers-greven-vof-recycling-autohandel/",
+  "meta_title": "Albers & Greven VOF Recycling & Autohandel 0314-646757 admin@albersgrevenrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Doetinchem. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/doetinchem/albers-greven-vof-recycling-autohandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

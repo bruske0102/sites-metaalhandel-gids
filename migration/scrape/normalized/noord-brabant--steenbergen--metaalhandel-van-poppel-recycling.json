@@ -1,0 +1,37 @@
+{
+  "id": 490191,
+  "slug": "metaalhandel-van-poppel-recycling",
+  "provincie": "noord-brabant",
+  "plaats": "steenbergen",
+  "naam": "Metaalhandel Van Poppel Recycling",
+  "straat": "Westlandse Langeweg 26",
+  "postcode": "4651PD",
+  "plaatsnaam": "Steenbergen nb",
+  "telefoon": "06-24461179",
+  "email": null,
+  "website": "http://www.windmillmetalcompany.com",
+  "lat": 51.574139,
+  "lon": 4.308752,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/steenbergen/metaalhandel-van-poppel-recycling/",
+  "meta_title": "Metaalhandel Van Poppel Recycling 06-24461179",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Steenbergen nb. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/steenbergen/metaalhandel-van-poppel-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

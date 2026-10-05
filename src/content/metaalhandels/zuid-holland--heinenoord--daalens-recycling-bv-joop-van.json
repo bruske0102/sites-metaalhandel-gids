@@ -1,0 +1,31 @@
+{
+  "id": 489794,
+  "slug": "daalens-recycling-bv-joop-van",
+  "provincie": "zuid-holland",
+  "plaats": "heinenoord",
+  "naam": "Daalen's Recycling BV Joop van",
+  "straat": "Gorzenweg 11",
+  "postcode": "3274LL",
+  "plaatsnaam": "Heinenoord",
+  "telefoon": "0186-603522",
+  "website": "http://www.joopvandaalensrecycling.nl",
+  "lat": 51.819582,
+  "lon": 4.520509,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/heinenoord/daalens-recycling-bv-joop-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Daalen's Recycling BV Joop van 0186-603522",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Heinenoord. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

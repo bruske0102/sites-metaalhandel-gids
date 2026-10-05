@@ -1,0 +1,41 @@
+{
+  "id": 489831,
+  "slug": "empel-p-van",
+  "provincie": "noord-brabant",
+  "plaats": "ravenstein",
+  "naam": "Empel P van",
+  "straat": "Weemse Hof 1",
+  "postcode": "5371MA",
+  "plaatsnaam": "Ravenstein",
+  "telefoon": "0486-412045",
+  "email": null,
+  "website": "http://www.vanmunster.com",
+  "lat": 51.791218,
+  "lon": 5.637088,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/ravenstein/empel-p-van/",
+  "meta_title": "Empel P van 0486-412045",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Ravenstein. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/ravenstein/empel-p-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 490281,
+  "slug": "p-van-der-vaart",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "P. van der Vaart",
+  "straat": "Troelstralaan 86",
+  "postcode": "7204LG",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "0575-529105",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.131997,
+  "lon": 6.20752,
+  "status": "gesloten",
+  "oude_url": "/gelderland/zutphen/p-van-der-vaart/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "P. van der Vaart 0575-529105",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zutphen. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

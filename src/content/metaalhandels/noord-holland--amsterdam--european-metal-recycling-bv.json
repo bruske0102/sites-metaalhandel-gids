@@ -1,0 +1,31 @@
+{
+  "id": 489843,
+  "slug": "european-metal-recycling-bv",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "European Metal Recycling BV",
+  "straat": "Amerikahavenweg 3",
+  "postcode": "1045AA",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6116656",
+  "website": "http://www.blomamsterdam.nl",
+  "lat": 52.40566,
+  "lon": 4.78702,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/european-metal-recycling-bv/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "European Metal Recycling BV 020-6116656",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Amsterdam. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

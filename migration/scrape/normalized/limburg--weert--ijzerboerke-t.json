@@ -1,0 +1,37 @@
+{
+  "id": 489991,
+  "slug": "ijzerboerke-t",
+  "provincie": "limburg",
+  "plaats": "weert",
+  "naam": "IJzerboerke 't",
+  "straat": "Schoordijk 3",
+  "postcode": "6005PX",
+  "plaatsnaam": "Weert",
+  "telefoon": "06-53266531",
+  "email": null,
+  "website": "http://www.metaalhandelraaymakers.nl",
+  "lat": 51.239765,
+  "lon": 5.780035,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/weert/ijzerboerke-t/",
+  "meta_title": "IJzerboerke 't 06-53266531",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Weert. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/weert/ijzerboerke-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

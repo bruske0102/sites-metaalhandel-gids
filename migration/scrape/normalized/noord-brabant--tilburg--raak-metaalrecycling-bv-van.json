@@ -1,0 +1,37 @@
+{
+  "id": 490298,
+  "slug": "raak-metaalrecycling-bv-van",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "Raak Metaalrecycling BV Van",
+  "straat": "Ledeboerstraat 62",
+  "postcode": "5048AD",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "013-4678301",
+  "email": null,
+  "website": "http://www.raakrecycling.nl",
+  "lat": 51.583176,
+  "lon": 5.047118,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/tilburg/raak-metaalrecycling-bv-van/",
+  "meta_title": "Raak Metaalrecycling BV Van 013-4678301",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Tilburg. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/tilburg/raak-metaalrecycling-bv-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

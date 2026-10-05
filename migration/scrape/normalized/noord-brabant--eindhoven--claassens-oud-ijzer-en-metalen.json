@@ -1,0 +1,37 @@
+{
+  "id": 489782,
+  "slug": "claassens-oud-ijzer-en-metalen",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Claassens Oud IJzer en Metalen",
+  "straat": "Oude Doornakkersweg 19",
+  "postcode": "5641JH",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "040-8420165",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.439751,
+  "lon": 5.527028,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/claassens-oud-ijzer-en-metalen/",
+  "meta_title": "Claassens Oud IJzer en Metalen 040-8420165",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Eindhoven. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/eindhoven/claassens-oud-ijzer-en-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

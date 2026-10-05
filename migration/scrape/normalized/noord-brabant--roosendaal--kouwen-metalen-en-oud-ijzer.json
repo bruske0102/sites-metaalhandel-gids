@@ -1,0 +1,37 @@
+{
+  "id": 489674,
+  "slug": "kouwen-metalen-en-oud-ijzer",
+  "provincie": "noord-brabant",
+  "plaats": "roosendaal",
+  "naam": "Kouwen Metalen en Oud IJzer",
+  "straat": "Lariksberg 4",
+  "postcode": "4708LA",
+  "plaatsnaam": "Roosendaal",
+  "telefoon": "06-13447938",
+  "email": null,
+  "website": null,
+  "lat": 51.517929,
+  "lon": 4.432614,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/roosendaal/kouwen-metalen-en-oud-ijzer/",
+  "meta_title": "Kouwen Metalen en Oud IJzer 06-13447938",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Roosendaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/roosendaal/kouwen-metalen-en-oud-ijzer/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

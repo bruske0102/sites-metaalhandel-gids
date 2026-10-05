@@ -1,0 +1,28 @@
+{
+  "id": 489727,
+  "slug": "abc-metaal-recycling",
+  "provincie": "drenthe",
+  "plaats": "meppel",
+  "naam": "ABC Metaal Recycling",
+  "straat": "Zomerdijk 9/B1",
+  "postcode": "7942JR",
+  "plaatsnaam": "Meppel",
+  "telefoon": "0522-245850",
+  "website": "http://www.abcmetaalrecycling.nl",
+  "lat": 52.700068,
+  "lon": 6.177948,
+  "status": "actief",
+  "oude_url": "/drenthe/meppel/abc-metaal-recycling/",
+  "email": "info@abcmetaalrecycling.nl",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "ABC Metaal Recycling 0522-245850 info@abcmetaalrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Meppel. Dagprijs handel (None)."
+}

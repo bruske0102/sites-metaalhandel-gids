@@ -1,0 +1,41 @@
+{
+  "id": 489905,
+  "slug": "hp-thyssen",
+  "provincie": "zuid-holland",
+  "plaats": "den-bommel",
+  "naam": "H.P. Thyssen",
+  "straat": "Wijdeblik 16",
+  "postcode": "3258LX",
+  "plaatsnaam": "Den Bommel",
+  "telefoon": "06-53561735",
+  "email": null,
+  "website": "http://www.ksrecycling.nl",
+  "lat": 51.709351,
+  "lon": 4.284157,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/den-bommel/hp-thyssen/",
+  "meta_title": "H.P. Thyssen 06-53561735",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Den Bommel. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/den-bommel/hp-thyssen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

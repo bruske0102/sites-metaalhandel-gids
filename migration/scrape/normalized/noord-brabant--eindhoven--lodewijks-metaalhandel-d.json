@@ -1,0 +1,37 @@
+{
+  "id": 490090,
+  "slug": "lodewijks-metaalhandel-d",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Lodewijks Metaalhandel D",
+  "straat": "Leenderweg 265",
+  "postcode": "5643AJ",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "040-2449236",
+  "email": null,
+  "website": "http://www.helmondseschroothandel.nl",
+  "lat": 51.421061,
+  "lon": 5.495184,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/lodewijks-metaalhandel-d/",
+  "meta_title": "Lodewijks Metaalhandel D 040-2449236",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Eindhoven. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/eindhoven/lodewijks-metaalhandel-d/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

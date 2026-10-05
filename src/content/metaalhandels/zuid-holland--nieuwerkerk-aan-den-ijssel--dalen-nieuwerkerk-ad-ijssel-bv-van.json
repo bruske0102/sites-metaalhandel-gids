@@ -1,0 +1,30 @@
+{
+  "id": 489797,
+  "slug": "dalen-nieuwerkerk-ad-ijssel-bv-van",
+  "provincie": "zuid-holland",
+  "plaats": "nieuwerkerk-aan-den-ijssel",
+  "naam": "Dalen Nieuwerkerk Ad IJssel BV Van",
+  "straat": "Kortenoord 57",
+  "postcode": "2911BD",
+  "plaatsnaam": "Nieuwerkerk aan den IJssel",
+  "telefoon": "0180-312966",
+  "lat": 51.973314,
+  "lon": 4.643651,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/nieuwerkerk-aan-den-ijssel/dalen-nieuwerkerk-ad-ijssel-bv-van/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Dalen Nieuwerkerk Ad IJssel BV Van 0180-312966",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Nieuwerkerk aan den IJssel. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

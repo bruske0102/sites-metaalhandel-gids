@@ -1,0 +1,37 @@
+{
+  "id": 489908,
+  "slug": "hakos-schroothandel",
+  "provincie": "friesland",
+  "plaats": "oudehaske",
+  "naam": "Hakos Schroothandel",
+  "straat": "Jousterweg 14",
+  "postcode": "8465PJ",
+  "plaatsnaam": "Oudehaske",
+  "telefoon": "0513-677335",
+  "email": null,
+  "website": "http://www.mdh-dehorne.nl",
+  "lat": 52.954328,
+  "lon": 5.84881,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/oudehaske/hakos-schroothandel/",
+  "meta_title": "Hakos Schroothandel 0513-677335",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oudehaske. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/friesland/oudehaske/hakos-schroothandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

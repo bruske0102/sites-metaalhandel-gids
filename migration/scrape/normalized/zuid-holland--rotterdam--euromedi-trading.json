@@ -1,0 +1,41 @@
+{
+  "id": 489841,
+  "slug": "euromedi-trading",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Euromedi Trading",
+  "straat": "Riederlaan 59/A",
+  "postcode": "3074CC",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "06-84348623",
+  "email": null,
+  "website": null,
+  "lat": 51.894107,
+  "lon": 4.511925,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/rotterdam/euromedi-trading/",
+  "meta_title": "Euromedi Trading 06-84348623",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Rotterdam. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/zuid-holland/rotterdam/euromedi-trading/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

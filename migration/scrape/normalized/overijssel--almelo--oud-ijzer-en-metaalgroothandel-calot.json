@@ -1,0 +1,37 @@
+{
+  "id": 490270,
+  "slug": "oud-ijzer-en-metaalgroothandel-calot",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Oud IJzer- en Metaalgroothandel Calot",
+  "straat": "George Breitnerstraat 10",
+  "postcode": "7606HG",
+  "plaatsnaam": "Almelo",
+  "telefoon": "0546-810371",
+  "email": null,
+  "website": "http://www.calot.nl",
+  "lat": 52.34668,
+  "lon": 6.646181,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/almelo/oud-ijzer-en-metaalgroothandel-calot/",
+  "meta_title": "Oud IJzer- en Metaalgroothandel Calot 0546-810371",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Almelo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/almelo/oud-ijzer-en-metaalgroothandel-calot/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

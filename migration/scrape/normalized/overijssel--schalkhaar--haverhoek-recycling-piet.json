@@ -1,0 +1,37 @@
+{
+  "id": 489662,
+  "slug": "haverhoek-recycling-piet",
+  "provincie": "overijssel",
+  "plaats": "schalkhaar",
+  "naam": "Haverhoek Recycling Piet",
+  "straat": "Baarler Marsweg 6",
+  "postcode": "7433PE",
+  "plaatsnaam": "Schalkhaar",
+  "telefoon": "0570-551409",
+  "email": "info@piethaverhoekrecycling.nl",
+  "website": "http://www.piethaverhoekrecycling.nl",
+  "lat": 52.279241,
+  "lon": 6.22681,
+  "omschrijving": "Uw oud ijzer in Deventer niet zien als afgedankte troep, maar als basis voor een nieuw begin: dat is de visie van Piet Haverhoek Recycling.\n\nWe zamelen oude metalen - waar u waarschijnlijk niet veel meer mee kunt - in en schenken de materialen een nieuw leven door middel van verantwoorde recycling. Zo zijn uw afgedankte goederen verzekerd van een tweede zinvol leven. Uw oude ijzer en andere metalen kunt u altijd bij ons langsbrengen, maar we kunnen in overleg natuurlijk ook probleemloos langskomen om de goederen die u ter recycling wilt aanbieden op te komen halen.\n\nAls u daarvan gebruik wenst te maken, vragen we u vriendelijk om even contact met ons op te nemen. Afhankelijk van uw afgedankte goed kunnen we altijd een passende bestemming vinden. We hebben een uitgebreid netwerk van professionele, betrouwbare afnemers die oude 'rommel' tot praktische grondstof weten om te zetten.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/schalkhaar/haverhoek-recycling-piet/",
+  "meta_title": "Haverhoek Recycling Piet 0570-551409 info@piethaverhoekrecycling.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Schalkhaar. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/schalkhaar/haverhoek-recycling-piet/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

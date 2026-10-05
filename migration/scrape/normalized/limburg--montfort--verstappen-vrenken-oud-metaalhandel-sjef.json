@@ -1,0 +1,37 @@
+{
+  "id": 490422,
+  "slug": "verstappen-vrenken-oud-metaalhandel-sjef",
+  "provincie": "limburg",
+  "plaats": "montfort",
+  "naam": "Verstappen-Vrenken Oud Metaalhandel Sjef",
+  "straat": "Markt 2",
+  "postcode": "6065AW",
+  "plaatsnaam": "Montfort",
+  "telefoon": "0475-541230",
+  "email": null,
+  "website": "http://www.jozefverhoeven.nl",
+  "lat": 51.126457,
+  "lon": 5.947311,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/montfort/verstappen-vrenken-oud-metaalhandel-sjef/",
+  "meta_title": "Verstappen-Vrenken Oud Metaalhandel Sjef 0475-541230",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Montfort. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/montfort/verstappen-vrenken-oud-metaalhandel-sjef/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

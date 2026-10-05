@@ -1,0 +1,37 @@
+{
+  "id": 490469,
+  "slug": "zanting-recycl-zuidwolde-oudijzer-metalen",
+  "provincie": "drenthe",
+  "plaats": "zuidwolde",
+  "naam": "Zanting Recycl Zuidwolde Oudijzer Metalen",
+  "straat": "Industrieweg 32",
+  "postcode": "7921JP",
+  "plaatsnaam": "Zuidwolde dr",
+  "telefoon": "0528-370710",
+  "email": null,
+  "website": null,
+  "lat": 52.665681,
+  "lon": 6.437094,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/zuidwolde/zanting-recycl-zuidwolde-oudijzer-metalen/",
+  "meta_title": "Zanting Recycl Zuidwolde Oudijzer Metalen 0528-370710",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zuidwolde dr. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/drenthe/zuidwolde/zanting-recycl-zuidwolde-oudijzer-metalen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

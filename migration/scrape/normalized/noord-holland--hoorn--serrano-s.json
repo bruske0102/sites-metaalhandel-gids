@@ -1,0 +1,41 @@
+{
+  "id": 490364,
+  "slug": "serrano-s",
+  "provincie": "noord-holland",
+  "plaats": "hoorn",
+  "naam": "Serrano S",
+  "straat": "Jupiterhof 43",
+  "postcode": "1622BH",
+  "plaatsnaam": "Hoorn nh",
+  "telefoon": "06-58987878",
+  "email": null,
+  "website": "http://www.amquads.nl",
+  "lat": 52.643109,
+  "lon": 5.042606,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/hoorn/serrano-s/",
+  "meta_title": "Serrano S 06-58987878",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Hoorn nh. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/hoorn/serrano-s/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 489866,
+  "slug": "geert-tel",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Geert Tel",
+  "straat": "Transvaalplein 21",
+  "postcode": "7532PL",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-11321433",
+  "lat": 52.218556,
+  "lon": 6.943123,
+  "status": "gesloten",
+  "oude_url": "/overijssel/enschede/geert-tel/",
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "meta_title": "Geert Tel 06-11321433",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Enschede. Dagprijs handel (None).",
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

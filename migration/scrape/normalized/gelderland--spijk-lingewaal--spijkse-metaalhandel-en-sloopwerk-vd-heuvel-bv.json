@@ -1,0 +1,37 @@
+{
+  "id": 490377,
+  "slug": "spijkse-metaalhandel-en-sloopwerk-vd-heuvel-bv",
+  "provincie": "gelderland",
+  "plaats": "spijk-lingewaal",
+  "naam": "Spijkse Metaalhandel en Sloopwerk vd Heuvel BV",
+  "straat": "Zuiderlingedijk 32",
+  "postcode": "4211BG",
+  "plaatsnaam": "Spijk gem Lingewaal",
+  "telefoon": "0183-561203",
+  "email": null,
+  "website": "http://www.derooijrecycling.nl",
+  "lat": 51.855294,
+  "lon": 5.000358,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/spijk-lingewaal/spijkse-metaalhandel-en-sloopwerk-vd-heuvel-bv/",
+  "meta_title": "Spijkse Metaalhandel en Sloopwerk vd Heuvel BV 0183-561203",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Spijk gem Lingewaal. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/gelderland/spijk-lingewaal/spijkse-metaalhandel-en-sloopwerk-vd-heuvel-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 489732,
+  "slug": "alumeconl-bv",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Alumeconl BV",
+  "straat": "Ketelmeer 25",
+  "postcode": "5347JX",
+  "plaatsnaam": "Oss",
+  "telefoon": "06-22019864",
+  "email": "info@alumeco.nl",
+  "website": "http://www.alumeco.nl",
+  "lat": 51.77645,
+  "lon": 5.556964,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/oss/alumeconl-bv/",
+  "meta_title": "Alumeconl BV 06-22019864 info@alumeco.nl",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Oss. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-brabant/oss/alumeconl-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

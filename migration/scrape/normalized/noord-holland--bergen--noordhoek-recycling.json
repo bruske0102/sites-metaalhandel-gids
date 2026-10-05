@@ -1,0 +1,41 @@
+{
+  "id": 490241,
+  "slug": "noordhoek-recycling",
+  "provincie": "noord-holland",
+  "plaats": "bergen",
+  "naam": "Noordhoek Recycling",
+  "straat": "Stroomerlaan 23",
+  "postcode": "1861TJ",
+  "plaatsnaam": "Bergen nh",
+  "telefoon": "06-57992141",
+  "email": null,
+  "website": null,
+  "lat": 52.665365,
+  "lon": 4.704466,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/bergen/noordhoek-recycling/",
+  "meta_title": "Noordhoek Recycling 06-57992141",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Bergen nh. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/noord-holland/bergen/noordhoek-recycling/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no metaal/schroot signal)",
+    "pass": "off-niche-1c"
+  }
+}

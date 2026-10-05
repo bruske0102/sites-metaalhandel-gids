@@ -1,0 +1,37 @@
+{
+  "id": 490231,
+  "slug": "nb-ijzer-en-metaalhandel",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "NB ijzer en metaalhandel",
+  "straat": "Veldenseweg 98",
+  "postcode": "5914SV",
+  "plaatsnaam": "Venlo",
+  "telefoon": "06-25234047",
+  "email": null,
+  "website": "http://www.vmrvenlo.nl",
+  "lat": 51.38135,
+  "lon": 6.17915,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/venlo/nb-ijzer-en-metaalhandel/",
+  "meta_title": "NB ijzer en metaalhandel 06-25234047",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Venlo. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/limburg/venlo/nb-ijzer-en-metaalhandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

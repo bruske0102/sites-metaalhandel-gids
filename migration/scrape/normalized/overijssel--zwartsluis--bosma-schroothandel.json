@@ -1,0 +1,37 @@
+{
+  "id": 490136,
+  "slug": "bosma-schroothandel",
+  "provincie": "overijssel",
+  "plaats": "zwartsluis",
+  "naam": "Bosma Schroothandel",
+  "straat": "De Grote Kranerweerd 3",
+  "postcode": "8064PE",
+  "plaatsnaam": "Zwartsluis",
+  "telefoon": "038-3867228",
+  "email": null,
+  "website": "http://www.bosma-staalschroot.nl",
+  "lat": 52.638069,
+  "lon": 6.082329,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "oud-ijzer",
+      "ferro"
+    ],
+    "Dienst": [
+      "ophalen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwartsluis/bosma-schroothandel/",
+  "meta_title": "Bosma Schroothandel 038-3867228",
+  "meta_description": "Vergelijk kosten voor ophalen & inleveren oud ijzer en oude metalen Zwartsluis. Dagprijs handel (None).",
+  "_scrape": {
+    "source_url": "https://metaalhandel-gids.nl/overijssel/zwartsluis/bosma-schroothandel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}
